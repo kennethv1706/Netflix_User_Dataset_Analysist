@@ -1,0 +1,2501 @@
+SubscribeID,Subscription Type,Monthly Revenue,Join Date,Last Payment Date,Subscribe Duration,Country,Age,Gender,Device
+1,Basic,10,1/15/2022,10/6/2023,629,United States,28,Male,Smartphone
+3,Premium,15,5/9/2021,6/22/2023,774,Canada,35,Female,Tablet
+2,Standard,12,2/28/2023,6/27/2023,119,United Kingdom,42,Male,Smart TV
+2,Standard,12,10/7/2022,6/26/2023,262,Australia,51,Female,Laptop
+1,Basic,10,1/5/2023,6/28/2023,174,Germany,33,Male,Smartphone
+3,Premium,15,3/18/2022,6/27/2023,466,France,29,Female,Smart TV
+2,Standard,12,9/12/2021,6/25/2023,651,Brazil,46,Male,Tablet
+1,Basic,10,2/4/2023,6/24/2023,140,Mexico,39,Female,Laptop
+2,Standard,12,10/20/2022,6/23/2023,246,Spain,37,Male,Smartphone
+3,Premium,15,7/1/2023,6/22/2023,-9,Italy,44,Female,Smart TV
+1,Basic,10,5/16/2022,6/22/2023,402,United States,31,Female,Smartphone
+3,Premium,15,3/23/2023,6/28/2023,97,Canada,45,Male,Tablet
+2,Standard,12,11/30/2021,6/27/2023,574,United Kingdom,48,Female,Laptop
+1,Basic,10,1/8/2022,6/26/2023,534,Australia,27,Male,Smartphone
+2,Standard,12,9/5/2023,6/28/2023,-69,Germany,38,Female,Smart TV
+3,Premium,15,7/4/2022,6/27/2023,358,France,36,Male,Tablet
+1,Basic,10,1/24/2022,6/25/2023,517,Brazil,30,Female,Laptop
+2,Standard,12,10/18/2021,6/24/2023,614,Mexico,43,Male,Smartphone
+3,Premium,15,2/15/2023,6/23/2023,128,Spain,32,Female,Smart TV
+1,Basic,10,5/27/2023,6/22/2023,26,Italy,41,Male,Tablet
+3,Premium,15,10/6/2023,6/22/2023,-106,United States,26,Female,Laptop
+1,Basic,10,7/22/2022,6/28/2023,341,Canada,34,Male,Smartphone
+2,Standard,12,5/12/2021,6/27/2023,776,United Kingdom,49,Female,Smart TV
+2,Standard,12,3/4/2022,6/26/2023,479,Australia,31,Male,Tablet
+1,Basic,10,3/14/2023,6/28/2023,106,Germany,40,Female,Laptop
+3,Premium,15,12/1/2022,6/27/2023,208,France,29,Male,Smartphone
+1,Basic,10,8/29/2022,6/25/2023,300,Brazil,47,Female,Smart TV
+2,Standard,12,9/27/2021,6/24/2023,635,Mexico,33,Male,Tablet
+3,Premium,15,12/19/2022,6/23/2023,186,Spain,36,Female,Laptop
+1,Basic,10,5/17/2023,6/22/2023,36,Italy,42,Male,Smartphone
+3,Premium,15,3/2/2023,6/22/2023,112,United States,28,Female,Smart TV
+1,Basic,10,7/7/2022,6/28/2023,356,Canada,37,Male,Tablet
+2,Standard,12,1/21/2022,6/27/2023,522,United Kingdom,41,Female,Laptop
+2,Standard,12,5/25/2022,6/26/2023,397,Australia,29,Male,Smartphone
+1,Basic,10,11/4/2023,6/28/2023,-129,Germany,39,Female,Smart TV
+3,Premium,15,1/3/2022,6/27/2023,540,France,35,Male,Tablet
+1,Basic,10,9/14/2022,6/25/2023,284,Brazil,45,Female,Laptop
+2,Standard,12,5/11/2021,6/24/2023,774,Mexico,32,Male,Smartphone
+3,Premium,15,12/28/2022,6/23/2023,177,Spain,27,Female,Smart TV
+1,Basic,10,7/3/2023,6/22/2023,-11,Italy,48,Male,Tablet
+3,Premium,15,1/20/2023,6/22/2023,153,United States,31,Female,Laptop
+1,Basic,10,6/15/2022,6/28/2023,378,Canada,40,Male,Smartphone
+2,Standard,12,7/2/2022,6/27/2023,360,United Kingdom,36,Female,Smart TV
+2,Standard,12,4/26/2022,6/26/2023,426,Australia,29,Male,Tablet
+1,Basic,10,1/28/2023,6/28/2023,151,Germany,43,Female,Laptop
+3,Premium,15,2/23/2022,6/27/2023,489,France,34,Male,Smartphone
+1,Basic,10,5/10/2022,6/25/2023,411,Brazil,39,Female,Smart TV
+2,Standard,12,9/15/2021,6/24/2023,647,Mexico,32,Male,Tablet
+3,Premium,15,10/11/2022,6/23/2023,255,Spain,28,Female,Laptop
+1,Basic,10,2/6/2023,6/22/2023,136,Italy,45,Male,Smartphone
+3,Premium,15,2/27/2023,6/22/2023,115,United States,30,Female,Smart TV
+1,Basic,10,8/29/2022,6/28/2023,303,Canada,37,Male,Tablet
+2,Standard,12,1/13/2022,6/27/2023,530,United Kingdom,41,Female,Laptop
+2,Standard,12,6/30/2022,6/26/2023,361,Australia,29,Male,Smartphone
+1,Basic,10,4/20/2023,6/28/2023,69,Germany,39,Female,Smart TV
+3,Premium,15,3/15/2022,6/27/2023,469,France,36,Male,Tablet
+1,Basic,10,1/10/2022,6/25/2023,531,Brazil,46,Female,Laptop
+2,Standard,12,8/10/2021,6/24/2023,683,Mexico,34,Male,Smartphone
+3,Premium,15,3/12/2022,6/23/2023,468,Spain,27,Female,Smart TV
+1,Basic,10,6/14/2023,6/22/2023,8,Italy,42,Male,Tablet
+3,Premium,15,8/2/2023,6/22/2023,-41,United States,28,Female,Laptop
+1,Basic,10,3/8/2022,6/28/2023,477,Canada,37,Male,Smartphone
+2,Standard,12,2/23/2022,6/27/2023,489,United Kingdom,41,Female,Smart TV
+2,Standard,12,6/20/2022,6/26/2023,371,Australia,29,Male,Tablet
+1,Basic,10,3/29/2023,6/28/2023,91,Germany,40,Female,Laptop
+3,Premium,15,1/30/2022,6/27/2023,513,France,29,Male,Smartphone
+1,Basic,10,9/18/2022,6/25/2023,280,Brazil,47,Female,Smart TV
+2,Standard,12,9/11/2021,6/24/2023,651,Mexico,33,Male,Tablet
+3,Premium,15,12/23/2022,6/23/2023,182,Spain,36,Female,Laptop
+1,Basic,10,8/5/2023,6/22/2023,-44,Italy,41,Male,Smartphone
+1,Basic,10,1/26/2022,6/20/2023,510,United States,27,Male,Smartphone
+1,Basic,10,11/10/2022,6/22/2023,224,Canada,31,Female,Smartphone
+2,Standard,12,9/27/2022,6/26/2023,272,United Kingdom,28,Female,Laptop
+3,Premium,13,12/14/2022,6/25/2023,193,Australia,41,Female,Smartphone
+1,Basic,13,5/28/2022,6/26/2023,394,Germany,28,Female,Laptop
+1,Basic,13,12/29/2021,6/26/2023,544,France,51,Female,Laptop
+3,Premium,15,12/25/2022,6/23/2023,180,Brazil,45,Female,Smartphone
+2,Standard,15,11/18/2022,6/28/2023,222,Mexico,49,Male,Tablet
+2,Standard,15,3/12/2022,6/25/2023,470,Spain,43,Female,Laptop
+1,Basic,12,8/11/2022,6/22/2023,315,Italy,43,Male,Tablet
+3,Premium,10,11/1/2023,6/24/2023,-130,United States,37,Male,Tablet
+2,Standard,12,7/12/2022,6/28/2023,351,Canada,35,Male,Laptop
+1,Basic,10,10/20/2022,6/26/2023,249,United Kingdom,46,Female,Smartphone
+2,Standard,12,4/13/2023,6/25/2023,73,Australia,32,Male,Smartphone
+3,Premium,10,6/4/2023,6/27/2023,23,Germany,37,Female,Laptop
+1,Basic,11,4/3/2022,6/25/2023,448,France,29,Female,Smartphone
+3,Premium,15,12/28/2021,6/23/2023,542,Brazil,45,Male,Smart TV
+2,Standard,12,9/27/2022,6/28/2023,274,Mexico,47,Male,Tablet
+1,Basic,15,10/20/2022,6/26/2023,249,Spain,39,Male,Smartphone
+2,Standard,13,3/2/2023,6/23/2023,113,Italy,49,Female,Smartphone
+3,Premium,11,3/10/2022,6/23/2023,470,United States,39,Male,Tablet
+1,Basic,14,5/1/2022,6/28/2023,423,Canada,39,Male,Smart TV
+2,Standard,12,5/2/2022,6/26/2023,420,United Kingdom,35,Male,Smartphone
+3,Premium,12,3/19/2022,6/25/2023,463,Australia,44,Male,Smartphone
+1,Basic,11,2/28/2022,6/25/2023,482,Germany,34,Male,Laptop
+3,Premium,14,7/26/2022,6/24/2023,333,France,32,Male,Laptop
+1,Basic,10,5/3/2022,6/24/2023,417,Brazil,29,Female,Tablet
+2,Standard,13,7/3/2022,6/28/2023,360,Mexico,31,Female,Tablet
+2,Standard,12,1/13/2023,6/24/2023,162,Spain,29,Female,Tablet
+1,Basic,12,1/22/2023,6/25/2023,154,Italy,35,Male,Laptop
+3,Premium,11,10/17/2022,6/24/2023,250,United States,46,Female,Tablet
+1,Basic,12,3/29/2022,6/28/2023,456,Canada,31,Male,Tablet
+2,Standard,13,4/4/2022,6/26/2023,448,United Kingdom,36,Male,Laptop
+3,Premium,10,8/6/2022,6/25/2023,323,Australia,38,Male,Laptop
+1,Basic,11,4/3/2022,6/27/2023,450,Germany,46,Female,Laptop
+3,Premium,10,3/18/2022,6/24/2023,463,France,49,Female,Tablet
+1,Basic,14,7/3/2022,6/24/2023,356,Brazil,29,Female,Smart TV
+2,Standard,12,5/24/2022,6/25/2023,397,Mexico,27,Female,Smart TV
+2,Standard,13,8/2/2023,6/25/2023,-38,Spain,35,Female,Tablet
+1,Basic,13,1/26/2023,6/24/2023,149,Italy,37,Female,Laptop
+3,Premium,14,7/14/2022,6/27/2023,348,United States,40,Male,Tablet
+1,Basic,10,1/6/2022,6/28/2023,538,Canada,33,Female,Laptop
+2,Standard,15,7/5/2022,6/26/2023,356,United Kingdom,37,Male,Tablet
+3,Premium,10,11/18/2022,6/25/2023,219,Australia,48,Male,Smartphone
+1,Basic,11,5/4/2022,6/25/2023,417,Germany,50,Female,Laptop
+3,Premium,14,5/19/2022,6/23/2023,400,France,45,Female,Smart TV
+1,Basic,15,10/30/2021,6/23/2023,601,Brazil,40,Female,Tablet
+2,Standard,12,7/8/2022,6/27/2023,354,Mexico,33,Male,Smartphone
+2,Standard,11,9/20/2022,6/25/2023,278,Spain,44,Female,Smartphone
+1,Basic,10,10/18/2022,6/25/2023,250,Italy,30,Female,Smart TV
+3,Premium,15,3/10/2022,6/24/2023,471,United States,27,Male,Smart TV
+1,Basic,11,3/5/2022,6/28/2023,480,Canada,51,Male,Smart TV
+2,Standard,13,5/25/2022,6/26/2023,397,United Kingdom,49,Female,Smartphone
+3,Premium,15,5/11/2022,6/25/2023,410,Australia,43,Male,Laptop
+1,Basic,12,8/21/2022,6/24/2023,307,Germany,42,Male,Smartphone
+3,Premium,13,9/21/2022,6/23/2023,275,France,45,Male,Laptop
+1,Basic,10,11/23/2021,6/23/2023,577,Brazil,36,Male,Smartphone
+2,Standard,12,6/10/2022,6/27/2023,382,Mexico,48,Male,Smartphone
+2,Standard,13,5/11/2022,6/23/2023,408,Spain,38,Male,Smart TV
+1,Basic,14,7/1/2023,6/23/2023,-8,Italy,43,Female,Tablet
+3,Premium,15,6/10/2022,6/23/2023,378,United States,47,Male,Laptop
+1,Basic,15,6/24/2022,6/28/2023,369,Canada,48,Female,Smart TV
+2,Standard,13,6/24/2022,6/26/2023,367,United Kingdom,47,Male,Smart TV
+3,Premium,15,5/11/2022,6/25/2023,410,Australia,32,Male,Tablet
+1,Basic,13,7/18/2022,6/26/2023,343,Germany,47,Female,Smart TV
+3,Premium,12,9/13/2022,6/26/2023,286,France,41,Female,Smart TV
+1,Basic,12,10/8/2022,6/22/2023,257,Brazil,49,Male,Laptop
+2,Standard,15,9/21/2022,6/23/2023,275,Mexico,28,Male,Laptop
+2,Standard,13,3/24/2023,6/23/2023,91,Spain,40,Male,Smartphone
+1,Basic,12,2/5/2022,6/23/2023,503,Italy,43,Female,Smartphone
+3,Premium,12,11/5/2022,6/27/2023,234,United States,42,Male,Smartphone
+1,Basic,14,10/6/2022,6/22/2023,259,Canada,28,Male,Smart TV
+2,Standard,14,8/31/2022,6/24/2023,297,United Kingdom,30,Female,Tablet
+3,Premium,10,8/17/2022,6/26/2023,313,Australia,33,Male,Smart TV
+1,Basic,11,5/5/2022,6/26/2023,417,Germany,35,Female,Laptop
+1,Basic,10,6/10/2022,6/25/2023,380,France,38,Male,Tablet
+1,Basic,12,8/11/2022,6/24/2023,317,Brazil,49,Female,Laptop
+2,Standard,15,11/27/2022,6/28/2023,213,Mexico,39,Female,Smartphone
+3,Premium,13,11/17/2022,6/27/2023,222,Spain,46,Female,Smart TV
+1,Basic,10,12/15/2022,6/23/2023,190,Italy,47,Female,Laptop
+1,Basic,15,12/12/2022,6/25/2023,195,United States,30,Female,Laptop
+3,Premium,14,11/23/2022,6/27/2023,216,Canada,33,Female,Tablet
+2,Standard,11,12/25/2022,6/24/2023,181,United Kingdom,47,Male,Smartphone
+2,Standard,11,11/3/2023,6/27/2023,-129,Australia,27,Male,Laptop
+1,Basic,14,11/18/2022,6/27/2023,221,Germany,28,Male,Tablet
+3,Premium,15,8/19/2022,6/25/2023,310,France,47,Male,Smartphone
+2,Standard,14,9/27/2022,6/24/2023,270,Brazil,30,Male,Laptop
+1,Basic,13,10/19/2022,6/28/2023,252,Mexico,47,Female,Smartphone
+2,Standard,10,12/21/2022,6/26/2023,187,Spain,51,Female,Smart TV
+3,Premium,15,10/27/2022,6/25/2023,241,Italy,39,Male,Smartphone
+1,Basic,10,10/23/2022,6/24/2023,244,United States,45,Male,Tablet
+3,Premium,15,4/19/2022,6/25/2023,432,Canada,31,Male,Laptop
+2,Standard,11,5/4/2022,6/26/2023,418,United Kingdom,29,Male,Laptop
+1,Basic,11,11/3/2022,6/26/2023,235,Australia,42,Female,Tablet
+2,Standard,14,5/25/2022,6/25/2023,396,Germany,49,Male,Tablet
+3,Premium,13,4/16/2022,6/26/2023,436,France,42,Male,Laptop
+1,Basic,13,7/4/2022,6/24/2023,355,Brazil,29,Male,Smartphone
+2,Standard,10,11/12/2022,6/28/2023,228,Mexico,29,Male,Tablet
+3,Premium,12,1/20/2023,6/26/2023,157,Spain,49,Male,Tablet
+1,Basic,14,12/1/2023,6/25/2023,-159,Italy,32,Male,Laptop
+3,Premium,11,4/29/2022,6/24/2023,421,United States,35,Female,Tablet
+1,Basic,12,4/27/2022,6/26/2023,425,Canada,39,Female,Smartphone
+2,Standard,15,3/6/2022,6/25/2023,476,United Kingdom,40,Male,Smartphone
+2,Standard,14,4/23/2022,6/25/2023,428,Australia,39,Female,Tablet
+1,Basic,10,4/22/2022,6/26/2023,430,Germany,47,Female,Laptop
+3,Premium,13,12/4/2022,6/25/2023,203,France,37,Female,Smart TV
+1,Basic,15,5/23/2022,6/26/2023,399,Brazil,27,Female,Smartphone
+2,Standard,13,10/19/2022,6/26/2023,250,Mexico,49,Female,Laptop
+3,Premium,10,3/12/2022,6/26/2023,471,Spain,30,Female,Tablet
+1,Basic,14,9/26/2022,6/25/2023,272,Italy,36,Male,Laptop
+3,Premium,15,6/16/2022,6/27/2023,376,United States,33,Male,Smartphone
+1,Basic,13,5/16/2022,6/25/2023,405,Canada,30,Female,Laptop
+2,Standard,15,5/26/2022,6/26/2023,396,United Kingdom,36,Female,Tablet
+2,Standard,13,4/26/2022,6/25/2023,425,Australia,28,Female,Laptop
+1,Basic,11,12/5/2022,6/25/2023,202,Germany,47,Female,Tablet
+3,Premium,12,1/3/2022,6/25/2023,538,France,33,Female,Smart TV
+1,Basic,13,10/7/2022,6/24/2023,260,Brazil,49,Female,Laptop
+2,Standard,15,7/16/2022,6/27/2023,346,Mexico,44,Female,Smart TV
+3,Premium,13,2/9/2022,6/26/2023,502,Spain,47,Male,Smart TV
+1,Basic,11,9/18/2022,6/26/2023,281,Italy,37,Female,Tablet
+3,Premium,10,8/7/2022,6/25/2023,322,United States,46,Male,Laptop
+1,Basic,14,6/26/2022,6/27/2023,366,Canada,50,Female,Smartphone
+2,Standard,11,5/8/2022,6/25/2023,413,United Kingdom,50,Male,Laptop
+2,Standard,14,8/19/2022,6/27/2023,312,Australia,37,Male,Laptop
+1,Basic,11,8/26/2022,6/24/2023,302,Germany,50,Female,Smartphone
+3,Premium,13,9/6/2022,6/24/2023,291,France,45,Female,Smart TV
+1,Basic,14,9/27/2022,6/23/2023,269,Brazil,45,Male,Tablet
+2,Standard,10,10/18/2022,6/27/2023,252,Mexico,49,Female,Laptop
+3,Premium,14,10/31/2022,6/25/2023,237,Spain,39,Female,Tablet
+1,Basic,11,10/13/2022,6/25/2023,255,Italy,45,Female,Tablet
+3,Premium,11,4/7/2022,6/27/2023,446,United States,49,Female,Smart TV
+1,Basic,12,6/26/2022,6/27/2023,366,Canada,31,Female,Tablet
+2,Standard,13,7/31/2022,6/24/2023,328,United Kingdom,42,Female,Smart TV
+2,Standard,12,7/27/2022,6/24/2023,332,Australia,37,Male,Smartphone
+1,Basic,12,7/30/2022,6/25/2023,330,Germany,30,Male,Smart TV
+3,Premium,11,6/8/2022,6/25/2023,382,France,40,Male,Smartphone
+1,Basic,15,9/16/2022,6/24/2023,281,Brazil,45,Female,Smartphone
+2,Standard,15,5/1/2023,6/23/2023,53,Mexico,36,Female,Tablet
+3,Premium,11,10/12/2022,6/24/2023,255,Spain,41,Male,Laptop
+1,Basic,14,11/22/2022,6/26/2023,216,Italy,49,Female,Laptop
+3,Premium,15,11/15/2022,6/27/2023,224,United States,40,Male,Tablet
+1,Basic,11,10/28/2022,6/26/2023,241,Canada,36,Male,Smart TV
+2,Standard,12,8/9/2022,6/24/2023,319,United Kingdom,49,Female,Smart TV
+2,Standard,13,6/30/2022,6/28/2023,363,Australia,43,Female,Laptop
+1,Basic,13,2/9/2022,6/27/2023,503,Germany,50,Female,Smartphone
+3,Premium,14,8/10/2022,6/24/2023,318,France,51,Female,Smart TV
+1,Basic,15,11/13/2022,6/25/2023,224,Brazil,44,Male,Smart TV
+2,Standard,12,11/15/2022,6/28/2023,225,Mexico,27,Male,Tablet
+3,Premium,12,11/16/2022,6/25/2023,221,Spain,46,Female,Smartphone
+1,Basic,12,11/26/2022,6/27/2023,213,Italy,29,Male,Tablet
+1,Basic,12,11/26/2022,6/25/2023,211,United States,47,Male,Smartphone
+1,Basic,10,12/12/2022,6/26/2023,196,Canada,48,Female,Smartphone
+2,Standard,12,8/1/2023,6/25/2023,-37,United Kingdom,34,Female,Smartphone
+3,Premium,15,11/27/2022,6/29/2023,214,Australia,40,Female,Smartphone
+1,Basic,14,11/10/2022,6/27/2023,229,Germany,48,Female,Smartphone
+1,Basic,10,9/27/2022,6/26/2023,272,France,35,Male,Smartphone
+3,Premium,12,9/30/2022,6/24/2023,267,Brazil,51,Female,Smartphone
+2,Standard,10,4/11/2022,6/27/2023,442,Mexico,39,Male,Smart TV
+2,Standard,13,4/11/2022,6/27/2023,442,Spain,29,Male,Smartphone
+1,Basic,12,10/30/2022,6/26/2023,239,Italy,51,Male,Laptop
+3,Premium,11,10/29/2022,6/24/2023,238,United States,43,Male,Smartphone
+2,Standard,11,8/30/2022,6/27/2023,301,Canada,28,Male,Smartphone
+1,Basic,15,7/7/2022,6/26/2023,354,United Kingdom,50,Female,Smart TV
+2,Standard,14,5/26/2022,6/27/2023,397,Australia,44,Female,Laptop
+3,Premium,11,5/17/2022,6/25/2023,404,Germany,50,Male,Laptop
+1,Basic,11,8/5/2022,6/26/2023,325,France,39,Female,Smartphone
+3,Premium,13,7/7/2022,6/25/2023,353,Brazil,46,Female,Tablet
+2,Standard,15,7/17/2022,6/28/2023,346,Mexico,48,Male,Smartphone
+1,Basic,15,12/23/2022,6/26/2023,185,Spain,38,Male,Smart TV
+2,Standard,13,6/27/2022,6/26/2023,364,Italy,38,Male,Smartphone
+3,Premium,13,5/31/2022,6/27/2023,392,United States,47,Male,Laptop
+1,Basic,12,2/6/2022,6/26/2023,505,Canada,37,Male,Laptop
+2,Standard,11,5/25/2022,6/27/2023,398,United Kingdom,33,Male,Laptop
+3,Premium,15,4/26/2022,6/26/2023,426,Australia,28,Male,Smartphone
+1,Basic,13,4/20/2022,6/26/2023,432,Germany,47,Male,Smart TV
+3,Premium,11,3/5/2022,6/25/2023,477,France,38,Female,Smartphone
+1,Basic,12,7/7/2022,6/27/2023,355,Brazil,27,Male,Smart TV
+2,Standard,13,9/15/2022,6/26/2023,284,Mexico,34,Male,Smartphone
+2,Standard,14,9/16/2022,6/27/2023,284,Spain,42,Female,Smartphone
+1,Basic,14,9/8/2022,6/26/2023,291,Italy,28,Male,Laptop
+3,Premium,15,6/25/2022,6/27/2023,367,United States,30,Male,Laptop
+1,Basic,11,5/30/2022,6/26/2023,392,Canada,38,Female,Smartphone
+2,Standard,15,5/21/2022,6/25/2023,400,United Kingdom,45,Female,Tablet
+3,Premium,12,5/20/2022,6/27/2023,403,Australia,48,Female,Smart TV
+1,Basic,13,5/20/2022,6/26/2023,402,Germany,46,Female,Smart TV
+3,Premium,12,5/30/2022,6/26/2023,392,France,34,Male,Tablet
+1,Basic,13,6/17/2022,6/25/2023,373,Brazil,46,Male,Laptop
+2,Standard,11,7/16/2022,6/28/2023,347,Mexico,41,Female,Smartphone
+2,Standard,15,5/8/2022,6/26/2023,414,Spain,28,Male,Smartphone
+1,Basic,10,7/17/2022,6/26/2023,344,Italy,27,Female,Smartphone
+3,Premium,13,4/7/2022,6/25/2023,444,United States,27,Female,Smart TV
+1,Basic,12,7/13/2022,6/26/2023,348,Canada,28,Female,Tablet
+2,Standard,15,7/25/2022,6/24/2023,334,United Kingdom,46,Male,Smartphone
+3,Premium,10,9/8/2022,6/27/2023,292,Australia,51,Male,Smartphone
+1,Basic,11,5/8/2022,6/25/2023,413,Germany,32,Female,Smart TV
+3,Premium,10,8/17/2022,6/26/2023,313,France,44,Male,Tablet
+1,Basic,11,8/9/2022,6/27/2023,322,Brazil,44,Female,Laptop
+2,Standard,13,10/16/2022,6/28/2023,255,Mexico,34,Female,Smart TV
+2,Standard,13,10/15/2022,6/25/2023,253,Spain,29,Female,Laptop
+1,Basic,12,4/9/2022,6/25/2023,442,Italy,47,Male,Smart TV
+3,Premium,14,8/20/2022,6/26/2023,310,United States,41,Male,Laptop
+1,Basic,10,10/8/2022,6/26/2023,261,Canada,36,Female,Smartphone
+2,Standard,12,2/8/2022,6/25/2023,502,United Kingdom,28,Female,Laptop
+3,Premium,10,1/8/2022,6/24/2023,532,Australia,27,Female,Tablet
+1,Basic,15,6/8/2022,6/25/2023,382,Germany,34,Female,Laptop
+3,Premium,14,9/8/2022,6/25/2023,290,France,34,Female,Smart TV
+1,Basic,13,12/9/2022,6/26/2023,199,Brazil,37,Female,Tablet
+2,Standard,14,9/27/2022,6/26/2023,272,Mexico,34,Female,Laptop
+2,Standard,15,12/11/2022,6/24/2023,195,Spain,50,Female,Laptop
+1,Basic,12,11/13/2022,6/27/2023,226,Italy,34,Female,Laptop
+3,Premium,12,2/11/2022,6/28/2023,502,United States,33,Female,Smart TV
+1,Basic,11,10/30/2022,6/25/2023,238,Canada,33,Male,Smart TV
+2,Standard,15,6/30/2022,6/26/2023,361,United Kingdom,46,Male,Smartphone
+3,Premium,14,4/8/2022,6/28/2023,446,Australia,39,Female,Smartphone
+1,Basic,10,1/9/2022,6/27/2023,534,Germany,42,Female,Laptop
+3,Premium,14,10/14/2022,6/27/2023,256,France,50,Female,Laptop
+1,Basic,10,10/16/2022,6/26/2023,253,Brazil,43,Male,Smartphone
+2,Standard,14,10/20/2022,6/28/2023,251,Mexico,51,Male,Smart TV
+2,Standard,15,11/20/2022,6/25/2023,217,Spain,34,Female,Smart TV
+1,Basic,12,11/25/2022,6/30/2023,217,Italy,48,Male,Smartphone
+3,Premium,13,4/12/2022,6/27/2023,441,United States,29,Female,Tablet
+1,Basic,11,12/12/2022,6/27/2023,197,Canada,43,Female,Laptop
+2,Standard,14,9/12/2022,6/25/2023,286,United Kingdom,39,Female,Laptop
+3,Premium,10,10/15/2022,6/29/2023,257,Australia,50,Male,Laptop
+1,Basic,14,3/10/2022,6/27/2023,474,Germany,45,Male,Laptop
+1,Basic,12,1/10/2022,6/27/2023,533,France,48,Female,Tablet
+1,Basic,13,2/11/2022,6/24/2023,498,Brazil,40,Male,Smartphone
+2,Standard,14,3/11/2022,6/27/2023,473,Mexico,41,Male,Tablet
+3,Premium,10,10/30/2022,6/27/2023,240,Spain,27,Male,Smartphone
+1,Basic,11,10/30/2022,6/28/2023,241,Italy,36,Male,Laptop
+1,Basic,10,9/27/2022,6/24/2023,270,United States,36,Female,Laptop
+3,Premium,11,9/14/2022,6/27/2023,286,Canada,44,Male,Tablet
+2,Standard,12,11/6/2022,6/26/2023,232,United Kingdom,45,Male,Tablet
+2,Standard,12,11/6/2022,6/29/2023,235,Australia,33,Female,Smartphone
+1,Basic,13,5/24/2022,6/26/2023,398,Germany,47,Male,Smart TV
+3,Premium,13,6/7/2022,6/27/2023,385,France,45,Male,Tablet
+2,Standard,11,8/7/2022,6/28/2023,325,Brazil,29,Female,Smart TV
+1,Basic,13,10/27/2022,6/27/2023,243,Mexico,31,Male,Smart TV
+2,Standard,11,9/8/2022,6/28/2023,293,Spain,31,Male,Smartphone
+3,Premium,15,6/14/2022,6/26/2023,377,Italy,49,Female,Smartphone
+1,Basic,15,7/6/2022,6/27/2023,356,United States,29,Female,Smartphone
+3,Premium,12,5/27/2022,6/26/2023,395,Canada,50,Male,Laptop
+2,Standard,13,5/27/2022,6/27/2023,396,United Kingdom,36,Female,Laptop
+1,Basic,10,4/21/2022,6/26/2023,431,Australia,28,Male,Laptop
+2,Standard,15,4/28/2022,6/27/2023,425,Germany,47,Female,Smart TV
+3,Premium,12,5/27/2022,6/25/2023,394,France,50,Female,Laptop
+1,Basic,15,8/25/2022,6/28/2023,307,Brazil,44,Female,Tablet
+2,Standard,10,2/9/2022,6/27/2023,503,Mexico,39,Female,Laptop
+3,Premium,14,8/22/2022,6/26/2023,308,Spain,32,Female,Smartphone
+1,Basic,15,2/8/2022,6/27/2023,504,Italy,30,Female,Laptop
+3,Premium,12,6/22/2022,6/27/2023,370,United States,33,Female,Smartphone
+1,Basic,15,4/6/2022,6/27/2023,447,Canada,44,Male,Smartphone
+2,Standard,14,5/31/2022,6/26/2023,391,United Kingdom,40,Male,Smartphone
+2,Standard,15,5/22/2022,6/27/2023,401,Australia,32,Male,Tablet
+1,Basic,13,5/29/2022,6/27/2023,394,Germany,32,Male,Tablet
+3,Premium,11,11/6/2022,6/27/2023,233,France,30,Male,Smartphone
+1,Basic,12,6/7/2022,6/26/2023,384,Brazil,32,Female,Smartphone
+2,Standard,12,7/26/2022,6/27/2023,336,Mexico,45,Female,Tablet
+3,Premium,11,7/22/2022,6/25/2023,338,Spain,35,Female,Smart TV
+1,Basic,10,6/7/2022,6/26/2023,384,Italy,40,Female,Smart TV
+3,Premium,14,8/7/2022,6/26/2023,323,United States,29,Female,Tablet
+1,Basic,14,7/22/2022,6/26/2023,339,Canada,31,Male,Tablet
+2,Standard,15,7/24/2022,6/27/2023,338,United Kingdom,43,Female,Smart TV
+2,Standard,11,7/28/2022,6/28/2023,335,Australia,34,Male,Smart TV
+1,Basic,10,11/8/2022,6/25/2023,229,Germany,47,Female,Tablet
+3,Premium,12,2/9/2022,6/26/2023,502,France,35,Male,Laptop
+1,Basic,13,11/10/2022,6/27/2023,229,Brazil,36,Male,Laptop
+2,Standard,12,10/15/2022,6/27/2023,255,Mexico,33,Male,Tablet
+3,Premium,13,5/10/2022,6/25/2023,411,Spain,30,Female,Laptop
+1,Basic,14,9/13/2022,6/25/2023,285,Italy,44,Female,Smartphone
+3,Premium,13,8/24/2022,6/26/2023,306,United States,44,Female,Laptop
+1,Basic,11,9/8/2022,6/26/2023,291,Canada,41,Female,Laptop
+2,Standard,13,6/8/2022,6/25/2023,382,United Kingdom,46,Male,Smart TV
+2,Standard,13,7/8/2022,6/26/2023,353,Australia,42,Female,Smartphone
+1,Basic,10,8/8/2022,6/25/2023,321,Germany,48,Female,Smart TV
+3,Premium,15,8/31/2022,6/26/2023,299,France,37,Male,Tablet
+1,Basic,14,9/21/2022,6/28/2023,280,Brazil,29,Male,Smartphone
+2,Standard,14,5/10/2022,6/26/2023,412,Mexico,30,Male,Smart TV
+3,Premium,14,2/11/2022,6/26/2023,500,Spain,28,Male,Smartphone
+1,Basic,10,2/11/2022,6/28/2023,502,Italy,44,Female,Smartphone
+3,Premium,11,2/11/2022,6/28/2023,502,United States,34,Female,Smart TV
+1,Basic,10,9/20/2022,6/26/2023,279,Canada,38,Male,Laptop
+2,Standard,14,10/8/2022,6/26/2023,261,United Kingdom,34,Female,Smartphone
+2,Standard,10,8/16/2022,6/28/2023,316,Australia,40,Female,Laptop
+1,Basic,15,12/10/2022,6/27/2023,199,Germany,32,Female,Tablet
+3,Premium,11,10/14/2022,6/30/2023,259,France,38,Male,Smart TV
+1,Basic,15,10/18/2022,6/26/2023,251,Brazil,39,Male,Smartphone
+2,Standard,12,11/11/2022,6/28/2023,229,Mexico,34,Female,Smart TV
+3,Premium,11,11/20/2022,6/26/2023,218,Spain,41,Male,Smartphone
+1,Basic,15,11/21/2022,6/30/2023,221,Italy,43,Female,Tablet
+3,Premium,12,11/25/2022,6/28/2023,215,United States,36,Female,Laptop
+1,Basic,11,8/12/2022,6/27/2023,319,Canada,31,Male,Laptop
+2,Standard,12,1/11/2022,6/25/2023,530,United Kingdom,47,Female,Smart TV
+2,Standard,14,12/10/2022,6/29/2023,201,Australia,48,Male,Smart TV
+1,Basic,11,10/13/2022,6/27/2023,257,Germany,36,Male,Laptop
+3,Premium,12,10/17/2022,6/29/2023,255,France,41,Male,Smart TV
+1,Basic,13,10/23/2022,6/25/2023,245,Brazil,32,Male,Laptop
+2,Standard,13,10/24/2022,6/28/2023,247,Mexico,28,Male,Smartphone
+3,Premium,12,10/25/2022,6/27/2023,245,Spain,46,Female,Smartphone
+1,Basic,11,10/22/2022,6/29/2023,250,Italy,46,Female,Smartphone
+1,Basic,11,9/30/2022,6/25/2023,268,United States,47,Male,Tablet
+1,Basic,11,6/9/2022,6/27/2023,383,Canada,31,Female,Tablet
+2,Standard,10,6/18/2022,6/26/2023,373,United Kingdom,44,Female,Tablet
+3,Premium,10,12/6/2022,6/28/2023,204,Australia,39,Female,Laptop
+1,Basic,14,6/17/2022,6/28/2023,376,Germany,44,Female,Laptop
+1,Basic,12,6/20/2022,6/27/2023,372,France,39,Female,Smartphone
+3,Premium,12,8/27/2022,6/28/2023,305,Brazil,37,Male,Laptop
+2,Standard,14,8/13/2022,6/27/2023,318,Mexico,47,Female,Laptop
+2,Standard,10,12/8/2022,6/28/2023,202,Spain,46,Female,Smart TV
+1,Basic,15,5/8/2022,6/27/2023,415,Italy,27,Female,Smart TV
+3,Premium,10,7/14/2022,6/27/2023,348,United States,43,Female,Laptop
+2,Standard,10,7/6/2022,6/26/2023,355,Canada,51,Male,Smart TV
+1,Basic,10,1/6/2022,6/27/2023,537,United Kingdom,49,Male,Smart TV
+2,Standard,10,5/19/2022,6/28/2023,405,Australia,35,Female,Smartphone
+3,Premium,15,5/22/2022,6/27/2023,401,Germany,44,Male,Smartphone
+1,Basic,14,11/7/2022,6/26/2023,231,France,48,Male,Tablet
+3,Premium,11,7/19/2022,6/28/2023,344,Brazil,39,Female,Tablet
+2,Standard,12,7/21/2022,6/28/2023,342,Mexico,38,Male,Laptop
+1,Basic,14,2/8/2022,6/26/2023,503,Spain,45,Male,Smart TV
+2,Standard,13,3/7/2022,6/28/2023,478,Italy,43,Female,Laptop
+3,Premium,13,6/23/2022,6/27/2023,369,United States,42,Male,Laptop
+1,Basic,15,3/6/2022,6/28/2023,479,Canada,28,Male,Smart TV
+2,Standard,10,3/6/2022,6/26/2023,477,United Kingdom,40,Male,Tablet
+3,Premium,14,5/30/2022,6/27/2023,393,Australia,41,Female,Tablet
+1,Basic,12,5/6/2022,6/26/2023,416,Germany,45,Female,Laptop
+3,Premium,14,10/6/2022,6/27/2023,264,France,30,Female,Smartphone
+1,Basic,11,7/14/2022,6/26/2023,347,Brazil,31,Female,Smartphone
+2,Standard,13,7/15/2022,6/27/2023,347,Mexico,51,Female,Tablet
+2,Standard,12,7/14/2022,6/25/2023,346,Spain,44,Female,Smartphone
+1,Basic,14,7/13/2022,6/27/2023,349,Italy,49,Male,Laptop
+3,Premium,12,7/17/2022,6/26/2023,344,United States,47,Female,Laptop
+1,Basic,14,7/21/2022,6/26/2023,340,Canada,42,Male,Smartphone
+2,Standard,13,7/23/2022,6/28/2023,340,United Kingdom,28,Male,Smartphone
+3,Premium,13,1/8/2022,6/28/2023,536,Australia,28,Male,Smartphone
+1,Basic,13,6/8/2022,6/26/2023,383,Germany,49,Female,Tablet
+3,Premium,12,8/19/2022,6/26/2023,311,France,32,Female,Smartphone
+1,Basic,12,8/26/2022,6/27/2023,305,Brazil,37,Female,Tablet
+2,Standard,13,9/27/2022,6/27/2023,273,Mexico,37,Female,Tablet
+2,Standard,14,9/15/2022,6/25/2023,283,Spain,37,Male,Smartphone
+1,Basic,15,2/9/2022,6/25/2023,501,Italy,37,Male,Smart TV
+3,Premium,14,3/9/2022,6/26/2023,474,United States,48,Female,Tablet
+1,Basic,12,3/9/2022,6/26/2023,474,Canada,47,Male,Laptop
+2,Standard,13,8/24/2022,6/26/2023,306,United Kingdom,41,Female,Smartphone
+3,Premium,14,8/21/2022,6/27/2023,310,Australia,47,Female,Laptop
+1,Basic,13,8/23/2022,6/25/2023,306,Germany,39,Female,Smartphone
+3,Premium,10,2/9/2022,6/26/2023,502,France,28,Male,Tablet
+1,Basic,14,9/21/2022,6/29/2023,281,Brazil,31,Male,Smart TV
+2,Standard,14,10/21/2022,6/27/2023,249,Mexico,47,Female,Smart TV
+2,Standard,11,10/30/2022,6/27/2023,240,Spain,27,Female,Laptop
+1,Basic,10,2/11/2022,6/28/2023,502,Italy,28,Male,Laptop
+3,Premium,14,10/16/2022,6/28/2023,255,United States,33,Male,Tablet
+1,Basic,14,9/15/2022,6/29/2023,287,Canada,29,Female,Tablet
+2,Standard,15,12/9/2022,6/27/2023,200,United Kingdom,41,Male,Smartphone
+3,Premium,12,9/18/2022,6/29/2023,284,Australia,28,Female,Tablet
+1,Basic,13,4/10/2022,6/27/2023,443,Germany,38,Male,Tablet
+3,Premium,15,5/10/2022,6/30/2023,416,France,35,Male,Laptop
+1,Basic,11,6/11/2022,6/26/2023,380,Brazil,51,Male,Smart TV
+2,Standard,12,11/17/2022,6/28/2023,223,Mexico,45,Male,Smartphone
+2,Standard,14,11/18/2022,6/26/2023,220,Spain,51,Male,Laptop
+1,Basic,14,11/22/2022,6/30/2023,220,Italy,46,Female,Smart TV
+3,Premium,15,4/12/2022,6/28/2023,442,United States,28,Male,Smart TV
+1,Basic,12,11/19/2022,6/30/2023,223,Canada,46,Female,Smart TV
+2,Standard,11,6/11/2022,6/25/2023,379,United Kingdom,46,Female,Smartphone
+3,Premium,12,10/15/2022,6/29/2023,257,Australia,32,Female,Laptop
+1,Basic,11,10/17/2022,6/28/2023,254,Germany,39,Female,Smart TV
+3,Premium,11,10/19/2022,6/29/2023,253,France,41,Female,Smartphone
+1,Basic,13,10/23/2022,6/25/2023,245,Brazil,47,Male,Smart TV
+2,Standard,12,10/24/2022,6/28/2023,247,Mexico,35,Male,Smart TV
+2,Standard,12,10/23/2022,6/27/2023,247,Spain,37,Female,Smart TV
+1,Basic,11,10/10/2022,6/29/2023,262,Italy,47,Male,Tablet
+3,Premium,13,5/10/2022,6/28/2023,414,United States,48,Female,Laptop
+1,Basic,12,1/7/2022,6/27/2023,536,Canada,30,Female,Laptop
+2,Standard,10,1/7/2022,6/27/2023,536,United Kingdom,36,Male,Smart TV
+3,Premium,10,6/25/2022,6/28/2023,368,Australia,50,Female,Smartphone
+1,Basic,12,6/24/2022,6/28/2023,369,Germany,41,Male,Tablet
+1,Basic,14,6/28/2022,6/28/2023,365,France,46,Female,Smartphone
+1,Basic,15,11/8/2022,6/28/2023,232,Brazil,36,Female,Laptop
+2,Standard,14,12/8/2022,6/27/2023,201,Mexico,48,Male,Tablet
+3,Premium,10,7/8/2022,6/28/2023,355,Spain,37,Female,Laptop
+1,Basic,14,6/8/2022,6/27/2023,384,Italy,49,Male,Laptop
+1,Basic,12,7/18/2022,6/28/2023,345,United States,31,Female,Laptop
+3,Premium,12,6/16/2022,6/26/2023,375,Canada,42,Female,Laptop
+2,Standard,11,5/30/2022,6/28/2023,394,United Kingdom,45,Female,Tablet
+2,Standard,15,5/28/2022,6/28/2023,396,Australia,51,Female,Tablet
+1,Basic,11,5/31/2022,6/27/2023,392,Germany,31,Female,Smart TV
+3,Premium,14,4/6/2022,6/27/2023,447,France,41,Male,Tablet
+2,Standard,14,6/29/2022,6/28/2023,364,Brazil,40,Male,Smart TV
+1,Basic,10,7/24/2022,6/28/2023,339,Mexico,27,Male,Tablet
+2,Standard,10,7/19/2022,6/27/2023,343,Spain,46,Female,Tablet
+3,Premium,10,6/30/2022,6/28/2023,363,Italy,30,Female,Smart TV
+1,Basic,11,6/16/2022,6/27/2023,376,United States,37,Male,Smart TV
+3,Premium,15,10/6/2022,6/28/2023,265,Canada,45,Male,Smartphone
+2,Standard,11,1/6/2022,6/26/2023,536,United Kingdom,40,Male,Smart TV
+1,Basic,13,3/6/2022,6/28/2023,479,Australia,45,Male,Laptop
+2,Standard,11,5/6/2022,6/26/2023,416,Germany,34,Male,Laptop
+3,Premium,10,7/6/2022,6/27/2023,356,France,33,Male,Laptop
+1,Basic,10,6/22/2022,6/26/2023,369,Brazil,47,Female,Laptop
+2,Standard,11,6/28/2022,6/27/2023,364,Mexico,32,Male,Smart TV
+3,Premium,12,6/29/2022,6/29/2023,365,Spain,41,Female,Tablet
+1,Basic,15,3/7/2022,6/28/2023,478,Italy,31,Female,Tablet
+3,Premium,15,8/7/2022,6/27/2023,324,United States,43,Male,Tablet
+1,Basic,10,7/13/2022,6/27/2023,349,Canada,32,Female,Tablet
+2,Standard,10,7/27/2022,6/28/2023,336,United Kingdom,46,Female,Smartphone
+2,Standard,14,7/30/2022,6/28/2023,333,Australia,38,Male,Smartphone
+1,Basic,11,8/13/2022,6/26/2023,317,Germany,31,Female,Smart TV
+3,Premium,14,8/18/2022,6/26/2023,312,France,31,Female,Laptop
+1,Basic,10,8/24/2022,6/27/2023,307,Brazil,50,Male,Laptop
+2,Standard,10,8/9/2022,6/27/2023,322,Mexico,32,Male,Laptop
+3,Premium,13,4/9/2022,6/27/2023,444,Spain,38,Female,Smartphone
+1,Basic,15,4/9/2022,6/27/2023,444,Italy,37,Female,Laptop
+3,Premium,12,4/9/2022,6/26/2023,443,United States,36,Male,Smart TV
+1,Basic,11,8/27/2022,6/27/2023,304,Canada,30,Male,Smart TV
+2,Standard,14,8/25/2022,6/27/2023,306,United Kingdom,28,Male,Smart TV
+2,Standard,13,8/25/2022,6/28/2023,307,Australia,40,Male,Smartphone
+1,Basic,14,1/9/2022,6/28/2023,535,Germany,28,Female,Tablet
+3,Premium,15,9/13/2022,6/26/2023,286,France,37,Female,Laptop
+1,Basic,15,5/10/2022,6/29/2023,415,Brazil,30,Male,Smart TV
+2,Standard,11,8/10/2022,6/28/2023,322,Mexico,33,Female,Smart TV
+3,Premium,11,10/26/2022,6/28/2023,245,Spain,49,Male,Tablet
+1,Basic,12,10/18/2022,6/29/2023,254,Italy,36,Female,Smart TV
+3,Premium,12,7/10/2022,6/28/2023,353,United States,28,Female,Smartphone
+1,Basic,10,9/17/2022,6/30/2023,286,Canada,51,Male,Tablet
+2,Standard,11,9/18/2022,6/27/2023,282,United Kingdom,35,Female,Smartphone
+2,Standard,14,9/27/2022,6/29/2023,275,Australia,31,Male,Smart TV
+1,Basic,13,9/30/2022,6/27/2023,270,Germany,39,Male,Smartphone
+3,Premium,10,10/30/2022,6/30/2023,243,France,51,Female,Laptop
+1,Basic,11,9/11/2022,6/29/2023,291,Brazil,44,Male,Smartphone
+2,Standard,11,11/17/2022,6/28/2023,223,Mexico,41,Female,Smartphone
+3,Premium,10,11/18/2022,6/26/2023,220,Spain,28,Female,Laptop
+1,Basic,15,11/22/2022,6/30/2023,220,Italy,38,Male,Laptop
+3,Premium,14,11/22/2022,6/28/2023,218,Spain,43,Male,Smartphone
+1,Basic,13,11/21/2022,6/30/2023,221,Spain,38,Male,Smartphone
+2,Standard,14,10/11/2022,6/26/2023,258,United States,30,Male,Tablet
+2,Standard,12,10/21/2022,6/29/2023,251,Canada,32,Female,Laptop
+1,Basic,11,10/21/2022,6/28/2023,250,United States,35,Male,Smartphone
+3,Premium,14,10/23/2022,6/29/2023,249,United States,27,Male,Smart TV
+1,Basic,15,10/24/2022,6/26/2023,245,Canada,49,Female,Tablet
+2,Standard,12,10/23/2022,6/28/2023,248,United Kingdom,42,Female,Tablet
+3,Premium,10,10/21/2022,6/28/2023,250,Australia,40,Male,Smartphone
+1,Basic,15,6/10/2022,6/29/2023,384,Germany,43,Female,Tablet
+3,Premium,11,7/26/2022,6/28/2023,337,France,44,Female,Smart TV
+1,Basic,15,7/13/2022,6/28/2023,350,Brazil,32,Male,Tablet
+2,Standard,10,6/7/2022,6/28/2023,386,Mexico,50,Male,Tablet
+2,Standard,14,7/7/2022,6/28/2023,356,Spain,35,Male,Tablet
+1,Basic,15,1/7/2022,6/29/2023,538,Italy,44,Female,Laptop
+3,Premium,14,7/31/2022,6/28/2023,332,Spain,42,Female,Smart TV
+1,Basic,12,6/8/2022,6/28/2023,385,Spain,34,Female,Smart TV
+2,Standard,15,7/8/2022,6/27/2023,354,United States,37,Female,Tablet
+3,Premium,10,6/8/2022,6/28/2023,385,Canada,43,Male,Smartphone
+1,Basic,13,3/8/2022,6/28/2023,477,United States,32,Male,Smart TV
+1,Basic,15,6/18/2022,6/28/2023,375,United States,33,Female,Smart TV
+1,Basic,14,6/17/2022,6/27/2023,375,Canada,32,Female,Tablet
+2,Standard,13,7/6/2022,6/29/2023,358,United Kingdom,41,Male,Smartphone
+3,Premium,15,6/6/2022,6/28/2023,387,Australia,31,Male,Tablet
+1,Basic,14,4/6/2022,6/27/2023,447,Germany,44,Male,Tablet
+1,Basic,11,6/20/2022,6/28/2023,373,France,49,Male,Laptop
+3,Premium,10,10/7/2022,6/28/2023,264,Brazil,48,Female,Tablet
+2,Standard,13,7/13/2022,6/29/2023,351,Mexico,42,Female,Smartphone
+2,Standard,11,7/7/2022,6/27/2023,355,Spain,50,Female,Laptop
+1,Basic,14,6/22/2022,6/28/2023,371,Italy,49,Female,Smart TV
+3,Premium,14,6/15/2022,6/27/2023,377,Spain,30,Female,Laptop
+2,Standard,11,3/6/2022,6/28/2023,479,Spain,38,Male,Laptop
+1,Basic,14,4/6/2022,6/27/2023,447,United States,38,Male,Smartphone
+2,Standard,11,5/6/2022,6/28/2023,418,Canada,39,Female,Smart TV
+3,Premium,15,7/6/2022,6/29/2023,358,United States,42,Female,Laptop
+1,Basic,10,6/14/2022,6/29/2023,380,United States,28,Male,Smart TV
+3,Premium,10,6/17/2022,6/27/2023,375,Canada,38,Male,Smartphone
+2,Standard,14,6/19/2022,6/28/2023,374,United Kingdom,40,Female,Tablet
+1,Basic,12,2/7/2022,6/29/2023,507,Australia,30,Female,Tablet
+2,Standard,10,3/7/2022,6/29/2023,479,Germany,40,Male,Smartphone
+3,Premium,10,7/13/2022,6/27/2023,349,France,31,Male,Smart TV
+1,Basic,14,7/26/2022,6/27/2023,336,Brazil,41,Male,Smartphone
+2,Standard,11,7/27/2022,6/28/2023,336,Mexico,37,Male,Smartphone
+3,Premium,14,8/8/2022,6/28/2023,324,Spain,49,Male,Tablet
+1,Basic,14,8/17/2022,6/27/2023,314,Italy,29,Male,Smart TV
+3,Premium,10,8/20/2022,6/26/2023,310,Spain,31,Male,Smart TV
+1,Basic,10,5/9/2022,6/27/2023,414,Spain,39,Male,Tablet
+2,Standard,12,5/9/2022,6/27/2023,414,United States,51,Female,Smartphone
+2,Standard,10,5/9/2022,6/27/2023,414,Canada,38,Female,Smartphone
+1,Basic,11,6/9/2022,6/27/2023,383,United States,29,Female,Tablet
+3,Premium,13,3/9/2022,6/28/2023,476,United States,41,Female,Laptop
+1,Basic,13,8/29/2022,6/27/2023,302,Canada,48,Female,Tablet
+2,Standard,14,8/27/2022,6/28/2023,305,United Kingdom,39,Male,Smart TV
+3,Premium,12,8/29/2022,6/29/2023,304,Australia,37,Male,Smartphone
+1,Basic,11,9/13/2022,6/28/2023,288,Germany,37,Female,Smartphone
+3,Premium,14,9/24/2022,6/27/2023,276,France,34,Male,Smartphone
+1,Basic,15,5/10/2022,6/29/2023,415,Brazil,37,Male,Smartphone
+2,Standard,14,10/18/2022,6/30/2023,255,Mexico,37,Female,Smart TV
+2,Standard,13,10/19/2022,6/28/2023,252,Spain,51,Female,Tablet
+1,Basic,15,10/14/2022,6/29/2023,258,Italy,45,Male,Laptop
+3,Premium,14,9/30/2022,6/28/2023,271,Spain,29,Female,Laptop
+1,Basic,14,9/19/2022,6/30/2023,284,Spain,37,Male,Laptop
+2,Standard,10,9/24/2022,6/29/2023,278,United States,34,Male,Tablet
+3,Premium,14,9/28/2022,6/29/2023,274,Canada,35,Male,Smartphone
+1,Basic,12,9/29/2022,6/27/2023,271,United States,29,Male,Laptop
+3,Premium,11,11/10/2022,1/7/2023,58,United States,45,Male,Tablet
+1,Basic,14,8/11/2022,6/29/2023,322,Canada,36,Male,Smart TV
+2,Standard,11,11/16/2022,6/28/2023,224,United Kingdom,27,Female,Laptop
+2,Standard,10,11/17/2022,6/26/2023,221,Australia,31,Female,Laptop
+1,Basic,10,11/20/2022,6/30/2023,222,Germany,41,Female,Laptop
+3,Premium,13,11/21/2022,6/29/2023,220,France,37,Male,Smart TV
+1,Basic,12,11/21/2022,6/30/2023,221,Brazil,49,Female,Tablet
+2,Standard,12,11/18/2022,6/27/2023,221,Mexico,37,Female,Smart TV
+3,Premium,14,10/26/2022,6/29/2023,246,Spain,36,Female,Smartphone
+1,Basic,13,10/25/2022,6/28/2023,246,Italy,38,Female,Smart TV
+3,Premium,15,10/26/2022,6/30/2023,247,Spain,49,Female,Tablet
+1,Basic,15,10/23/2022,6/26/2023,246,Spain,31,Male,Laptop
+2,Standard,13,10/23/2022,6/28/2023,248,United States,29,Female,Laptop
+2,Standard,12,10/16/2022,6/28/2023,255,Canada,35,Female,Tablet
+1,Basic,14,9/8/2022,6/29/2023,294,United States,46,Female,Tablet
+3,Premium,10,2/8/2022,6/29/2023,506,United States,29,Female,Laptop
+1,Basic,12,7/16/2022,6/28/2023,347,Canada,43,Female,Laptop
+2,Standard,15,7/17/2022,6/28/2023,346,United Kingdom,38,Female,Tablet
+3,Premium,14,7/14/2022,6/28/2023,349,Australia,48,Female,Smart TV
+1,Basic,14,7/16/2022,6/29/2023,348,Germany,41,Male,Laptop
+3,Premium,15,6/8/2022,6/29/2023,386,France,51,Female,Laptop
+1,Basic,14,7/8/2022,6/28/2023,355,Brazil,39,Male,Smart TV
+2,Standard,11,7/8/2022,6/27/2023,354,Mexico,31,Male,Smartphone
+2,Standard,15,4/8/2022,6/29/2023,447,Spain,28,Male,Laptop
+1,Basic,15,7/29/2022,6/29/2023,335,Italy,47,Male,Laptop
+3,Premium,14,6/19/2022,6/28/2023,374,Spain,35,Female,Smart TV
+1,Basic,15,9/6/2022,6/29/2023,296,Spain,33,Male,Smartphone
+2,Standard,11,6/6/2022,6/29/2023,388,United States,41,Male,Smartphone
+3,Premium,12,6/6/2022,6/30/2023,389,Canada,38,Female,Smart TV
+1,Basic,10,11/6/2022,6/28/2023,234,United States,49,Male,Laptop
+1,Basic,14,6/18/2022,6/28/2023,375,United States,29,Female,Smart TV
+1,Basic,13,6/27/2022,6/28/2023,366,Canada,50,Male,Laptop
+2,Standard,12,5/7/2022,6/29/2023,418,United Kingdom,29,Female,Tablet
+3,Premium,15,6/7/2022,6/27/2023,385,Australia,44,Male,Smart TV
+1,Basic,14,6/16/2022,6/29/2023,378,Germany,36,Female,Smart TV
+1,Basic,14,5/6/2022,6/30/2023,420,France,46,Female,Smart TV
+3,Premium,14,5/6/2022,6/29/2023,419,Brazil,30,Male,Smartphone
+2,Standard,15,6/6/2022,6/27/2023,386,Mexico,46,Female,Tablet
+2,Standard,15,7/6/2022,6/28/2023,357,Spain,33,Male,Smartphone
+1,Basic,15,10/6/2022,6/29/2023,266,Italy,46,Female,Tablet
+3,Premium,14,6/13/2022,6/29/2023,381,Spain,50,Male,Tablet
+2,Standard,14,6/14/2022,6/27/2023,378,Spain,27,Female,Smart TV
+1,Basic,12,6/22/2022,6/28/2023,371,United States,48,Female,Smart TV
+2,Standard,14,3/7/2022,6/29/2023,479,Canada,50,Female,Smartphone
+3,Premium,13,5/7/2022,6/29/2023,418,United States,28,Female,Tablet
+1,Basic,15,11/7/2022,6/28/2023,233,United States,29,Female,Smartphone
+3,Premium,11,7/17/2022,6/27/2023,345,Canada,36,Male,Smart TV
+2,Standard,12,7/27/2022,6/28/2023,336,United Kingdom,51,Male,Laptop
+1,Basic,15,8/14/2022,6/28/2023,318,Australia,51,Male,Smartphone
+2,Standard,13,8/15/2022,6/27/2023,316,Germany,43,Male,Smart TV
+3,Premium,14,2/9/2022,6/27/2023,503,France,38,Female,Laptop
+1,Basic,11,5/9/2022,6/28/2023,415,Brazil,45,Female,Smartphone
+2,Standard,10,6/9/2022,6/28/2023,384,Mexico,28,Female,Smart TV
+3,Premium,11,6/9/2022,6/29/2023,385,Spain,27,Male,Smartphone
+1,Basic,11,5/9/2022,6/27/2023,414,Italy,41,Female,Smartphone
+3,Premium,14,6/9/2022,6/29/2023,385,Spain,49,Male,Smart TV
+1,Basic,12,8/29/2022,6/28/2023,303,Spain,35,Male,Smartphone
+2,Standard,13,8/30/2022,6/28/2023,302,United States,29,Female,Smart TV
+2,Standard,10,2/9/2022,6/30/2023,506,Canada,42,Male,Smartphone
+1,Basic,15,9/20/2022,6/28/2023,281,United States,33,Male,Tablet
+3,Premium,10,9/23/2022,6/30/2023,280,United States,30,Male,Laptop
+1,Basic,11,9/29/2022,6/29/2023,273,Canada,43,Female,Smart TV
+2,Standard,10,9/10/2022,1/7/2023,119,United Kingdom,42,Male,Smartphone
+3,Premium,11,12/10/2022,6/29/2023,201,Australia,39,Male,Tablet
+1,Basic,15,6/10/2022,6/30/2023,385,Germany,32,Female,Smart TV
+3,Premium,14,9/21/2022,6/28/2023,280,France,31,Male,Smartphone
+1,Basic,13,9/23/2022,1/7/2023,106,Brazil,39,Male,Smartphone
+2,Standard,12,9/28/2022,6/29/2023,274,Mexico,41,Female,Smartphone
+2,Standard,12,9/29/2022,6/29/2023,273,Spain,51,Female,Smart TV
+1,Basic,13,3/10/2022,6/27/2023,474,Italy,29,Male,Laptop
+3,Premium,10,10/28/2022,1/7/2023,71,Spain,33,Female,Smart TV
+1,Basic,12,11/14/2022,6/29/2023,227,Spain,51,Female,Tablet
+2,Standard,11,11/16/2022,1/7/2023,52,United States,38,Male,Tablet
+3,Premium,10,11/17/2022,6/28/2023,223,Canada,37,Female,Laptop
+1,Basic,13,11/20/2022,6/30/2023,222,United States,50,Female,Laptop
+3,Premium,12,11/21/2022,6/29/2023,220,United States,33,Male,Tablet
+1,Basic,11,11/19/2022,1/7/2023,49,Canada,27,Male,Laptop
+2,Standard,11,10/28/2022,6/27/2023,242,United Kingdom,50,Female,Smartphone
+2,Standard,15,10/27/2022,6/29/2023,245,Australia,47,Female,Laptop
+1,Basic,13,10/27/2022,6/29/2023,245,Germany,41,Male,Laptop
+3,Premium,10,10/27/2022,6/30/2023,246,France,49,Female,Laptop
+1,Basic,15,10/25/2022,6/28/2023,246,Brazil,32,Male,Smart TV
+2,Standard,10,10/17/2022,6/28/2023,254,Mexico,38,Female,Smartphone
+3,Premium,14,8/20/2022,6/29/2023,313,Spain,38,Female,Smartphone
+1,Basic,15,8/16/2022,6/29/2023,317,Italy,28,Female,Smart TV
+3,Premium,13,8/15/2022,6/29/2023,318,Spain,31,Male,Tablet
+1,Basic,14,8/15/2022,6/29/2023,318,Spain,39,Female,Smartphone
+2,Standard,11,7/29/2022,6/29/2023,335,United States,28,Female,Smartphone
+2,Standard,12,7/17/2022,6/28/2023,346,Canada,30,Female,Smartphone
+1,Basic,11,7/26/2022,6/29/2023,338,United States,42,Male,Tablet
+3,Premium,14,7/31/2022,6/29/2023,333,United States,33,Female,Laptop
+1,Basic,14,3/8/2022,6/29/2023,478,Canada,34,Female,Smart TV
+2,Standard,13,4/8/2022,6/29/2023,447,United Kingdom,49,Female,Smart TV
+3,Premium,13,3/8/2022,6/29/2023,478,Australia,41,Male,Laptop
+1,Basic,12,6/27/2022,6/29/2023,367,Germany,28,Male,Smart TV
+3,Premium,14,6/27/2022,6/28/2023,366,France,49,Female,Laptop
+1,Basic,15,6/15/2022,6/29/2023,379,Brazil,49,Male,Tablet
+2,Standard,11,6/13/2022,6/29/2023,381,Mexico,36,Male,Tablet
+2,Standard,11,12/6/2022,6/30/2023,206,Spain,31,Male,Smart TV
+1,Basic,10,6/18/2022,6/28/2023,375,Italy,38,Male,Smartphone
+3,Premium,15,6/26/2022,6/29/2023,368,Spain,34,Female,Tablet
+1,Basic,11,6/30/2022,6/30/2023,365,Spain,51,Female,Smartphone
+2,Standard,13,3/7/2022,6/30/2023,480,United States,49,Male,Smart TV
+3,Premium,13,6/19/2022,6/28/2023,374,Canada,27,Female,Tablet
+1,Basic,10,8/6/2022,6/29/2023,327,United States,38,Male,Smart TV
+1,Basic,10,8/6/2022,6/30/2023,328,United States,51,Male,Tablet
+1,Basic,14,9/6/2022,6/30/2023,297,Canada,47,Female,Tablet
+2,Standard,15,9/6/2022,6/27/2023,294,United Kingdom,37,Male,Smartphone
+3,Premium,13,10/6/2022,6/28/2023,265,Australia,37,Female,Laptop
+1,Basic,11,11/6/2022,6/29/2023,235,Germany,39,Female,Tablet
+1,Basic,11,6/13/2022,6/29/2023,381,France,31,Male,Smartphone
+3,Premium,13,6/17/2022,6/28/2023,376,Brazil,36,Male,Smart TV
+2,Standard,15,6/27/2022,6/28/2023,366,Mexico,42,Female,Smart TV
+2,Standard,11,5/7/2022,6/29/2023,418,Spain,49,Male,Laptop
+1,Basic,15,7/7/2022,6/29/2023,357,Italy,44,Female,Laptop
+3,Premium,11,7/16/2022,6/28/2023,347,Spain,33,Male,Laptop
+2,Standard,11,7/23/2022,6/27/2023,339,Spain,42,Male,Tablet
+1,Basic,13,3/8/2022,6/29/2023,478,United States,39,Male,Smartphone
+2,Standard,10,11/8/2022,6/29/2023,233,Canada,49,Male,Smartphone
+3,Premium,12,8/15/2022,6/30/2023,319,United States,31,Male,Smartphone
+1,Basic,14,8/18/2022,6/28/2023,314,United States,37,Male,Tablet
+3,Premium,13,8/26/2022,6/29/2023,307,Canada,30,Female,Tablet
+2,Standard,10,3/9/2022,6/28/2023,476,United Kingdom,42,Male,Smartphone
+1,Basic,15,4/9/2022,6/29/2023,446,Australia,37,Female,Smart TV
+2,Standard,15,5/9/2022,6/30/2023,417,Germany,36,Male,Laptop
+3,Premium,11,1/9/2022,6/29/2023,536,France,28,Female,Laptop
+1,Basic,15,8/31/2022,6/30/2023,303,Brazil,36,Male,Tablet
+2,Standard,14,1/9/2022,6/29/2023,536,Mexico,31,Female,Tablet
+3,Premium,14,9/17/2022,1/7/2023,112,Spain,46,Male,Smart TV
+1,Basic,13,9/21/2022,6/28/2023,280,Italy,28,Male,Laptop
+3,Premium,15,9/29/2022,1/7/2023,100,Spain,31,Male,Tablet
+1,Basic,12,6/10/2022,6/29/2023,384,Spain,43,Male,Smart TV
+2,Standard,10,12/10/2022,2/7/2023,59,United States,28,Male,Laptop
+2,Standard,13,7/10/2022,6/30/2023,355,Canada,32,Female,Smartphone
+1,Basic,12,4/10/2022,6/30/2023,446,United States,31,Female,Laptop
+3,Premium,11,9/24/2022,6/28/2023,277,United States,45,Male,Smart TV
+1,Basic,14,9/25/2022,1/7/2023,104,Canada,36,Male,Smartphone
+2,Standard,14,9/27/2022,6/30/2023,276,United Kingdom,35,Male,Laptop
+3,Premium,13,9/30/2022,1/7/2023,99,Australia,27,Female,Tablet
+1,Basic,13,4/10/2022,6/28/2023,444,Germany,32,Male,Laptop
+3,Premium,12,10/24/2022,1/7/2023,75,France,46,Female,Smartphone
+1,Basic,12,10/28/2022,6/30/2023,245,Brazil,36,Male,Smart TV
+2,Standard,13,2/11/2022,1/7/2023,330,Mexico,39,Male,Laptop
+2,Standard,12,7/11/2022,6/28/2023,352,Spain,48,Female,Smart TV
+1,Basic,10,10/11/2022,6/30/2023,262,Italy,48,Female,Smart TV
+3,Premium,14,11/15/2022,6/29/2023,226,Spain,27,Female,Laptop
+1,Basic,13,8/11/2022,1/7/2023,149,Spain,45,Male,Tablet
+2,Standard,10,1/11/2022,6/27/2023,532,United States,30,Male,Laptop
+3,Premium,15,10/30/2022,6/29/2023,242,Canada,29,Male,Tablet
+1,Basic,12,10/28/2022,6/29/2023,244,United States,43,Female,Laptop
+3,Premium,10,10/26/2022,6/30/2023,247,United States,43,Male,Laptop
+1,Basic,15,10/18/2022,6/29/2023,254,Canada,39,Female,Tablet
+2,Standard,14,9/30/2022,6/30/2023,273,United Kingdom,27,Male,Tablet
+2,Standard,10,3/9/2022,6/29/2023,477,Australia,33,Female,Tablet
+1,Basic,10,8/23/2022,6/29/2023,310,Germany,32,Female,Tablet
+3,Premium,10,8/16/2022,6/29/2023,317,France,37,Female,Tablet
+1,Basic,13,11/8/2022,6/30/2023,234,Brazil,45,Male,Smartphone
+2,Standard,10,1/8/2022,6/30/2023,538,Mexico,40,Female,Smartphone
+3,Premium,14,1/8/2022,6/29/2023,537,Spain,44,Male,Laptop
+1,Basic,12,1/8/2022,6/29/2023,537,Italy,29,Female,Tablet
+3,Premium,14,2/8/2022,6/30/2023,507,Spain,50,Male,Laptop
+1,Basic,11,4/8/2022,6/29/2023,447,Spain,32,Female,Laptop
+2,Standard,14,4/8/2022,6/29/2023,447,United States,39,Male,Laptop
+2,Standard,15,7/7/2022,6/30/2023,358,Canada,43,Female,Smartphone
+1,Basic,12,6/27/2022,6/30/2023,368,United States,49,Female,Smartphone
+3,Premium,13,6/19/2022,6/29/2023,375,United States,30,Male,Tablet
+1,Basic,12,6/19/2022,6/29/2023,375,Canada,47,Male,Tablet
+2,Standard,10,6/18/2022,6/29/2023,376,United Kingdom,51,Female,Laptop
+3,Premium,14,6/19/2022,6/30/2023,376,Australia,40,Male,Tablet
+1,Basic,14,6/24/2022,6/28/2023,369,Germany,40,Male,Laptop
+3,Premium,11,6/30/2022,6/30/2023,365,France,49,Male,Smartphone
+1,Basic,15,2/7/2022,6/30/2023,508,Brazil,43,Female,Tablet
+2,Standard,14,6/26/2022,1/7/2023,195,Mexico,44,Female,Smartphone
+2,Standard,13,6/21/2022,6/28/2023,372,Spain,27,Male,Smartphone
+1,Basic,14,6/16/2022,6/29/2023,378,Italy,30,Male,Tablet
+3,Premium,14,9/6/2022,6/30/2023,297,Spain,47,Male,Smart TV
+1,Basic,13,10/6/2022,6/30/2023,267,Spain,51,Male,Smartphone
+2,Standard,15,10/6/2022,6/28/2023,265,United States,31,Female,Laptop
+3,Premium,13,11/6/2022,6/29/2023,235,Canada,34,Female,Tablet
+1,Basic,11,12/6/2022,6/30/2023,206,United States,28,Female,Laptop
+1,Basic,15,6/15/2022,6/30/2023,380,United States,32,Male,Smartphone
+1,Basic,11,6/25/2022,6/29/2023,369,Canada,41,Male,Smart TV
+2,Standard,13,6/30/2022,6/28/2023,363,United Kingdom,40,Male,Smart TV
+3,Premium,12,6/7/2022,6/30/2023,388,Australia,46,Male,Smart TV
+1,Basic,13,9/7/2022,6/29/2023,295,Germany,47,Male,Smart TV
+1,Basic,14,7/18/2022,6/29/2023,346,France,45,Female,Laptop
+3,Premium,10,7/24/2022,6/28/2023,339,Brazil,28,Female,Smartphone
+2,Standard,12,7/27/2022,6/30/2023,338,Mexico,43,Female,Smartphone
+2,Standard,11,10/8/2022,6/29/2023,264,Spain,41,Male,Laptop
+1,Basic,13,8/16/2022,6/30/2023,318,Italy,32,Male,Tablet
+3,Premium,14,8/23/2022,6/29/2023,310,Spain,44,Female,Smartphone
+2,Standard,11,3/9/2022,6/30/2023,478,Spain,32,Male,Laptop
+1,Basic,12,4/9/2022,6/29/2023,446,United States,47,Male,Laptop
+2,Standard,14,5/9/2022,6/29/2023,416,Canada,37,Male,Smart TV
+3,Premium,13,4/9/2022,1/7/2023,273,United States,40,Female,Smartphone
+1,Basic,11,8/31/2022,6/29/2023,302,United States,48,Female,Smart TV
+3,Premium,10,1/9/2022,2/7/2023,394,Canada,48,Male,Laptop
+2,Standard,10,9/15/2022,6/29/2023,287,United Kingdom,35,Male,Laptop
+1,Basic,15,9/18/2022,3/7/2023,170,Australia,28,Male,Smart TV
+2,Standard,11,9/28/2022,6/29/2023,274,Germany,35,Female,Smart TV
+3,Premium,13,9/30/2022,1/7/2023,99,France,43,Male,Smartphone
+1,Basic,15,7/10/2022,6/29/2023,354,Brazil,39,Male,Laptop
+2,Standard,10,8/10/2022,2/7/2023,181,Mexico,38,Female,Laptop
+3,Premium,14,8/10/2022,6/30/2023,324,Spain,36,Female,Smart TV
+1,Basic,11,3/10/2022,1/7/2023,303,Italy,42,Female,Laptop
+3,Premium,14,4/10/2022,6/28/2023,444,Spain,27,Male,Tablet
+1,Basic,12,2/10/2022,1/7/2023,331,Spain,48,Male,Laptop
+2,Standard,13,1/10/2022,6/30/2023,536,United States,27,Female,Smart TV
+2,Standard,15,3/10/2022,2/7/2023,334,Canada,49,Male,Smartphone
+1,Basic,11,10/20/2022,6/28/2023,251,United States,29,Male,Tablet
+3,Premium,11,10/21/2022,1/7/2023,78,United States,44,Male,Laptop
+1,Basic,11,10/28/2022,6/30/2023,245,Canada,31,Male,Smartphone
+2,Standard,13,3/11/2022,1/7/2023,302,United Kingdom,33,Male,Tablet
+3,Premium,10,7/11/2022,6/28/2023,352,Australia,36,Female,Smart TV
+1,Basic,15,12/11/2022,6/30/2023,201,Germany,43,Female,Laptop
+3,Premium,14,11/13/2022,6/29/2023,228,France,30,Female,Smartphone
+1,Basic,13,2/11/2022,1/7/2023,330,Brazil,44,Female,Laptop
+2,Standard,13,1/11/2022,6/29/2023,534,Mexico,37,Female,Laptop
+2,Standard,14,10/31/2022,6/30/2023,242,Spain,27,Male,Laptop
+1,Basic,12,10/28/2022,6/29/2023,244,Italy,35,Female,Laptop
+3,Premium,13,10/24/2022,6/30/2023,249,Spain,32,Male,Smart TV
+1,Basic,12,3/10/2022,6/29/2023,476,Spain,49,Female,Laptop
+2,Standard,12,9/13/2022,6/30/2023,290,United States,45,Female,Tablet
+3,Premium,11,2/9/2022,6/30/2023,506,Canada,33,Female,Smartphone
+1,Basic,14,8/30/2022,6/30/2023,304,United States,37,Female,Smartphone
+3,Premium,15,8/25/2022,6/30/2023,309,United States,29,Male,Smartphone
+1,Basic,12,11/8/2022,6/30/2023,234,Canada,45,Male,Smart TV
+2,Standard,11,5/8/2022,6/30/2023,418,United Kingdom,42,Female,Smartphone
+2,Standard,12,2/8/2022,6/30/2023,507,Australia,32,Female,Smart TV
+1,Basic,11,3/8/2022,1/7/2023,305,Germany,47,Male,Smartphone
+3,Premium,12,4/8/2022,1/7/2023,274,France,27,Male,Smart TV
+1,Basic,10,5/8/2022,6/30/2023,418,Brazil,35,Male,Tablet
+2,Standard,15,12/7/2022,6/30/2023,205,Mexico,35,Male,Laptop
+3,Premium,10,2/7/2022,6/30/2023,508,Spain,48,Male,Tablet
+1,Basic,12,6/26/2022,6/30/2023,369,Italy,36,Male,Smartphone
+3,Premium,10,6/22/2022,6/29/2023,372,Spain,46,Male,Smartphone
+1,Basic,13,6/22/2022,6/30/2023,373,Spain,33,Female,Smartphone
+2,Standard,14,6/19/2022,1/7/2023,202,United States,43,Male,Smart TV
+2,Standard,14,6/22/2022,2/7/2023,230,Canada,47,Female,Smartphone
+1,Basic,15,6/27/2022,6/28/2023,366,United States,39,Female,Laptop
+3,Premium,15,1/7/2022,6/30/2023,539,United States,30,Female,Laptop
+1,Basic,11,6/28/2022,6/30/2023,367,Canada,46,Male,Tablet
+2,Standard,13,6/25/2022,1/7/2023,196,United Kingdom,39,Male,Smart TV
+3,Premium,10,6/22/2022,6/28/2023,371,Australia,28,Male,Smartphone
+1,Basic,13,9/6/2022,6/29/2023,296,Germany,38,Male,Smartphone
+3,Premium,13,10/6/2022,6/30/2023,267,France,36,Male,Laptop
+1,Basic,15,11/6/2022,1/7/2023,62,Brazil,33,Male,Laptop
+2,Standard,10,11/6/2022,6/28/2023,234,Mexico,50,Male,Smartphone
+2,Standard,10,12/6/2022,6/29/2023,205,Spain,38,Male,Smartphone
+1,Basic,15,6/13/2022,6/30/2023,382,Italy,29,Male,Smartphone
+3,Premium,15,6/18/2022,6/30/2023,377,Spain,47,Female,Smart TV
+1,Basic,15,6/29/2022,6/30/2023,366,Spain,31,Female,Tablet
+2,Standard,13,6/30/2022,6/28/2023,363,United States,40,Male,Tablet
+3,Premium,14,1/7/2022,1/7/2023,365,Canada,50,Male,Laptop
+1,Basic,11,7/7/2022,6/30/2023,358,United States,43,Female,Tablet
+1,Basic,12,7/13/2022,6/29/2023,351,United States,35,Female,Laptop
+1,Basic,11,7/24/2022,6/29/2023,340,Canada,36,Male,Laptop
+2,Standard,15,7/29/2022,6/30/2023,336,United Kingdom,30,Male,Smartphone
+3,Premium,13,7/31/2022,6/30/2023,334,Australia,47,Female,Smartphone
+1,Basic,12,9/8/2022,6/30/2023,295,Germany,30,Female,Laptop
+1,Basic,11,8/18/2022,1/7/2023,142,France,37,Male,Smart TV
+3,Premium,15,8/20/2022,6/30/2023,314,Brazil,34,Male,Smartphone
+2,Standard,15,8/30/2022,6/30/2023,304,Mexico,33,Female,Smart TV
+2,Standard,10,1/9/2022,6/29/2023,536,Spain,31,Male,Tablet
+1,Basic,13,2/9/2022,3/7/2023,391,Italy,30,Female,Smartphone
+3,Premium,10,2/9/2022,6/29/2023,505,Spain,35,Male,Smartphone
+2,Standard,14,9/15/2022,2/7/2023,145,Spain,40,Female,Tablet
+1,Basic,13,9/17/2022,6/29/2023,285,United States,29,Male,Smartphone
+2,Standard,14,9/26/2022,3/7/2023,162,Canada,34,Female,Smart TV
+3,Premium,12,9/27/2022,6/29/2023,275,United States,31,Male,Laptop
+1,Basic,15,4/10/2022,1/7/2023,272,United States,28,Male,Laptop
+3,Premium,12,6/10/2022,6/29/2023,384,Canada,46,Female,Smart TV
+2,Standard,11,7/10/2022,2/7/2023,212,United Kingdom,38,Male,Smartphone
+1,Basic,13,6/10/2022,6/30/2023,385,Australia,35,Female,Laptop
+2,Standard,15,7/10/2022,3/7/2023,240,Germany,49,Male,Smartphone
+3,Premium,13,6/10/2022,6/29/2023,384,France,42,Male,Smartphone
+1,Basic,14,6/10/2022,2/7/2023,242,Brazil,37,Female,Laptop
+2,Standard,13,4/10/2022,1/7/2023,272,Mexico,39,Female,Smartphone
+3,Premium,10,10/14/2022,2/7/2023,116,Spain,47,Female,Smart TV
+1,Basic,12,10/19/2022,6/29/2023,253,Italy,49,Male,Smartphone
+3,Premium,12,10/21/2022,1/7/2023,78,Spain,35,Male,Laptop
+1,Basic,11,10/28/2022,6/30/2023,245,Spain,36,Female,Smart TV
+2,Standard,11,1/11/2022,2/7/2023,392,United States,40,Male,Tablet
+2,Standard,10,12/11/2022,6/29/2023,200,Canada,30,Female,Smart TV
+1,Basic,13,11/13/2022,6/30/2023,229,United States,51,Female,Smart TV
+3,Premium,15,9/11/2022,6/30/2023,292,United States,47,Male,Laptop
+1,Basic,12,8/11/2022,1/7/2023,149,Canada,47,Female,Laptop
+2,Standard,14,6/11/2022,6/30/2023,384,United Kingdom,39,Male,Tablet
+3,Premium,10,7/11/2022,6/30/2023,354,Australia,49,Male,Smart TV
+1,Basic,12,2/11/2022,1/7/2023,330,Germany,33,Male,Laptop
+3,Premium,10,6/10/2022,6/30/2023,385,France,32,Female,Smart TV
+1,Basic,15,9/16/2022,6/30/2023,287,Brazil,40,Male,Smartphone
+2,Standard,14,10/9/2022,6/30/2023,264,Mexico,40,Female,Laptop
+2,Standard,12,4/9/2022,6/30/2023,447,Spain,51,Female,Tablet
+1,Basic,13,8/26/2022,1/7/2023,134,Italy,50,Male,Smart TV
+3,Premium,14,8/14/2022,1/7/2023,146,Spain,50,Female,Smart TV
+1,Basic,14,12/8/2022,1/7/2023,30,Spain,47,Male,Smartphone
+2,Standard,12,10/8/2022,6/30/2023,265,United States,35,Male,Laptop
+3,Premium,11,10/8/2022,1/7/2023,91,Canada,31,Male,Tablet
+1,Basic,15,4/8/2022,1/7/2023,274,United States,36,Male,Smartphone
+3,Premium,10,5/8/2022,1/7/2023,244,United States,41,Female,Smart TV
+1,Basic,13,7/17/2022,6/30/2023,348,Canada,49,Female,Tablet
+2,Standard,12,7/16/2022,1/7/2023,175,United Kingdom,34,Female,Tablet
+2,Standard,15,7/13/2022,1/7/2023,178,Australia,30,Female,Tablet
+1,Basic,13,3/7/2022,2/7/2023,337,Germany,38,Male,Laptop
+3,Premium,11,6/24/2022,6/29/2023,370,France,45,Male,Tablet
+1,Basic,14,6/21/2022,1/7/2023,200,Brazil,42,Female,Laptop
+2,Standard,10,6/22/2022,1/7/2023,199,Mexico,42,Female,Smart TV
+3,Premium,10,6/23/2022,2/7/2023,229,Spain,31,Male,Smart TV
+1,Basic,14,6/26/2022,6/29/2023,368,Italy,28,Male,Smart TV
+3,Premium,11,6/27/2022,6/30/2023,368,Spain,44,Male,Tablet
+1,Basic,13,6/28/2022,1/7/2023,193,Spain,30,Male,Smart TV
+2,Standard,13,6/28/2022,2/7/2023,224,United States,33,Male,Smartphone
+2,Standard,12,6/18/2022,6/29/2023,376,Canada,42,Female,Tablet
+1,Basic,11,11/6/2022,6/30/2023,236,United States,31,Male,Smart TV
+3,Premium,11,11/6/2022,1/7/2023,62,United States,31,Female,Smartphone
+1,Basic,13,12/6/2022,1/7/2023,32,Canada,46,Female,Smart TV
+2,Standard,15,6/13/2022,6/29/2023,381,United Kingdom,28,Female,Tablet
+3,Premium,11,6/13/2022,6/29/2023,381,Australia,50,Male,Tablet
+1,Basic,11,6/18/2022,2/7/2023,234,Germany,34,Male,Tablet
+3,Premium,15,6/23/2022,6/30/2023,372,France,45,Female,Smart TV
+1,Basic,12,6/26/2022,6/30/2023,369,Brazil,38,Female,Laptop
+2,Standard,13,6/29/2022,6/29/2023,365,Mexico,42,Female,Laptop
+2,Standard,10,2/7/2022,1/7/2023,334,Spain,45,Female,Smartphone
+1,Basic,10,6/7/2022,6/30/2023,388,Italy,44,Male,Smart TV
+3,Premium,14,7/18/2022,6/30/2023,347,Spain,50,Female,Smart TV
+1,Basic,15,7/29/2022,6/30/2023,336,Spain,38,Male,Tablet
+2,Standard,13,7/30/2022,1/7/2023,161,United States,42,Female,Smart TV
+3,Premium,13,3/8/2022,1/7/2023,305,Canada,50,Male,Smart TV
+1,Basic,10,8/15/2022,6/30/2023,319,United States,30,Male,Smartphone
+1,Basic,10,8/20/2022,1/7/2023,140,United States,47,Female,Smartphone
+1,Basic,14,8/21/2022,6/30/2023,313,Canada,32,Female,Laptop
+2,Standard,11,8/30/2022,2/7/2023,161,United Kingdom,31,Female,Tablet
+3,Premium,15,1/9/2022,6/29/2023,536,Australia,37,Male,Laptop
+1,Basic,14,2/9/2022,3/7/2023,391,Germany,32,Female,Smartphone
+1,Basic,12,4/9/2022,6/30/2023,447,France,29,Male,Smartphone
+3,Premium,12,10/9/2022,2/7/2023,121,Brazil,28,Male,Tablet
+2,Standard,11,9/25/2022,6/29/2023,277,Mexico,42,Male,Laptop
+2,Standard,12,9/27/2022,3/7/2023,161,Spain,37,Male,Tablet
+1,Basic,13,1/10/2022,6/30/2023,536,Italy,38,Female,Laptop
+3,Premium,13,6/10/2022,2/7/2023,242,Spain,32,Male,Smart TV
+2,Standard,15,7/10/2022,6/30/2023,355,Spain,48,Male,Laptop
+1,Basic,13,8/10/2022,3/7/2023,209,United States,46,Female,Smart TV
+2,Standard,14,8/10/2022,1/7/2023,150,Canada,30,Male,Tablet
+3,Premium,10,8/10/2022,3/7/2023,209,United States,40,Female,Smart TV
+1,Basic,13,8/10/2022,6/29/2023,323,United States,29,Male,Smart TV
+3,Premium,15,8/10/2022,2/7/2023,181,Canada,41,Male,Tablet
+2,Standard,15,10/10/2022,1/7/2023,89,United Kingdom,32,Male,Laptop
+1,Basic,12,10/19/2022,2/7/2023,111,Australia,44,Female,Smart TV
+2,Standard,15,10/20/2022,6/29/2023,252,Germany,41,Male,Laptop
+3,Premium,12,10/26/2022,1/7/2023,73,France,50,Female,Smartphone
+1,Basic,14,10/29/2022,6/30/2023,244,Brazil,33,Female,Tablet
+2,Standard,10,10/31/2022,2/7/2023,99,Mexico,34,Female,Smart TV
+3,Premium,15,11/11/2022,6/29/2023,230,Spain,40,Male,Smartphone
+1,Basic,14,9/11/2022,1/7/2023,118,Italy,34,Female,Tablet
+3,Premium,14,9/11/2022,1/7/2023,118,Spain,27,Female,Smart TV
+1,Basic,13,7/11/2022,1/7/2023,180,Spain,34,Male,Tablet
+2,Standard,13,8/11/2022,6/30/2023,323,United States,28,Male,Tablet
+2,Standard,14,5/11/2022,1/7/2023,241,Canada,37,Female,Smart TV
+1,Basic,10,10/25/2022,1/7/2023,74,United States,27,Female,Laptop
+3,Premium,13,10/23/2022,2/7/2023,107,United States,33,Female,Laptop
+1,Basic,11,10/20/2022,2/7/2023,110,Canada,42,Male,Laptop
+2,Standard,11,10/14/2022,1/7/2023,85,United Kingdom,49,Male,Smartphone
+3,Premium,13,8/29/2022,6/30/2023,305,Australia,44,Male,Smart TV
+1,Basic,10,8/18/2022,1/7/2023,142,Germany,47,Male,Laptop
+3,Premium,13,8/13/2022,2/7/2023,178,France,33,Male,Laptop
+1,Basic,11,11/8/2022,2/7/2023,91,Brazil,37,Male,Smart TV
+2,Standard,10,11/8/2022,1/7/2023,60,Mexico,35,Male,Laptop
+2,Standard,11,6/8/2022,1/7/2023,213,Spain,34,Female,Smartphone
+1,Basic,10,7/8/2022,2/7/2023,214,Italy,44,Male,Smartphone
+3,Premium,15,7/18/2022,2/7/2023,204,Spain,29,Male,Tablet
+1,Basic,10,7/17/2022,6/30/2023,348,Spain,38,Male,Smartphone
+2,Standard,14,7/15/2022,2/7/2023,207,United States,46,Male,Smart TV
+3,Premium,10,7/14/2022,2/7/2023,208,Canada,29,Male,Tablet
+1,Basic,12,6/26/2022,3/7/2023,254,United States,48,Female,Smart TV
+3,Premium,10,6/26/2022,6/29/2023,368,United States,36,Male,Smart TV
+1,Basic,12,6/22/2022,1/7/2023,199,Canada,43,Male,Laptop
+2,Standard,15,6/23/2022,1/7/2023,198,United Kingdom,42,Female,Smart TV
+2,Standard,10,6/24/2022,2/7/2023,228,Australia,50,Male,Tablet
+1,Basic,13,6/26/2022,6/29/2023,368,Germany,39,Male,Laptop
+3,Premium,14,6/28/2022,1/7/2023,193,France,43,Female,Laptop
+1,Basic,10,6/29/2022,2/7/2023,223,Brazil,50,Female,Tablet
+2,Standard,12,6/26/2022,2/7/2023,226,Mexico,51,Male,Laptop
+3,Premium,14,6/26/2022,6/30/2023,369,Spain,40,Male,Tablet
+1,Basic,10,6/20/2022,6/30/2023,375,Italy,31,Male,Tablet
+3,Premium,12,6/18/2022,3/7/2023,262,Spain,39,Female,Smartphone
+1,Basic,10,6/16/2022,1/7/2023,205,Spain,49,Female,Tablet
+2,Standard,10,6/16/2022,6/30/2023,379,United States,34,Female,Laptop
+2,Standard,13,6/17/2022,6/30/2023,378,Canada,38,Male,Smartphone
+1,Basic,15,6/20/2022,2/7/2023,232,United States,36,Female,Laptop
+3,Premium,10,6/24/2022,1/7/2023,197,United States,42,Female,Smart TV
+1,Basic,14,6/27/2022,1/7/2023,194,Canada,50,Male,Tablet
+2,Standard,10,2/7/2022,1/7/2023,334,United Kingdom,42,Female,Laptop
+3,Premium,14,4/7/2022,2/7/2023,306,Australia,35,Female,Laptop
+1,Basic,15,7/15/2022,6/30/2023,350,Germany,46,Female,Tablet
+3,Premium,15,7/23/2022,1/7/2023,168,France,48,Male,Laptop
+1,Basic,12,7/29/2022,1/7/2023,162,Brazil,43,Female,Laptop
+2,Standard,13,1/8/2022,1/7/2023,364,Mexico,51,Female,Tablet
+2,Standard,13,12/8/2022,3/7/2023,89,Spain,45,Male,Smart TV
+1,Basic,10,8/14/2022,6/30/2023,320,Italy,46,Male,Laptop
+3,Premium,12,8/16/2022,4/7/2023,234,Spain,42,Female,Laptop
+1,Basic,10,8/26/2022,6/30/2023,308,Spain,42,Female,Smartphone
+2,Standard,13,8/31/2022,3/7/2023,188,United States,50,Male,Tablet
+3,Premium,12,2/9/2022,6/30/2023,506,Canada,28,Male,Smart TV
+1,Basic,15,3/9/2022,3/7/2023,363,United States,44,Female,Tablet
+1,Basic,10,5/9/2022,1/7/2023,243,United States,36,Male,Tablet
+1,Basic,14,10/9/2022,2/7/2023,121,Canada,37,Female,Laptop
+2,Standard,12,9/17/2022,1/7/2023,112,United Kingdom,36,Male,Smartphone
+3,Premium,13,9/28/2022,3/7/2023,160,Australia,31,Male,Smartphone
+1,Basic,12,2/10/2022,6/30/2023,505,Germany,36,Female,Smart TV
+1,Basic,15,5/10/2022,3/7/2023,301,France,39,Female,Laptop
+3,Premium,11,7/10/2022,6/30/2023,355,Brazil,45,Female,Laptop
+2,Standard,13,8/10/2022,3/7/2023,209,Mexico,29,Male,Smart TV
+2,Standard,15,8/10/2022,1/7/2023,150,Spain,45,Male,Smartphone
+1,Basic,11,9/10/2022,3/7/2023,178,Italy,29,Male,Smart TV
+3,Premium,10,9/10/2022,6/30/2023,293,Spain,28,Female,Smart TV
+2,Standard,12,10/10/2022,2/7/2023,120,Spain,42,Female,Smart TV
+1,Basic,11,10/14/2022,1/7/2023,85,United States,36,Female,Smartphone
+2,Standard,15,10/16/2022,3/7/2023,142,Canada,39,Male,Smart TV
+3,Premium,11,10/21/2022,6/29/2023,251,United States,36,Male,Smart TV
+1,Basic,15,10/25/2022,1/7/2023,74,United States,49,Male,Laptop
+3,Premium,11,10/30/2022,1/7/2023,69,Canada,32,Female,Tablet
+2,Standard,12,10/31/2022,2/7/2023,99,United Kingdom,40,Female,Smartphone
+1,Basic,12,8/11/2022,1/7/2023,149,Australia,34,Male,Smartphone
+2,Standard,15,9/11/2022,1/7/2023,118,Germany,35,Male,Smartphone
+3,Premium,11,7/11/2022,1/7/2023,180,France,44,Female,Smart TV
+1,Basic,13,8/11/2022,3/7/2023,208,Brazil,47,Female,Smartphone
+2,Standard,14,8/11/2022,3/7/2023,208,Mexico,33,Female,Laptop
+3,Premium,11,10/31/2022,2/7/2023,99,Spain,45,Male,Tablet
+1,Basic,14,10/28/2022,1/7/2023,71,Italy,42,Female,Tablet
+3,Premium,15,10/25/2022,2/7/2023,105,Spain,46,Male,Tablet
+1,Basic,14,10/18/2022,2/7/2023,112,Spain,51,Male,Tablet
+2,Standard,15,9/25/2022,2/7/2023,135,United States,41,Female,Laptop
+2,Standard,10,8/26/2022,1/7/2023,134,Canada,50,Female,Tablet
+1,Basic,10,8/20/2022,2/7/2023,171,United States,49,Female,Smartphone
+3,Premium,12,12/8/2022,3/7/2023,89,United States,34,Female,Laptop
+1,Basic,13,12/8/2022,3/7/2023,89,Canada,38,Female,Tablet
+2,Standard,13,11/8/2022,1/7/2023,60,United Kingdom,46,Male,Smart TV
+3,Premium,14,11/8/2022,2/7/2023,91,Australia,42,Male,Smart TV
+1,Basic,12,10/8/2022,2/7/2023,122,Germany,46,Male,Laptop
+3,Premium,10,7/31/2022,3/7/2023,219,France,51,Female,Smart TV
+1,Basic,12,7/17/2022,6/30/2023,348,Brazil,35,Male,Smart TV
+2,Standard,10,7/15/2022,2/7/2023,207,Mexico,34,Female,Smartphone
+2,Standard,14,5/7/2022,2/7/2023,276,Spain,31,Female,Laptop
+1,Basic,12,1/7/2022,3/7/2023,424,Italy,36,Female,Tablet
+3,Premium,15,1/7/2022,6/30/2023,539,Spain,28,Male,Smart TV
+1,Basic,15,6/26/2022,1/7/2023,195,Spain,29,Female,Smartphone
+2,Standard,12,6/27/2022,2/7/2023,225,United States,42,Female,Smart TV
+3,Premium,10,6/28/2022,2/7/2023,224,Canada,35,Female,Smartphone
+1,Basic,12,6/28/2022,6/30/2023,367,United States,32,Female,Laptop
+3,Premium,10,6/29/2022,1/7/2023,192,United States,43,Female,Tablet
+1,Basic,10,6/26/2022,2/7/2023,226,Canada,29,Male,Smartphone
+2,Standard,13,6/26/2022,2/7/2023,226,United Kingdom,35,Female,Tablet
+2,Standard,14,6/24/2022,6/30/2023,371,Australia,27,Female,Tablet
+1,Basic,13,6/21/2022,1/7/2023,200,Germany,38,Male,Tablet
+3,Premium,13,6/22/2022,3/7/2023,258,France,33,Male,Smart TV
+1,Basic,11,6/18/2022,2/7/2023,234,Brazil,48,Male,Laptop
+2,Standard,10,6/18/2022,2/7/2023,234,Mexico,51,Female,Laptop
+3,Premium,10,6/20/2022,1/7/2023,201,Spain,40,Female,Smartphone
+1,Basic,13,6/23/2022,3/7/2023,257,Italy,28,Male,Smartphone
+3,Premium,10,6/26/2022,1/7/2023,195,Spain,46,Female,Laptop
+1,Basic,12,2/7/2022,1/7/2023,334,Spain,28,Female,Tablet
+2,Standard,12,4/7/2022,1/7/2023,275,United States,47,Male,Tablet
+2,Standard,10,7/7/2022,2/7/2023,215,Canada,47,Male,Smartphone
+1,Basic,13,7/14/2022,1/7/2023,177,United States,50,Male,Smartphone
+3,Premium,13,7/20/2022,1/7/2023,171,United States,50,Female,Smart TV
+1,Basic,15,7/23/2022,2/7/2023,199,Canada,29,Male,Smartphone
+2,Standard,15,7/30/2022,1/7/2023,161,United Kingdom,38,Male,Tablet
+3,Premium,11,12/8/2022,3/7/2023,89,Australia,40,Female,Tablet
+1,Basic,14,8/14/2022,1/7/2023,146,Germany,43,Male,Smartphone
+3,Premium,14,8/22/2022,4/7/2023,228,France,27,Female,Smartphone
+1,Basic,10,8/29/2022,6/30/2023,305,Brazil,37,Female,Tablet
+2,Standard,12,2/9/2022,3/7/2023,391,Mexico,30,Male,Smartphone
+2,Standard,13,3/9/2022,1/7/2023,304,Spain,50,Male,Laptop
+1,Basic,11,4/9/2022,4/7/2023,363,Italy,51,Male,Smartphone
+3,Premium,13,6/9/2022,1/7/2023,212,Spain,37,Female,Laptop
+1,Basic,14,10/9/2022,2/7/2023,121,Spain,35,Female,Tablet
+2,Standard,12,9/20/2022,1/7/2023,109,United States,35,Male,Tablet
+3,Premium,11,9/26/2022,3/7/2023,162,Canada,46,Male,Tablet
+1,Basic,13,4/10/2022,1/7/2023,272,United States,27,Male,Tablet
+1,Basic,13,6/10/2022,3/7/2023,270,United States,27,Male,Laptop
+1,Basic,13,7/10/2022,1/7/2023,181,Canada,39,Female,Laptop
+2,Standard,15,8/10/2022,3/7/2023,209,United Kingdom,51,Male,Tablet
+3,Premium,14,9/10/2022,1/7/2023,119,Australia,41,Male,Smartphone
+1,Basic,15,10/10/2022,3/7/2023,148,Germany,30,Female,Smart TV
+1,Basic,11,10/10/2022,6/30/2023,263,France,46,Male,Laptop
+3,Premium,14,10/14/2022,2/7/2023,116,Brazil,31,Male,Tablet
+2,Standard,13,10/15/2022,1/7/2023,84,Mexico,49,Male,Smartphone
+2,Standard,12,10/17/2022,3/7/2023,141,Spain,39,Female,Tablet
+1,Basic,11,10/23/2022,1/7/2023,76,Italy,47,Male,Smartphone
+3,Premium,15,10/27/2022,2/7/2023,103,Spain,36,Female,Tablet
+2,Standard,14,10/29/2022,2/7/2023,101,Spain,42,Female,Tablet
+1,Basic,15,5/11/2022,2/7/2023,272,United States,28,Female,Smart TV
+2,Standard,15,7/11/2022,2/7/2023,211,Canada,43,Male,Tablet
+3,Premium,10,8/11/2022,2/7/2023,180,United States,50,Female,Laptop
+1,Basic,15,9/11/2022,1/7/2023,118,United States,30,Female,Tablet
+3,Premium,10,10/11/2022,3/7/2023,147,Canada,34,Female,Laptop
+2,Standard,13,2/11/2022,3/7/2023,389,United Kingdom,35,Female,Laptop
+1,Basic,11,10/31/2022,2/7/2023,99,Australia,29,Male,Tablet
+2,Standard,15,10/29/2022,2/7/2023,101,Germany,33,Male,Smart TV
+3,Premium,12,10/22/2022,3/7/2023,136,France,47,Male,Laptop
+1,Basic,14,10/20/2022,2/7/2023,110,Brazil,32,Female,Tablet
+2,Standard,15,10/21/2022,4/7/2023,168,Mexico,34,Female,Tablet
+3,Premium,13,10/10/2022,2/7/2023,120,Spain,46,Male,Smart TV
+1,Basic,15,6/9/2022,3/7/2023,271,Italy,31,Male,Tablet
+3,Premium,12,6/9/2022,3/7/2023,271,Spain,40,Female,Tablet
+1,Basic,11,8/13/2022,3/7/2023,206,Spain,38,Female,Tablet
+2,Standard,11,8/13/2022,1/7/2023,147,United States,31,Male,Smart TV
+2,Standard,12,8/13/2022,2/7/2023,178,Canada,46,Female,Smartphone
+1,Basic,11,6/8/2022,3/7/2023,272,United States,43,Male,Smart TV
+3,Premium,15,6/8/2022,3/7/2023,272,United States,38,Female,Laptop
+1,Basic,15,7/22/2022,6/30/2023,343,Canada,38,Female,Laptop
+2,Standard,14,7/17/2022,2/7/2023,205,United Kingdom,27,Male,Laptop
+3,Premium,12,9/7/2022,2/7/2023,153,Australia,49,Female,Tablet
+1,Basic,11,4/7/2022,3/7/2023,334,Germany,33,Male,Smartphone
+3,Premium,10,6/27/2022,6/30/2023,368,France,40,Female,Smartphone
+1,Basic,13,6/28/2022,2/7/2023,224,Brazil,27,Male,Tablet
+2,Standard,12,6/28/2022,2/7/2023,224,Mexico,28,Female,Laptop
+2,Standard,10,6/29/2022,3/7/2023,251,Spain,30,Male,Smartphone
+1,Basic,10,6/29/2022,6/30/2023,366,Italy,33,Female,Smartphone
+3,Premium,15,6/26/2022,1/7/2023,195,Spain,51,Female,Tablet
+1,Basic,11,6/26/2022,3/7/2023,254,Spain,51,Male,Tablet
+2,Standard,10,6/26/2022,2/7/2023,226,United States,50,Female,Smartphone
+3,Premium,14,6/24/2022,6/30/2023,371,Canada,46,Female,Tablet
+1,Basic,14,6/25/2022,2/7/2023,227,United States,31,Male,Smart TV
+3,Premium,12,6/20/2022,3/7/2023,260,United States,46,Female,Smartphone
+1,Basic,15,6/21/2022,2/7/2023,231,Canada,41,Male,Smart TV
+2,Standard,12,6/20/2022,2/7/2023,232,United Kingdom,36,Male,Smartphone
+2,Standard,10,6/22/2022,2/7/2023,230,Australia,45,Female,Tablet
+1,Basic,10,6/24/2022,3/7/2023,256,Germany,36,Male,Smartphone
+3,Premium,15,6/30/2022,2/7/2023,222,France,28,Male,Smartphone
+1,Basic,13,3/7/2022,2/7/2023,337,Brazil,45,Female,Smartphone
+2,Standard,10,4/7/2022,2/7/2023,306,Mexico,39,Female,Smartphone
+3,Premium,13,8/7/2022,2/7/2023,184,Spain,51,Female,Laptop
+1,Basic,10,7/19/2022,1/7/2023,172,Italy,37,Male,Laptop
+3,Premium,11,7/21/2022,1/7/2023,170,Spain,33,Female,Tablet
+1,Basic,15,7/27/2022,3/7/2023,223,Spain,32,Female,Smartphone
+2,Standard,14,2/8/2022,1/7/2023,333,United States,49,Female,Tablet
+2,Standard,10,9/8/2022,3/7/2023,180,Canada,37,Female,Smart TV
+1,Basic,15,8/21/2022,1/7/2023,139,United States,39,Male,Tablet
+3,Premium,14,8/29/2022,4/7/2023,221,United States,37,Male,Smart TV
+1,Basic,15,8/31/2022,1/7/2023,129,Canada,36,Female,Smart TV
+2,Standard,10,2/9/2022,3/7/2023,391,United Kingdom,34,Male,Laptop
+3,Premium,13,4/9/2022,1/7/2023,273,Australia,51,Female,Smartphone
+1,Basic,13,5/9/2022,4/7/2023,333,Germany,41,Female,Tablet
+3,Premium,13,10/9/2022,1/7/2023,90,France,51,Male,Smart TV
+1,Basic,15,9/13/2022,3/7/2023,175,Brazil,31,Female,Tablet
+2,Standard,13,9/20/2022,1/7/2023,109,Mexico,44,Male,Laptop
+2,Standard,15,1/10/2022,3/7/2023,421,Spain,50,Male,Smart TV
+1,Basic,14,3/10/2022,1/7/2023,303,Italy,33,Male,Laptop
+3,Premium,11,6/10/2022,4/7/2023,301,Spain,44,Female,Laptop
+1,Basic,15,8/10/2022,1/7/2023,150,Spain,42,Female,Tablet
+2,Standard,13,9/10/2022,3/7/2023,178,United States,35,Male,Smart TV
+3,Premium,12,10/10/2022,2/7/2023,120,Canada,48,Male,Smartphone
+1,Basic,13,10/10/2022,4/7/2023,179,United States,51,Female,Smartphone
+1,Basic,15,12/10/2022,1/7/2023,28,United States,44,Female,Smart TV
+1,Basic,11,10/14/2022,2/7/2023,116,Canada,37,Female,Smartphone
+2,Standard,15,10/15/2022,2/7/2023,115,United Kingdom,35,Female,Laptop
+3,Premium,11,10/17/2022,3/7/2023,141,Australia,32,Male,Laptop
+1,Basic,15,10/19/2022,2/7/2023,111,Germany,46,Female,Tablet
+1,Basic,14,10/25/2022,2/7/2023,105,France,39,Female,Laptop
+3,Premium,11,10/26/2022,2/7/2023,104,Brazil,33,Female,Tablet
+2,Standard,10,5/11/2022,3/7/2023,300,Mexico,42,Male,Tablet
+2,Standard,14,7/11/2022,3/7/2023,239,Spain,37,Female,Smartphone
+1,Basic,14,8/11/2022,3/7/2023,208,Italy,27,Female,Smart TV
+3,Premium,14,9/11/2022,2/7/2023,149,Spain,34,Female,Laptop
+2,Standard,13,6/11/2022,3/7/2023,269,Spain,51,Male,Laptop
+1,Basic,12,4/11/2022,3/7/2023,330,United States,42,Male,Laptop
+2,Standard,13,3/11/2022,5/7/2023,422,Canada,46,Female,Smart TV
+3,Premium,13,10/23/2022,2/7/2023,107,United States,36,Male,Laptop
+1,Basic,14,10/24/2022,4/7/2023,165,United States,46,Male,Smartphone
+3,Premium,13,10/23/2022,4/7/2023,166,Canada,51,Male,Smart TV
+2,Standard,12,10/21/2022,4/7/2023,168,United Kingdom,45,Female,Smartphone
+1,Basic,14,11/9/2022,2/7/2023,90,Australia,33,Male,Smartphone
+2,Standard,10,9/9/2022,3/7/2023,179,Germany,31,Female,Smart TV
+3,Premium,12,8/22/2022,3/7/2023,197,France,48,Female,Smart TV
+1,Basic,13,8/21/2022,4/7/2023,229,Brazil,47,Female,Laptop
+2,Standard,13,8/15/2022,1/7/2023,145,Mexico,43,Male,Smart TV
+3,Premium,14,8/14/2022,3/7/2023,205,Spain,39,Male,Tablet
+1,Basic,11,9/8/2022,3/7/2023,180,Italy,46,Male,Smart TV
+3,Premium,12,4/8/2022,4/7/2023,364,Spain,46,Female,Smartphone
+1,Basic,11,7/27/2022,1/7/2023,164,Spain,40,Female,Tablet
+2,Standard,12,11/7/2022,2/7/2023,92,United States,38,Male,Smartphone
+2,Standard,13,9/7/2022,3/7/2023,181,Canada,48,Female,Tablet
+1,Basic,15,1/7/2022,3/7/2023,424,United States,38,Male,Tablet
+3,Premium,12,6/30/2022,1/7/2023,191,United States,43,Male,Laptop
+1,Basic,11,6/29/2022,2/7/2023,223,Canada,29,Male,Smartphone
+2,Standard,15,6/29/2022,3/7/2023,251,United Kingdom,32,Female,Laptop
+3,Premium,10,6/30/2022,3/7/2023,250,Australia,32,Female,Laptop
+1,Basic,10,6/30/2022,6/30/2023,365,Germany,49,Female,Laptop
+3,Premium,14,6/26/2022,2/7/2023,226,France,51,Female,Laptop
+1,Basic,14,6/27/2022,3/7/2023,253,Brazil,32,Male,Smart TV
+2,Standard,12,6/25/2022,2/7/2023,227,Mexico,35,Female,Smart TV
+2,Standard,15,6/25/2022,1/7/2023,196,Spain,41,Male,Laptop
+1,Basic,12,6/20/2022,3/7/2023,260,Italy,43,Female,Smart TV
+3,Premium,12,6/21/2022,3/7/2023,259,Spain,41,Male,Smartphone
+1,Basic,10,6/21/2022,2/7/2023,231,Spain,51,Male,Smart TV
+2,Standard,13,6/22/2022,3/7/2023,258,United States,47,Female,Smart TV
+3,Premium,15,6/23/2022,2/7/2023,229,Canada,39,Male,Smart TV
+1,Basic,15,6/27/2022,3/7/2023,253,United States,51,Male,Smartphone
+3,Premium,13,2/7/2022,2/7/2023,365,United States,39,Female,Tablet
+1,Basic,12,3/7/2022,2/7/2023,337,Canada,45,Male,Tablet
+2,Standard,13,5/7/2022,2/7/2023,276,United Kingdom,42,Male,Laptop
+2,Standard,13,7/15/2022,2/7/2023,207,Australia,48,Male,Smartphone
+1,Basic,11,7/20/2022,2/7/2023,202,Germany,33,Male,Smart TV
+3,Premium,14,7/27/2022,2/7/2023,195,France,47,Female,Smartphone
+1,Basic,11,7/29/2022,4/7/2023,252,Brazil,51,Female,Smart TV
+2,Standard,11,3/8/2022,1/7/2023,305,Mexico,27,Male,Smartphone
+3,Premium,11,8/18/2022,4/7/2023,232,Spain,44,Female,Laptop
+1,Basic,12,8/23/2022,2/7/2023,168,Italy,41,Male,Laptop
+3,Premium,11,8/27/2022,5/7/2023,253,Spain,37,Male,Smart TV
+1,Basic,15,1/9/2022,2/7/2023,394,Spain,48,Male,Tablet
+2,Standard,12,3/9/2022,4/7/2023,394,United States,30,Male,Smart TV
+2,Standard,14,5/9/2022,2/7/2023,274,Canada,44,Female,Smartphone
+1,Basic,14,9/9/2022,4/7/2023,210,United States,34,Female,Smart TV
+3,Premium,15,11/9/2022,1/7/2023,59,United States,40,Female,Laptop
+1,Basic,14,9/17/2022,4/7/2023,202,Canada,28,Female,Smartphone
+2,Standard,15,9/19/2022,2/7/2023,141,United Kingdom,44,Female,Tablet
+3,Premium,13,9/28/2022,3/7/2023,160,Australia,38,Female,Laptop
+1,Basic,14,6/10/2022,2/7/2023,242,Germany,49,Male,Smart TV
+3,Premium,13,7/10/2022,5/7/2023,301,France,32,Female,Smart TV
+1,Basic,14,9/10/2022,1/7/2023,119,Brazil,47,Female,Smart TV
+2,Standard,10,10/10/2022,3/7/2023,148,Mexico,44,Male,Tablet
+2,Standard,12,11/10/2022,3/7/2023,117,Spain,33,Male,Smartphone
+1,Basic,15,12/10/2022,4/7/2023,118,Italy,32,Male,Laptop
+3,Premium,12,10/13/2022,1/7/2023,86,Spain,27,Female,Smartphone
+1,Basic,11,10/14/2022,3/7/2023,144,Spain,37,Male,Laptop
+2,Standard,14,10/16/2022,3/7/2023,142,United States,34,Male,Tablet
+3,Premium,15,10/19/2022,4/7/2023,170,Canada,40,Male,Smart TV
+1,Basic,12,10/23/2022,2/7/2023,107,United States,45,Female,Smart TV
+1,Basic,13,10/24/2022,3/7/2023,134,United States,29,Female,Tablet
+1,Basic,14,10/25/2022,3/7/2023,133,Canada,35,Male,Smart TV
+2,Standard,10,1/11/2022,4/7/2023,451,United Kingdom,38,Female,Laptop
+3,Premium,11,2/11/2022,4/7/2023,420,Australia,48,Female,Smart TV
+1,Basic,12,4/11/2022,6/7/2023,422,Germany,36,Male,Smartphone
+1,Basic,10,6/11/2022,3/7/2023,269,France,41,Male,Smart TV
+3,Premium,15,6/11/2022,3/7/2023,269,Brazil,27,Male,Smart TV
+2,Standard,12,4/11/2022,4/7/2023,361,Mexico,41,Male,Smart TV
+2,Standard,13,10/30/2022,5/7/2023,189,Spain,42,Male,Laptop
+1,Basic,12,10/27/2022,3/7/2023,131,Italy,40,Female,Laptop
+3,Premium,13,10/23/2022,4/7/2023,166,Spain,32,Male,Smart TV
+2,Standard,12,10/23/2022,4/7/2023,166,Spain,33,Male,Smart TV
+1,Basic,11,9/24/2022,4/7/2023,195,United States,34,Male,Smartphone
+2,Standard,11,9/22/2022,2/7/2023,138,Canada,29,Male,Tablet
+3,Premium,14,6/9/2022,3/7/2023,271,United States,50,Male,Smart TV
+1,Basic,10,8/23/2022,4/7/2023,227,United States,29,Female,Laptop
+3,Premium,13,8/21/2022,4/7/2023,229,Canada,40,Female,Tablet
+2,Standard,10,8/16/2022,2/7/2023,175,United Kingdom,27,Male,Smart TV
+1,Basic,10,9/8/2022,3/7/2023,180,Australia,51,Female,Smartphone
+2,Standard,13,4/8/2022,3/7/2023,333,Germany,41,Female,Laptop
+3,Premium,15,7/28/2022,4/7/2023,253,France,28,Female,Tablet
+1,Basic,12,12/7/2022,1/7/2023,31,Brazil,42,Male,Laptop
+2,Standard,13,11/7/2022,3/7/2023,120,Mexico,40,Male,Laptop
+3,Premium,12,6/7/2022,4/7/2023,304,Spain,48,Female,Smartphone
+1,Basic,13,1/7/2022,3/7/2023,424,Italy,28,Male,Smart TV
+3,Premium,15,2/7/2022,1/7/2023,334,Spain,40,Male,Smart TV
+1,Basic,15,6/30/2022,3/7/2023,250,Spain,33,Female,Tablet
+2,Standard,12,6/30/2022,3/7/2023,250,United States,33,Male,Smartphone
+2,Standard,15,6/30/2022,3/7/2023,250,Canada,47,Female,Smartphone
+1,Basic,13,6/30/2022,1/7/2023,191,United States,50,Female,Smart TV
+3,Premium,15,6/29/2022,3/7/2023,251,United States,38,Male,Smartphone
+1,Basic,15,6/27/2022,4/7/2023,284,Canada,36,Female,Tablet
+2,Standard,15,6/26/2022,3/7/2023,254,United Kingdom,38,Female,Tablet
+3,Premium,12,6/24/2022,1/7/2023,197,Australia,49,Male,Smartphone
+1,Basic,12,6/25/2022,3/7/2023,255,Germany,40,Female,Smart TV
+3,Premium,13,6/24/2022,3/7/2023,256,France,51,Male,Tablet
+1,Basic,11,6/22/2022,3/7/2023,258,Brazil,42,Female,Smartphone
+2,Standard,13,6/23/2022,3/7/2023,257,Mexico,41,Female,Smartphone
+2,Standard,12,6/25/2022,3/7/2023,255,Spain,48,Female,Smartphone
+1,Basic,13,6/29/2022,3/7/2023,251,Italy,39,Female,Tablet
+3,Premium,15,1/7/2022,2/7/2023,396,Spain,35,Female,Tablet
+1,Basic,11,5/7/2022,2/7/2023,276,Spain,32,Female,Tablet
+2,Standard,12,12/7/2022,4/7/2023,121,United States,28,Female,Smartphone
+3,Premium,11,7/16/2022,2/7/2023,206,Canada,27,Male,Laptop
+1,Basic,11,7/20/2022,4/7/2023,261,United States,30,Female,Laptop
+3,Premium,14,7/28/2022,2/7/2023,194,United States,47,Female,Laptop
+1,Basic,14,7/31/2022,5/7/2023,280,Canada,49,Female,Tablet
+2,Standard,14,8/14/2022,2/7/2023,177,United Kingdom,43,Female,Smartphone
+2,Standard,12,8/16/2022,4/7/2023,234,Australia,42,Male,Tablet
+1,Basic,14,8/18/2022,3/7/2023,201,Germany,29,Female,Smartphone
+3,Premium,15,8/27/2022,5/7/2023,253,France,35,Female,Smartphone
+1,Basic,13,1/9/2022,2/7/2023,394,Brazil,41,Female,Smartphone
+2,Standard,13,3/9/2022,5/7/2023,424,Mexico,47,Female,Smart TV
+3,Premium,14,7/9/2022,3/7/2023,241,Spain,28,Female,Smart TV
+1,Basic,10,8/9/2022,4/7/2023,241,Italy,44,Female,Smartphone
+3,Premium,10,9/14/2022,3/7/2023,174,Spain,28,Female,Tablet
+1,Basic,11,9/15/2022,5/7/2023,234,Spain,51,Male,Laptop
+2,Standard,11,9/27/2022,2/7/2023,133,United States,48,Male,Laptop
+2,Standard,14,9/30/2022,4/7/2023,189,Canada,49,Female,Tablet
+1,Basic,10,2/10/2022,4/7/2023,421,United States,50,Male,Smart TV
+3,Premium,13,3/10/2022,5/7/2023,423,United States,43,Male,Laptop
+1,Basic,14,5/10/2022,1/7/2023,242,Canada,32,Male,Smart TV
+2,Standard,15,10/10/2022,3/7/2023,148,United Kingdom,42,Female,Tablet
+3,Premium,13,11/10/2022,3/7/2023,117,Australia,41,Female,Laptop
+1,Basic,11,10/13/2022,4/7/2023,176,Germany,31,Male,Laptop
+3,Premium,11,10/14/2022,2/7/2023,116,France,37,Female,Smart TV
+1,Basic,12,10/16/2022,3/7/2023,142,Brazil,46,Male,Smart TV
+2,Standard,14,10/18/2022,3/7/2023,140,Mexico,30,Female,Tablet
+2,Standard,11,10/22/2022,5/7/2023,197,Spain,30,Female,Smart TV
+1,Basic,10,10/24/2022,3/7/2023,134,Italy,34,Female,Tablet
+3,Premium,15,10/25/2022,4/7/2023,164,Spain,47,Female,Laptop
+1,Basic,14,10/29/2022,3/7/2023,129,Spain,41,Male,Tablet
+2,Standard,13,2/11/2022,4/7/2023,420,United States,42,Female,Laptop
+3,Premium,12,3/11/2022,5/7/2023,422,Canada,48,Female,Smartphone
+1,Basic,11,4/11/2022,6/7/2023,422,United States,30,Female,Smart TV
+1,Basic,13,5/11/2022,3/7/2023,300,United States,51,Male,Smartphone
+1,Basic,13,5/11/2022,4/7/2023,331,Canada,27,Male,Smartphone
+2,Standard,13,10/31/2022,4/7/2023,158,United Kingdom,38,Male,Tablet
+3,Premium,12,10/27/2022,5/7/2023,192,Australia,29,Female,Smart TV
+1,Basic,11,10/25/2022,3/7/2023,133,Germany,40,Female,Smartphone
+1,Basic,12,10/26/2022,4/7/2023,163,France,31,Female,Laptop
+3,Premium,11,9/30/2022,4/7/2023,189,Brazil,30,Male,Smartphone
+2,Standard,13,9/27/2022,5/7/2023,222,Mexico,44,Male,Laptop
+2,Standard,14,12/9/2022,3/7/2023,88,Spain,34,Female,Tablet
+1,Basic,14,8/25/2022,4/7/2023,225,Italy,28,Female,Laptop
+3,Premium,13,8/25/2022,4/7/2023,225,Spain,41,Female,Laptop
+2,Standard,12,8/22/2022,5/7/2023,258,Spain,43,Male,Tablet
+1,Basic,10,8/17/2022,2/7/2023,174,United States,33,Male,Laptop
+2,Standard,12,9/8/2022,3/7/2023,180,Canada,32,Female,Tablet
+3,Premium,10,6/8/2022,4/7/2023,303,United States,39,Male,Smart TV
+1,Basic,15,7/17/2022,4/7/2023,264,United States,37,Male,Laptop
+3,Premium,11,12/7/2022,2/7/2023,62,Canada,46,Male,Tablet
+2,Standard,11,12/7/2022,3/7/2023,90,United Kingdom,39,Male,Smartphone
+1,Basic,12,2/7/2022,4/7/2023,424,Australia,46,Female,Tablet
+2,Standard,13,2/7/2022,3/7/2023,393,Germany,43,Male,Laptop
+3,Premium,10,6/30/2022,2/7/2023,222,France,32,Female,Laptop
+1,Basic,12,6/30/2022,4/7/2023,281,Brazil,30,Female,Smart TV
+2,Standard,11,1/7/2022,4/7/2023,455,Mexico,40,Female,Tablet
+3,Premium,11,6/30/2022,4/7/2023,281,Spain,51,Female,Smartphone
+1,Basic,10,6/29/2022,2/7/2023,223,Italy,40,Female,Smartphone
+3,Premium,12,6/30/2022,3/7/2023,250,Spain,28,Male,Smart TV
+1,Basic,14,6/29/2022,4/7/2023,282,Spain,51,Female,Smartphone
+2,Standard,14,6/26/2022,3/7/2023,254,United States,27,Male,Laptop
+2,Standard,14,6/27/2022,1/7/2023,194,Canada,35,Male,Smart TV
+1,Basic,11,6/24/2022,3/7/2023,256,United States,37,Male,Laptop
+3,Premium,14,6/23/2022,4/7/2023,288,United States,51,Male,Smart TV
+1,Basic,11,6/23/2022,3/7/2023,257,Canada,40,Male,Smart TV
+2,Standard,14,6/25/2022,3/7/2023,255,United Kingdom,38,Male,Laptop
+3,Premium,11,6/28/2022,3/7/2023,252,Australia,48,Female,Laptop
+1,Basic,11,1/7/2022,3/7/2023,424,Germany,49,Male,Smartphone
+3,Premium,15,2/7/2022,5/7/2023,454,France,33,Female,Laptop
+1,Basic,10,6/7/2022,3/7/2023,273,Brazil,34,Female,Tablet
+2,Standard,15,12/7/2022,6/7/2023,182,Mexico,39,Male,Tablet
+2,Standard,13,7/17/2022,2/7/2023,205,Spain,37,Female,Tablet
+1,Basic,15,7/23/2022,5/7/2023,288,Italy,44,Male,Laptop
+3,Premium,15,7/29/2022,4/7/2023,252,Spain,35,Male,Tablet
+1,Basic,11,6/8/2022,6/7/2023,364,Spain,31,Female,Laptop
+2,Standard,10,9/8/2022,2/7/2023,152,United States,39,Male,Smart TV
+3,Premium,13,8/14/2022,5/7/2023,266,Canada,38,Male,Tablet
+1,Basic,11,8/20/2022,3/7/2023,199,United States,42,Male,Smartphone
+3,Premium,12,8/28/2022,5/7/2023,252,United States,48,Female,Tablet
+1,Basic,11,2/9/2022,3/7/2023,391,Canada,31,Male,Tablet
+2,Standard,11,4/9/2022,5/7/2023,393,United Kingdom,42,Male,Smartphone
+2,Standard,14,6/9/2022,3/7/2023,271,Australia,35,Male,Smartphone
+1,Basic,10,9/14/2022,5/7/2023,235,Germany,39,Male,Laptop
+3,Premium,13,9/15/2022,4/7/2023,204,France,50,Female,Tablet
+1,Basic,11,9/16/2022,6/7/2023,264,Brazil,40,Male,Smartphone
+2,Standard,10,9/28/2022,2/7/2023,132,Mexico,29,Male,Smartphone
+3,Premium,10,2/10/2022,4/7/2023,421,Spain,48,Female,Smart TV
+1,Basic,15,3/10/2022,4/7/2023,393,Italy,34,Male,Smartphone
+3,Premium,10,5/10/2022,5/7/2023,362,Spain,48,Male,Smartphone
+1,Basic,12,7/10/2022,2/7/2023,212,Spain,48,Male,Laptop
+2,Standard,12,9/10/2022,4/7/2023,209,United States,35,Female,Tablet
+2,Standard,11,11/10/2022,4/7/2023,148,Canada,29,Male,Laptop
+1,Basic,14,10/13/2022,5/7/2023,206,United States,47,Female,Smart TV
+3,Premium,12,10/15/2022,2/7/2023,115,United States,36,Male,Smartphone
+1,Basic,12,10/17/2022,4/7/2023,172,Canada,40,Female,Smartphone
+2,Standard,14,10/21/2022,4/7/2023,168,United Kingdom,51,Male,Tablet
+3,Premium,12,10/23/2022,5/7/2023,196,Australia,37,Male,Smart TV
+1,Basic,12,10/24/2022,6/7/2023,226,Germany,36,Male,Tablet
+3,Premium,12,10/28/2022,4/7/2023,161,France,45,Male,Tablet
+1,Basic,11,10/31/2022,4/7/2023,158,Brazil,31,Female,Tablet
+2,Standard,14,3/11/2022,4/7/2023,392,Mexico,45,Female,Laptop
+2,Standard,11,4/11/2022,5/7/2023,391,Spain,30,Male,Laptop
+1,Basic,14,5/11/2022,6/7/2023,392,Italy,40,Female,Smartphone
+3,Premium,14,6/11/2022,4/7/2023,300,Spain,44,Female,Smart TV
+1,Basic,12,1/11/2022,5/7/2023,481,Spain,36,Female,Laptop
+2,Standard,10,1/11/2022,5/7/2023,481,United States,36,Male,Tablet
+3,Premium,11,10/29/2022,5/7/2023,190,Canada,32,Female,Smartphone
+1,Basic,10,10/27/2022,3/7/2023,131,United States,46,Male,Smart TV
+1,Basic,12,10/16/2022,4/7/2023,173,United States,39,Female,Smart TV
+1,Basic,13,10/14/2022,4/7/2023,175,Canada,30,Male,Smart TV
+2,Standard,13,9/14/2022,5/7/2023,235,United Kingdom,34,Male,Laptop
+3,Premium,14,3/9/2022,3/7/2023,363,Australia,28,Male,Laptop
+1,Basic,13,8/27/2022,4/7/2023,223,Germany,39,Female,Smartphone
+1,Basic,12,8/27/2022,5/7/2023,253,France,34,Female,Laptop
+3,Premium,13,8/21/2022,5/7/2023,259,Brazil,42,Male,Laptop
+2,Standard,13,8/13/2022,2/7/2023,178,Mexico,29,Female,Tablet
+2,Standard,13,12/8/2022,4/7/2023,120,Spain,29,Male,Tablet
+1,Basic,12,7/24/2022,4/7/2023,257,Italy,30,Male,Tablet
+3,Premium,11,7/24/2022,4/7/2023,257,Spain,51,Male,Smartphone
+2,Standard,11,12/7/2022,2/7/2023,62,Spain,51,Male,Smart TV
+1,Basic,13,9/7/2022,4/7/2023,212,United States,44,Male,Tablet
+2,Standard,13,9/7/2022,5/7/2023,242,Canada,35,Male,Laptop
+3,Premium,10,10/7/2022,4/7/2023,182,United States,39,Male,Smart TV
+1,Basic,12,2/7/2022,2/7/2023,365,United States,41,Female,Laptop
+3,Premium,13,2/7/2022,4/7/2023,424,Canada,44,Female,Laptop
+2,Standard,11,1/7/2022,5/7/2023,485,United Kingdom,29,Male,Laptop
+1,Basic,14,1/7/2022,4/7/2023,455,Australia,47,Male,Tablet
+2,Standard,10,6/30/2022,2/7/2023,222,Germany,28,Female,Smartphone
+3,Premium,15,6/29/2022,4/7/2023,282,France,45,Male,Laptop
+1,Basic,11,6/26/2022,4/7/2023,285,Brazil,28,Female,Smartphone
+2,Standard,14,6/27/2022,3/7/2023,253,Mexico,31,Female,Laptop
+3,Premium,13,6/25/2022,3/7/2023,255,Spain,47,Female,Laptop
+1,Basic,13,6/23/2022,4/7/2023,288,Italy,42,Female,Tablet
+3,Premium,14,6/24/2022,4/7/2023,287,Spain,34,Female,Laptop
+1,Basic,12,6/25/2022,5/7/2023,316,Spain,40,Female,Laptop
+2,Standard,13,6/26/2022,4/7/2023,285,United States,42,Female,Laptop
+2,Standard,14,6/27/2022,7/7/2023,375,Canada,33,Male,Smart TV
+1,Basic,12,6/30/2022,3/7/2023,250,United States,30,Male,Laptop
+3,Premium,14,3/7/2022,5/7/2023,426,United States,29,Male,Tablet
+1,Basic,13,9/7/2022,4/7/2023,212,Canada,31,Male,Smart TV
+2,Standard,14,7/17/2022,6/7/2023,325,United Kingdom,46,Female,Smart TV
+3,Premium,11,7/22/2022,3/7/2023,228,Australia,46,Female,Smartphone
+1,Basic,11,7/28/2022,5/7/2023,283,Germany,47,Male,Laptop
+3,Premium,12,4/8/2022,4/7/2023,364,France,48,Female,Smart TV
+1,Basic,13,8/8/2022,6/7/2023,303,Brazil,32,Female,Smart TV
+2,Standard,13,8/13/2022,4/7/2023,237,Mexico,51,Female,Tablet
+2,Standard,13,8/17/2022,5/7/2023,263,Spain,33,Male,Smart TV
+1,Basic,15,8/20/2022,4/7/2023,230,Italy,43,Male,Smartphone
+3,Premium,14,8/28/2022,6/7/2023,283,Spain,43,Female,Smart TV
+1,Basic,13,8/29/2022,4/7/2023,221,Spain,42,Male,Smart TV
+2,Standard,15,3/9/2022,5/7/2023,424,United States,30,Male,Smartphone
+3,Premium,13,10/9/2022,3/7/2023,149,Canada,50,Male,Smartphone
+1,Basic,11,9/13/2022,5/7/2023,236,United States,51,Female,Laptop
+3,Premium,14,9/15/2022,4/7/2023,204,United States,36,Female,Tablet
+1,Basic,13,9/25/2022,6/7/2023,255,Canada,41,Female,Tablet
+2,Standard,10,1/10/2022,3/7/2023,421,United Kingdom,37,Male,Smart TV
+2,Standard,11,2/10/2022,4/7/2023,421,Australia,30,Female,Tablet
+1,Basic,11,5/10/2022,4/7/2023,332,Germany,50,Female,Tablet
+3,Premium,14,6/10/2022,5/7/2023,331,France,41,Female,Smart TV
+1,Basic,14,7/10/2022,3/7/2023,240,Brazil,29,Female,Laptop
+2,Standard,12,10/10/2022,4/7/2023,179,Mexico,43,Male,Smart TV
+3,Premium,12,12/10/2022,4/7/2023,118,Spain,31,Female,Smart TV
+1,Basic,14,10/15/2022,6/7/2023,235,Italy,40,Male,Laptop
+3,Premium,12,10/17/2022,5/7/2023,202,Spain,35,Female,Smart TV
+1,Basic,13,10/21/2022,4/7/2023,168,Spain,39,Female,Laptop
+2,Standard,14,10/23/2022,5/7/2023,196,United States,48,Male,Laptop
+2,Standard,14,10/24/2022,5/7/2023,195,Canada,42,Female,Tablet
+1,Basic,11,10/27/2022,6/7/2023,223,United States,48,Female,Smart TV
+3,Premium,10,10/30/2022,7/7/2023,250,United States,33,Female,Smart TV
+1,Basic,14,10/31/2022,4/7/2023,158,Canada,45,Female,Smart TV
+2,Standard,14,3/11/2022,4/7/2023,392,United Kingdom,40,Female,Smart TV
+3,Premium,15,5/11/2022,6/7/2023,392,Australia,38,Male,Tablet
+1,Basic,14,6/11/2022,6/7/2023,361,Germany,31,Female,Tablet
+3,Premium,14,1/11/2022,4/7/2023,451,France,33,Female,Smart TV
+1,Basic,15,2/11/2022,5/7/2023,450,Brazil,27,Male,Laptop
+2,Standard,13,2/11/2022,5/7/2023,450,Mexico,47,Male,Smartphone
+2,Standard,15,1/11/2022,6/7/2023,512,Spain,41,Male,Tablet
+1,Basic,11,10/17/2022,3/7/2023,141,Italy,32,Female,Smart TV
+3,Premium,11,10/18/2022,5/7/2023,201,Spain,31,Male,Smart TV
+1,Basic,13,9/28/2022,5/7/2023,221,Spain,43,Female,Tablet
+2,Standard,15,9/23/2022,5/7/2023,226,United States,42,Female,Smart TV
+3,Premium,15,9/22/2022,3/7/2023,166,Canada,46,Male,Smartphone
+1,Basic,12,8/31/2022,4/7/2023,219,United States,27,Female,Smartphone
+1,Basic,15,8/28/2022,5/7/2023,252,United States,48,Female,Smart TV
+1,Basic,15,8/27/2022,5/7/2023,253,Canada,49,Male,Laptop
+2,Standard,12,8/17/2022,3/7/2023,202,United Kingdom,43,Male,Smart TV
+3,Premium,14,9/8/2022,4/7/2023,211,Australia,38,Male,Laptop
+1,Basic,13,7/24/2022,5/7/2023,287,Germany,37,Male,Smartphone
+1,Basic,12,7/16/2022,4/7/2023,265,France,39,Female,Smart TV
+3,Premium,10,7/15/2022,3/7/2023,235,Brazil,40,Male,Tablet
+2,Standard,12,12/7/2022,5/7/2023,151,Mexico,40,Male,Smart TV
+2,Standard,12,12/7/2022,6/7/2023,182,Spain,48,Male,Laptop
+1,Basic,13,9/7/2022,5/7/2023,242,Italy,43,Female,Smart TV
+3,Premium,10,5/7/2022,2/7/2023,276,Spain,46,Male,Laptop
+2,Standard,11,5/7/2022,5/7/2023,365,Spain,43,Male,Smartphone
+1,Basic,10,3/7/2022,5/7/2023,426,United States,30,Female,Tablet
+2,Standard,13,1/7/2022,4/7/2023,455,Canada,51,Female,Laptop
+3,Premium,12,6/30/2022,3/7/2023,250,United States,30,Male,Smartphone
+1,Basic,14,6/27/2022,4/7/2023,284,United States,47,Female,Smart TV
+3,Premium,13,6/28/2022,4/7/2023,283,Canada,41,Male,Laptop
+2,Standard,10,6/28/2022,5/7/2023,313,United Kingdom,45,Female,Smartphone
+1,Basic,14,6/24/2022,4/7/2023,287,Australia,47,Female,Laptop
+2,Standard,11,6/24/2022,5/7/2023,317,Germany,48,Female,Smart TV
+3,Premium,11,6/25/2022,4/7/2023,286,France,51,Female,Tablet
+1,Basic,10,6/26/2022,6/7/2023,346,Brazil,29,Male,Smart TV
+2,Standard,13,6/27/2022,5/7/2023,314,Mexico,43,Female,Laptop
+3,Premium,13,6/29/2022,7/7/2023,373,Spain,49,Female,Tablet
+1,Basic,11,2/7/2022,3/7/2023,393,Italy,37,Male,Smartphone
+3,Premium,13,7/7/2022,5/7/2023,304,Spain,48,Male,Tablet
+1,Basic,11,7/13/2022,5/7/2023,298,Spain,36,Female,Tablet
+2,Standard,14,7/18/2022,7/7/2023,354,United States,33,Female,Laptop
+2,Standard,14,7/24/2022,4/7/2023,257,Canada,38,Female,Laptop
+1,Basic,12,7/31/2022,6/7/2023,311,United States,42,Female,Smartphone
+3,Premium,15,1/8/2022,5/7/2023,484,United States,30,Female,Tablet
+1,Basic,10,8/8/2022,6/7/2023,303,Canada,39,Male,Smart TV
+2,Standard,14,8/13/2022,4/7/2023,237,United Kingdom,36,Male,Smartphone
+3,Premium,11,8/14/2022,6/7/2023,297,Australia,27,Female,Smartphone
+1,Basic,11,8/23/2022,4/7/2023,227,Germany,49,Male,Smart TV
+3,Premium,14,8/27/2022,6/7/2023,284,France,31,Male,Laptop
+1,Basic,10,8/31/2022,5/7/2023,249,Brazil,36,Male,Laptop
+2,Standard,14,9/9/2022,6/7/2023,271,Mexico,41,Female,Tablet
+2,Standard,10,10/9/2022,4/7/2023,180,Spain,45,Female,Laptop
+1,Basic,14,12/9/2022,5/7/2023,149,Italy,45,Male,Smart TV
+3,Premium,11,9/17/2022,5/7/2023,232,Spain,32,Male,Smart TV
+1,Basic,13,9/21/2022,6/7/2023,259,Spain,41,Female,Smartphone
+2,Standard,11,2/10/2022,3/7/2023,390,United States,37,Male,Smart TV
+3,Premium,10,4/10/2022,5/7/2023,392,Canada,27,Male,Laptop
+1,Basic,14,6/10/2022,4/7/2023,301,United States,41,Male,Laptop
+3,Premium,13,7/10/2022,6/7/2023,332,United States,30,Female,Smart TV
+1,Basic,12,8/10/2022,4/7/2023,240,Canada,43,Male,Smartphone
+2,Standard,12,11/10/2022,5/7/2023,178,United Kingdom,51,Male,Laptop
+2,Standard,12,10/13/2022,4/7/2023,176,Australia,46,Female,Smart TV
+1,Basic,10,10/15/2022,6/7/2023,235,Germany,27,Female,Tablet
+3,Premium,10,10/19/2022,6/7/2023,231,France,51,Female,Smartphone
+1,Basic,14,10/21/2022,6/7/2023,229,Brazil,28,Female,Laptop
+2,Standard,14,10/23/2022,5/7/2023,196,Mexico,33,Male,Smartphone
+3,Premium,12,10/26/2022,5/7/2023,193,Spain,31,Female,Laptop
+1,Basic,13,10/27/2022,6/7/2023,223,Italy,47,Male,Laptop
+3,Premium,10,10/31/2022,7/7/2023,249,Spain,45,Female,Tablet
+1,Basic,13,3/11/2022,5/7/2023,422,Spain,42,Male,Smart TV
+2,Standard,15,5/11/2022,6/7/2023,392,United States,47,Female,Smart TV
+2,Standard,12,6/11/2022,6/7/2023,361,Canada,29,Female,Smart TV
+1,Basic,13,3/11/2022,7/7/2023,483,United States,49,Female,Laptop
+3,Premium,14,3/11/2022,4/7/2023,392,United States,41,Female,Laptop
+1,Basic,13,4/11/2022,5/7/2023,391,Canada,45,Male,Smartphone
+2,Standard,14,2/11/2022,6/7/2023,481,United Kingdom,49,Male,Smart TV
+3,Premium,13,10/27/2022,6/7/2023,223,Australia,41,Male,Smart TV
+1,Basic,15,10/27/2022,4/7/2023,162,Germany,37,Male,Laptop
+3,Premium,14,10/15/2022,5/7/2023,204,France,31,Male,Smartphone
+1,Basic,13,3/10/2022,5/7/2023,423,Brazil,29,Male,Smartphone
+2,Standard,10,9/25/2022,5/7/2023,224,Mexico,51,Female,Smart TV
+2,Standard,12,9/16/2022,3/7/2023,172,Spain,33,Male,Smart TV
+1,Basic,12,9/14/2022,4/7/2023,205,Italy,31,Male,Smartphone
+3,Premium,11,11/9/2022,5/7/2023,179,Spain,42,Female,Laptop
+1,Basic,15,9/9/2022,5/7/2023,240,Spain,48,Female,Laptop
+2,Standard,13,12/8/2022,3/7/2023,89,United States,37,Female,Laptop
+3,Premium,13,4/8/2022,6/7/2023,425,Canada,51,Female,Smartphone
+1,Basic,12,4/8/2022,6/7/2023,425,United States,29,Female,Tablet
+1,Basic,13,7/31/2022,5/7/2023,280,United States,46,Male,Tablet
+1,Basic,15,7/29/2022,3/7/2023,221,Canada,35,Male,Smart TV
+2,Standard,15,7/14/2022,5/7/2023,297,United Kingdom,44,Female,Smartphone
+3,Premium,12,7/13/2022,6/7/2023,329,Australia,36,Male,Smart TV
+1,Basic,14,11/7/2022,5/7/2023,181,Germany,38,Female,Tablet
+1,Basic,12,12/7/2022,3/7/2023,90,France,36,Male,Smart TV
+3,Premium,14,11/7/2022,5/7/2023,181,Brazil,40,Female,Laptop
+2,Standard,10,2/7/2022,5/7/2023,454,Mexico,29,Male,Laptop
+2,Standard,11,6/30/2022,6/7/2023,342,Spain,32,Male,Smart TV
+1,Basic,12,6/30/2022,5/7/2023,311,Italy,30,Male,Laptop
+3,Premium,10,6/29/2022,5/7/2023,312,Spain,47,Male,Smartphone
+2,Standard,15,6/30/2022,4/7/2023,281,Spain,28,Female,Tablet
+1,Basic,11,6/24/2022,5/7/2023,317,United States,49,Male,Laptop
+2,Standard,12,6/25/2022,4/7/2023,286,Canada,50,Male,Smartphone
+3,Premium,11,6/25/2022,7/7/2023,377,United States,33,Male,Smart TV
+1,Basic,13,6/26/2022,4/7/2023,285,United States,50,Male,Smart TV
+3,Premium,10,6/27/2022,6/7/2023,345,Canada,28,Female,Smart TV
+2,Standard,12,6/29/2022,6/7/2023,343,United Kingdom,41,Male,Smartphone
+1,Basic,12,1/7/2022,7/7/2023,546,Australia,30,Female,Smartphone
+2,Standard,10,3/7/2022,4/7/2023,396,Germany,32,Male,Smart TV
+3,Premium,15,12/7/2022,7/7/2023,212,France,50,Male,Laptop
+1,Basic,11,7/15/2022,5/7/2023,296,Brazil,28,Female,Smart TV
+2,Standard,13,7/19/2022,7/7/2023,353,Mexico,45,Male,Smart TV
+3,Premium,14,7/27/2022,5/7/2023,284,Spain,31,Male,Tablet
+1,Basic,11,7/29/2022,6/7/2023,313,Italy,27,Female,Smartphone
+3,Premium,11,6/8/2022,5/7/2023,333,Spain,49,Male,Tablet
+1,Basic,10,8/13/2022,6/7/2023,298,Spain,32,Female,Laptop
+2,Standard,13,8/14/2022,5/7/2023,266,United States,38,Male,Smart TV
+2,Standard,11,8/20/2022,7/7/2023,321,Canada,39,Male,Smartphone
+1,Basic,14,8/24/2022,4/7/2023,226,United States,50,Female,Tablet
+3,Premium,10,8/28/2022,6/7/2023,283,United States,51,Male,Tablet
+1,Basic,15,5/9/2022,5/7/2023,363,Canada,32,Female,Smart TV
+2,Standard,12,10/9/2022,7/7/2023,271,United Kingdom,45,Female,Smart TV
+3,Premium,12,11/9/2022,4/7/2023,149,Australia,31,Female,Laptop
+1,Basic,12,9/14/2022,6/7/2023,266,Germany,44,Male,Smartphone
+3,Premium,12,9/21/2022,5/7/2023,228,France,30,Female,Tablet
+1,Basic,13,9/26/2022,7/7/2023,284,Brazil,44,Female,Tablet
+2,Standard,10,9/30/2022,3/7/2023,158,Mexico,37,Male,Tablet
+2,Standard,14,2/10/2022,6/7/2023,482,Spain,30,Female,Tablet
+1,Basic,12,6/10/2022,5/7/2023,331,Italy,31,Female,Smart TV
+3,Premium,15,7/10/2022,6/7/2023,332,Spain,31,Female,Laptop
+1,Basic,15,9/10/2022,6/7/2023,270,Spain,44,Male,Tablet
+2,Standard,10,11/10/2022,5/7/2023,178,United States,44,Female,Smart TV
+3,Premium,14,12/10/2022,5/7/2023,148,Canada,34,Male,Laptop
+1,Basic,12,10/16/2022,6/7/2023,234,United States,42,Male,Laptop
+3,Premium,15,10/17/2022,7/7/2023,263,United States,33,Male,Smartphone
+1,Basic,11,10/21/2022,7/7/2023,259,Canada,35,Male,Smart TV
+2,Standard,15,10/23/2022,6/7/2023,227,United Kingdom,34,Female,Laptop
+2,Standard,14,10/25/2022,5/7/2023,194,Australia,47,Male,Tablet
+1,Basic,13,10/27/2022,6/7/2023,223,Germany,43,Female,Laptop
+3,Premium,13,10/29/2022,8/7/2023,282,France,43,Male,Smart TV
+1,Basic,13,1/11/2022,5/7/2023,481,Brazil,35,Female,Smartphone
+2,Standard,13,4/11/2022,6/7/2023,422,Mexico,39,Male,Tablet
+3,Premium,10,4/11/2022,6/7/2023,422,Spain,39,Male,Tablet
+1,Basic,11,4/11/2022,7/7/2023,452,Italy,49,Female,Smart TV
+3,Premium,14,5/11/2022,4/7/2023,331,Spain,30,Male,Tablet
+1,Basic,12,2/11/2022,5/7/2023,450,Spain,31,Female,Tablet
+2,Standard,12,3/11/2022,6/7/2023,453,United States,39,Male,Tablet
+2,Standard,14,10/30/2022,6/7/2023,220,Canada,30,Female,Laptop
+1,Basic,13,10/31/2022,4/7/2023,158,United States,43,Female,Smartphone
+3,Premium,10,10/14/2022,5/7/2023,205,United States,29,Female,Smartphone
+1,Basic,14,9/26/2022,5/7/2023,223,Canada,46,Male,Smart TV
+2,Standard,15,9/17/2022,6/7/2023,263,United Kingdom,35,Male,Smartphone
+3,Premium,12,9/16/2022,3/7/2023,172,Australia,30,Male,Tablet
+1,Basic,12,12/9/2022,7/7/2023,210,Germany,39,Female,Smart TV
+3,Premium,14,12/9/2022,6/7/2023,180,France,41,Male,Laptop
+1,Basic,12,8/29/2022,5/7/2023,251,Brazil,27,Male,Smartphone
+2,Standard,15,8/25/2022,3/7/2023,194,Mexico,42,Male,Laptop
+2,Standard,11,8/15/2022,6/7/2023,296,Spain,45,Female,Tablet
+1,Basic,10,11/8/2022,7/7/2023,241,Italy,36,Female,Smart TV
+3,Premium,12,10/8/2022,6/7/2023,242,Spain,35,Male,Laptop
+1,Basic,13,7/26/2022,4/7/2023,255,Spain,38,Male,Smartphone
+2,Standard,14,7/19/2022,6/7/2023,323,United States,41,Female,Smart TV
+3,Premium,10,7/17/2022,6/7/2023,325,Canada,43,Male,Tablet
+1,Basic,13,7/17/2022,6/7/2023,325,United States,44,Male,Tablet
+1,Basic,10,7/17/2022,4/7/2023,264,United States,35,Male,Tablet
+1,Basic,13,11/7/2022,6/7/2023,212,Canada,39,Male,Laptop
+2,Standard,15,7/7/2022,5/7/2023,304,United Kingdom,43,Male,Smart TV
+3,Premium,10,7/7/2022,6/7/2023,335,Australia,36,Male,Smart TV
+1,Basic,11,8/7/2022,5/7/2023,273,Germany,49,Female,Laptop
+1,Basic,12,6/7/2022,8/7/2023,426,France,29,Female,Smartphone
+3,Premium,10,3/7/2022,4/7/2023,396,Brazil,45,Male,Tablet
+2,Standard,11,6/30/2022,6/7/2023,342,Mexico,44,Female,Laptop
+2,Standard,11,6/27/2022,4/7/2023,284,Spain,40,Female,Smart TV
+1,Basic,15,6/26/2022,8/7/2023,407,Italy,51,Female,Smart TV
+3,Premium,15,6/27/2022,5/7/2023,314,Spain,30,Female,Smart TV
+2,Standard,14,6/28/2022,8/7/2023,405,Spain,50,Male,Smart TV
+1,Basic,12,6/30/2022,6/7/2023,342,United States,39,Male,Tablet
+2,Standard,11,2/7/2022,7/7/2023,515,Canada,51,Male,Tablet
+3,Premium,10,5/7/2022,5/7/2023,365,United States,42,Male,Laptop
+1,Basic,12,11/7/2022,7/7/2023,242,United States,34,Female,Tablet
+3,Premium,12,7/18/2022,6/7/2023,324,Canada,28,Male,Tablet
+2,Standard,15,7/25/2022,7/7/2023,347,United Kingdom,43,Male,Tablet
+1,Basic,11,7/28/2022,6/7/2023,314,Australia,27,Female,Tablet
+2,Standard,13,5/8/2022,8/7/2023,456,Germany,49,Female,Smart TV
+3,Premium,14,9/8/2022,5/7/2023,241,France,35,Female,Laptop
+1,Basic,10,8/14/2022,6/7/2023,297,Brazil,34,Male,Tablet
+2,Standard,14,8/15/2022,5/7/2023,265,Mexico,28,Male,Smartphone
+3,Premium,15,8/16/2022,7/7/2023,325,Spain,49,Female,Tablet
+1,Basic,12,8/25/2022,4/7/2023,225,Italy,51,Female,Tablet
+3,Premium,13,8/27/2022,6/7/2023,284,Spain,36,Male,Laptop
+1,Basic,13,6/9/2022,6/7/2023,363,Spain,37,Male,Smart TV
+2,Standard,11,8/9/2022,7/7/2023,332,United States,48,Male,Laptop
+2,Standard,13,9/13/2022,4/7/2023,206,Canada,45,Female,Smart TV
+1,Basic,11,9/15/2022,6/7/2023,265,United States,39,Male,Tablet
+3,Premium,14,9/19/2022,5/7/2023,230,United States,39,Male,Smartphone
+1,Basic,15,9/22/2022,7/7/2023,288,Canada,46,Female,Smart TV
+2,Standard,13,9/24/2022,6/7/2023,256,United Kingdom,30,Female,Smartphone
+3,Premium,10,9/30/2022,6/7/2023,250,Australia,32,Female,Smartphone
+1,Basic,11,3/10/2022,5/7/2023,423,Germany,39,Male,Laptop
+3,Premium,15,8/10/2022,7/7/2023,331,France,35,Female,Smartphone
+1,Basic,15,9/10/2022,7/7/2023,300,Brazil,41,Female,Smartphone
+2,Standard,11,12/10/2022,8/7/2023,240,Mexico,32,Female,Smart TV
+2,Standard,14,10/15/2022,6/7/2023,235,Spain,41,Female,Smart TV
+1,Basic,14,10/17/2022,6/7/2023,233,Italy,36,Female,Smart TV
+3,Premium,15,10/19/2022,7/7/2023,261,Spain,49,Male,Laptop
+1,Basic,11,10/22/2022,9/7/2023,320,Spain,30,Female,Smartphone
+2,Standard,15,10/23/2022,6/7/2023,227,United States,40,Female,Smartphone
+3,Premium,13,10/27/2022,7/7/2023,253,Canada,46,Female,Tablet
+1,Basic,11,10/28/2022,6/7/2023,222,United States,30,Female,Smart TV
+3,Premium,10,1/11/2022,8/7/2023,573,United States,48,Male,Laptop
+1,Basic,11,4/11/2022,5/7/2023,391,Canada,50,Male,Tablet
+2,Standard,11,5/11/2022,6/7/2023,392,United Kingdom,27,Male,Smart TV
+2,Standard,14,4/11/2022,7/7/2023,452,Australia,51,Female,Laptop
+1,Basic,11,5/11/2022,7/7/2023,422,Germany,38,Male,Smartphone
+3,Premium,10,4/11/2022,5/7/2023,391,France,39,Male,Laptop
+1,Basic,12,5/11/2022,5/7/2023,361,Brazil,45,Female,Smart TV
+2,Standard,12,3/11/2022,6/7/2023,453,Mexico,29,Male,Laptop
+3,Premium,13,10/31/2022,7/7/2023,249,Spain,35,Male,Smartphone
+1,Basic,10,10/26/2022,4/7/2023,163,Italy,51,Female,Smart TV
+3,Premium,11,10/16/2022,6/7/2023,234,Spain,51,Male,Smart TV
+1,Basic,15,10/16/2022,7/7/2023,264,Spain,42,Female,Smartphone
+2,Standard,13,9/17/2022,6/7/2023,263,United States,48,Female,Laptop
+2,Standard,14,12/9/2022,4/7/2023,119,Canada,40,Male,Smart TV
+1,Basic,13,9/13/2022,7/7/2023,297,United States,39,Male,Smart TV
+3,Premium,14,9/9/2022,7/7/2023,301,United States,44,Male,Laptop
+1,Basic,14,3/9/2022,6/7/2023,455,Canada,27,Female,Laptop
+2,Standard,11,8/31/2022,5/7/2023,249,United Kingdom,35,Male,Tablet
+3,Premium,14,8/25/2022,7/7/2023,316,Australia,45,Male,Smart TV
+1,Basic,12,8/15/2022,7/7/2023,326,Germany,33,Male,Tablet
+3,Premium,10,8/16/2022,7/7/2023,325,France,32,Female,Smart TV
+1,Basic,11,7/28/2022,5/7/2023,283,Brazil,51,Female,Laptop
+2,Standard,10,7/28/2022,6/7/2023,314,Mexico,40,Female,Tablet
+2,Standard,15,7/22/2022,6/7/2023,320,Spain,47,Male,Laptop
+1,Basic,13,7/19/2022,6/7/2023,323,Italy,42,Male,Smart TV
+3,Premium,10,7/16/2022,6/7/2023,326,Spain,41,Male,Tablet
+1,Basic,12,7/15/2022,9/7/2023,419,Spain,43,Male,Tablet
+2,Standard,11,7/16/2022,5/7/2023,295,United States,42,Female,Tablet
+3,Premium,14,9/7/2022,6/7/2023,273,Canada,28,Male,Smartphone
+1,Basic,12,7/7/2022,5/7/2023,304,United States,40,Female,Laptop
+1,Basic,15,7/7/2022,9/7/2023,427,United States,46,Female,Tablet
+1,Basic,11,6/7/2022,5/7/2023,334,Canada,39,Female,Laptop
+2,Standard,15,6/30/2022,6/7/2023,342,United Kingdom,41,Female,Smartphone
+3,Premium,15,6/27/2022,5/7/2023,314,Australia,30,Male,Tablet
+1,Basic,14,6/28/2022,8/7/2023,405,Germany,32,Male,Tablet
+1,Basic,14,6/28/2022,6/7/2023,344,France,38,Male,Smart TV
+3,Premium,11,6/29/2022,8/7/2023,404,Brazil,38,Male,Tablet
+2,Standard,13,1/7/2022,6/7/2023,516,Mexico,32,Male,Smartphone
+2,Standard,14,3/7/2022,7/7/2023,487,Spain,27,Male,Tablet
+1,Basic,15,4/7/2022,6/7/2023,426,Italy,50,Female,Tablet
+3,Premium,10,10/7/2022,7/7/2023,273,Spain,30,Male,Smartphone
+2,Standard,11,7/23/2022,6/7/2023,319,Spain,49,Male,Smartphone
+1,Basic,11,7/24/2022,7/7/2023,348,United States,32,Female,Laptop
+2,Standard,14,7/26/2022,6/7/2023,316,Canada,35,Male,Smartphone
+3,Premium,12,7/8/2022,8/7/2023,395,United States,44,Male,Tablet
+1,Basic,13,10/8/2022,5/7/2023,211,United States,49,Female,Laptop
+3,Premium,13,8/14/2022,6/7/2023,297,Canada,39,Male,Smartphone
+2,Standard,12,8/16/2022,6/7/2023,295,United Kingdom,38,Female,Smartphone
+1,Basic,10,8/20/2022,8/7/2023,352,Australia,38,Female,Laptop
+2,Standard,11,8/25/2022,5/7/2023,255,Germany,37,Male,Smartphone
+3,Premium,11,8/28/2022,7/7/2023,313,France,28,Male,Laptop
+1,Basic,11,5/9/2022,6/7/2023,394,Brazil,49,Male,Tablet
+2,Standard,13,8/9/2022,8/7/2023,363,Mexico,33,Female,Tablet
+3,Premium,10,9/14/2022,5/7/2023,235,Spain,48,Male,Tablet
+1,Basic,13,9/16/2022,6/7/2023,264,Italy,34,Male,Tablet
+3,Premium,13,9/19/2022,6/7/2023,261,Spain,39,Female,Smartphone
+1,Basic,15,9/23/2022,7/7/2023,287,Spain,30,Male,Tablet
+2,Standard,10,9/29/2022,7/7/2023,281,United States,37,Male,Tablet
+2,Standard,10,2/10/2022,6/7/2023,482,Canada,38,Male,Smart TV
+1,Basic,12,8/10/2022,5/7/2023,270,United States,42,Female,Laptop
+3,Premium,15,9/10/2022,7/7/2023,300,United States,35,Female,Laptop
+1,Basic,14,11/10/2022,8/7/2023,270,Canada,30,Male,Tablet
+2,Standard,15,10/14/2022,9/7/2023,328,United Kingdom,48,Female,Smart TV
+3,Premium,14,10/16/2022,6/7/2023,234,Australia,48,Male,Tablet
+1,Basic,13,10/18/2022,7/7/2023,262,Germany,32,Male,Laptop
+3,Premium,15,10/22/2022,7/7/2023,258,France,27,Male,Smart TV
+1,Basic,10,10/23/2022,9/7/2023,319,Brazil,48,Female,Laptop
+2,Standard,12,10/26/2022,6/7/2023,224,Mexico,33,Male,Laptop
+2,Standard,13,10/27/2022,7/7/2023,253,Spain,28,Male,Smartphone
+1,Basic,15,10/31/2022,7/7/2023,249,Italy,46,Male,Laptop
+3,Premium,11,1/11/2022,8/7/2023,573,Spain,40,Male,Laptop
+1,Basic,13,3/11/2022,5/7/2023,422,Spain,49,Male,Smartphone
+2,Standard,14,4/11/2022,6/7/2023,422,United States,41,Female,Tablet
+3,Premium,13,5/11/2022,7/7/2023,422,Canada,38,Male,Tablet
+1,Basic,13,5/11/2022,7/7/2023,422,United States,42,Female,Laptop
+3,Premium,13,5/11/2022,5/7/2023,361,United States,27,Female,Smart TV
+1,Basic,12,5/11/2022,6/7/2023,392,Canada,41,Female,Tablet
+2,Standard,13,3/11/2022,7/7/2023,483,United Kingdom,41,Female,Tablet
+2,Standard,11,10/27/2022,7/7/2023,253,Australia,49,Male,Laptop
+1,Basic,14,10/24/2022,4/7/2023,165,Germany,28,Female,Smartphone
+3,Premium,13,10/17/2022,7/7/2023,263,France,44,Male,Laptop
+1,Basic,11,6/10/2022,7/7/2023,392,Brazil,47,Female,Tablet
+2,Standard,12,9/18/2022,6/7/2023,262,Mexico,29,Male,Tablet
+3,Premium,10,9/17/2022,4/7/2023,202,Spain,31,Female,Laptop
+1,Basic,12,9/13/2022,8/7/2023,328,Italy,28,Female,Smart TV
+3,Premium,15,9/9/2022,7/7/2023,301,Spain,32,Male,Smart TV
+1,Basic,12,2/9/2022,7/7/2023,513,Spain,43,Male,Smartphone
+2,Standard,13,1/9/2022,6/7/2023,514,United States,48,Male,Smart TV
+2,Standard,10,8/16/2022,7/7/2023,325,Canada,28,Male,Laptop
+1,Basic,14,8/17/2022,7/7/2023,324,United States,31,Female,Tablet
+3,Premium,15,7/29/2022,7/7/2023,343,United States,47,Male,Laptop
+1,Basic,13,7/28/2022,6/7/2023,314,Canada,39,Female,Smartphone
+2,Standard,13,7/25/2022,7/7/2023,347,United Kingdom,35,Male,Smartphone
+3,Premium,10,7/26/2022,6/7/2023,316,Australia,42,Female,Smartphone
+1,Basic,11,7/17/2022,7/7/2023,355,Germany,30,Male,Smart TV
+3,Premium,14,7/16/2022,6/7/2023,326,France,34,Male,Smartphone
+1,Basic,11,7/17/2022,9/7/2023,417,Brazil,35,Male,Smartphone
+2,Standard,12,7/16/2022,6/7/2023,326,Mexico,31,Female,Tablet
+2,Standard,14,7/16/2022,7/7/2023,356,Spain,36,Female,Tablet
+1,Basic,14,12/7/2022,6/7/2023,182,Italy,31,Female,Laptop
+3,Premium,11,10/7/2022,9/7/2023,335,Spain,32,Male,Smart TV
+1,Basic,10,8/7/2022,7/7/2023,334,Spain,46,Female,Smartphone
+2,Standard,15,6/29/2022,7/7/2023,373,United States,30,Male,Tablet
+3,Premium,12,6/29/2022,6/7/2023,343,Canada,46,Male,Laptop
+1,Basic,12,6/28/2022,8/7/2023,405,United States,44,Female,Tablet
+1,Basic,12,6/29/2022,6/7/2023,343,United States,34,Male,Tablet
+1,Basic,13,1/7/2022,8/7/2023,577,Canada,31,Male,Tablet
+2,Standard,13,2/7/2022,6/7/2023,485,United Kingdom,34,Male,Smart TV
+3,Premium,12,4/7/2022,8/7/2023,487,Australia,28,Male,Laptop
+1,Basic,10,8/7/2022,7/7/2023,334,Germany,36,Female,Smartphone
+1,Basic,14,7/20/2022,9/7/2023,414,France,48,Female,Laptop
+3,Premium,13,7/23/2022,6/7/2023,319,Brazil,40,Male,Smartphone
+2,Standard,15,7/26/2022,7/7/2023,346,Mexico,35,Male,Smartphone
+2,Standard,11,7/30/2022,7/7/2023,342,Spain,41,Male,Laptop
+1,Basic,10,8/8/2022,8/7/2023,364,Italy,28,Female,Smartphone
+3,Premium,12,8/13/2022,5/7/2023,267,Spain,37,Male,Tablet
+2,Standard,12,8/14/2022,7/7/2023,327,Spain,33,Male,Smartphone
+1,Basic,15,8/16/2022,6/7/2023,295,United States,27,Female,Tablet
+2,Standard,14,8/19/2022,8/7/2023,353,Canada,35,Male,Tablet
+3,Premium,10,8/27/2022,6/7/2023,284,United States,27,Male,Smartphone
+1,Basic,15,4/9/2022,7/7/2023,454,United States,29,Female,Smartphone
+3,Premium,12,5/9/2022,6/7/2023,394,Canada,28,Female,Laptop
+2,Standard,12,9/13/2022,8/7/2023,328,United Kingdom,33,Female,Smartphone
+1,Basic,10,9/16/2022,5/7/2023,233,Australia,35,Female,Smartphone
+2,Standard,15,9/18/2022,6/7/2023,262,Germany,37,Female,Laptop
+3,Premium,12,9/20/2022,6/7/2023,260,France,31,Male,Smartphone
+1,Basic,13,9/29/2022,7/7/2023,281,Brazil,27,Male,Laptop
+2,Standard,11,9/30/2022,8/7/2023,311,Mexico,48,Male,Tablet
+3,Premium,15,4/10/2022,10/7/2023,545,Spain,30,Female,Smart TV
+1,Basic,14,8/10/2022,7/7/2023,331,Italy,45,Male,Tablet
+3,Premium,14,10/10/2022,7/7/2023,270,Spain,28,Male,Smart TV
+1,Basic,12,12/10/2022,8/7/2023,240,Spain,30,Female,Laptop
+2,Standard,15,10/14/2022,10/7/2023,358,United States,48,Male,Smartphone
+2,Standard,10,10/16/2022,7/7/2023,264,Canada,37,Female,Laptop
+1,Basic,15,10/21/2022,7/7/2023,259,United States,28,Female,Smartphone
+3,Premium,14,10/23/2022,7/7/2023,257,United States,43,Female,Tablet
+1,Basic,10,10/25/2022,9/7/2023,317,Canada,36,Male,Laptop
+2,Standard,15,10/26/2022,6/7/2023,224,United Kingdom,47,Male,Laptop
+3,Premium,10,10/29/2022,7/7/2023,251,Australia,42,Male,Smart TV
+1,Basic,15,10/31/2022,7/7/2023,249,Germany,50,Male,Laptop
+3,Premium,13,2/11/2022,8/7/2023,542,France,41,Male,Tablet
+1,Basic,13,3/11/2022,5/7/2023,422,Brazil,43,Male,Laptop
+2,Standard,13,5/11/2022,7/7/2023,422,Mexico,35,Male,Laptop
+2,Standard,10,6/11/2022,7/7/2023,391,Spain,51,Male,Smart TV
+1,Basic,15,6/11/2022,7/7/2023,391,Italy,35,Male,Tablet
+3,Premium,10,7/11/2022,5/7/2023,300,Spain,37,Male,Smart TV
+1,Basic,10,4/11/2022,6/7/2023,422,Spain,28,Female,Smartphone
+2,Standard,14,2/11/2022,7/7/2023,511,United States,32,Female,Smartphone
+3,Premium,13,10/27/2022,7/7/2023,253,Canada,37,Female,Tablet
+1,Basic,11,10/18/2022,5/7/2023,201,United States,37,Female,Tablet
+3,Premium,12,7/10/2022,8/7/2023,393,United States,34,Female,Smart TV
+1,Basic,15,4/10/2022,7/7/2023,453,Canada,30,Female,Tablet
+2,Standard,14,9/17/2022,7/7/2023,293,United Kingdom,35,Male,Tablet
+2,Standard,14,9/15/2022,6/7/2023,265,Australia,41,Female,Laptop
+1,Basic,13,10/9/2022,8/7/2023,302,Germany,50,Female,Tablet
+3,Premium,11,9/9/2022,8/7/2023,332,France,48,Female,Laptop
+1,Basic,12,9/9/2022,8/7/2023,332,Brazil,29,Male,Smart TV
+2,Standard,12,7/9/2022,6/7/2023,333,Mexico,37,Male,Tablet
+3,Premium,15,8/9/2022,8/7/2023,363,Spain,36,Female,Tablet
+1,Basic,15,8/14/2022,7/7/2023,327,Italy,45,Male,Tablet
+3,Premium,15,6/8/2022,8/7/2023,425,Spain,27,Female,Smart TV
+1,Basic,12,6/8/2022,6/7/2023,364,Spain,31,Female,Tablet
+2,Standard,11,7/29/2022,9/7/2023,405,United States,42,Female,Tablet
+2,Standard,15,7/28/2022,6/7/2023,314,Canada,43,Female,Smartphone
+1,Basic,13,7/24/2022,7/7/2023,348,United States,43,Male,Smart TV
+3,Premium,15,7/22/2022,6/7/2023,320,United States,35,Female,Laptop
+1,Basic,13,7/19/2022,10/7/2023,445,Canada,51,Male,Laptop
+2,Standard,13,7/17/2022,7/7/2023,355,United Kingdom,42,Female,Smartphone
+3,Premium,13,7/16/2022,7/7/2023,356,Australia,36,Male,Tablet
+1,Basic,13,7/13/2022,7/7/2023,359,Germany,50,Female,Tablet
+3,Premium,15,7/14/2022,9/7/2023,420,France,43,Female,Laptop
+1,Basic,11,7/7/2022,7/7/2023,365,Brazil,28,Male,Laptop
+2,Standard,10,6/7/2022,9/7/2023,457,Mexico,48,Female,Smart TV
+2,Standard,14,6/30/2022,7/7/2023,372,Spain,47,Female,Tablet
+1,Basic,12,6/30/2022,9/7/2023,434,Italy,31,Male,Smart TV
+3,Premium,14,1/7/2022,6/7/2023,516,Spain,45,Male,Laptop
+1,Basic,15,2/7/2022,9/7/2023,577,Spain,45,Female,Tablet
+2,Standard,14,3/7/2022,6/7/2023,457,United States,42,Female,Smart TV
+3,Premium,12,6/7/2022,8/7/2023,426,Canada,36,Female,Tablet
+1,Basic,14,7/7/2022,7/7/2023,365,United States,32,Male,Smart TV
+1,Basic,10,7/15/2022,9/7/2023,419,United States,50,Male,Tablet
+1,Basic,14,7/17/2022,6/7/2023,325,Canada,39,Male,Smart TV
+2,Standard,10,7/26/2022,8/7/2023,377,United Kingdom,51,Male,Smartphone
+3,Premium,14,5/8/2022,7/7/2023,425,Australia,49,Female,Tablet
+1,Basic,14,12/8/2022,9/7/2023,273,Germany,42,Male,Tablet
+1,Basic,12,8/14/2022,6/7/2023,297,France,46,Male,Tablet
+3,Premium,12,8/15/2022,7/7/2023,326,Brazil,30,Male,Smartphone
+2,Standard,10,8/18/2022,7/7/2023,323,Mexico,48,Male,Smart TV
+2,Standard,12,8/21/2022,9/7/2023,382,Spain,40,Female,Laptop
+1,Basic,10,4/9/2022,6/7/2023,424,Italy,50,Female,Smart TV
+3,Premium,15,5/9/2022,7/7/2023,424,Spain,49,Female,Laptop
+2,Standard,11,8/9/2022,7/7/2023,332,Spain,37,Male,Smartphone
+1,Basic,12,9/15/2022,8/7/2023,326,United States,43,Male,Laptop
+2,Standard,15,9/17/2022,6/7/2023,263,Canada,40,Female,Tablet
+3,Premium,14,9/19/2022,9/7/2023,353,United States,27,Male,Laptop
+1,Basic,10,9/23/2022,6/7/2023,257,United States,47,Male,Smart TV
+3,Premium,11,9/26/2022,8/7/2023,315,Canada,50,Male,Smartphone
+2,Standard,12,9/30/2022,8/7/2023,311,United Kingdom,31,Female,Smartphone
+1,Basic,10,7/10/2022,10/7/2023,454,Australia,33,Male,Smartphone
+2,Standard,13,9/10/2022,7/7/2023,300,Germany,42,Female,Tablet
+3,Premium,14,12/10/2022,7/7/2023,209,France,51,Female,Laptop
+1,Basic,12,10/13/2022,8/7/2023,298,Brazil,43,Female,Smartphone
+2,Standard,15,10/14/2022,10/7/2023,358,Mexico,45,Female,Smart TV
+3,Premium,13,10/19/2022,7/7/2023,261,Spain,48,Female,Tablet
+1,Basic,14,10/20/2022,7/7/2023,260,Italy,48,Female,Smart TV
+3,Premium,12,10/22/2022,8/7/2023,289,Spain,30,Male,Smartphone
+1,Basic,15,10/24/2022,9/7/2023,318,Spain,29,Female,Tablet
+2,Standard,10,10/28/2022,6/7/2023,222,United States,28,Male,Tablet
+2,Standard,12,10/30/2022,8/7/2023,281,Canada,46,Female,Laptop
+1,Basic,13,1/11/2022,8/7/2023,573,United States,45,Male,Smart TV
+3,Premium,12,3/11/2022,8/7/2023,514,United States,30,Male,Tablet
+1,Basic,13,4/11/2022,6/7/2023,422,Canada,44,Female,Laptop
+2,Standard,14,5/11/2022,7/7/2023,422,United Kingdom,46,Male,Laptop
+3,Premium,13,6/11/2022,8/7/2023,422,Australia,36,Female,Tablet
+1,Basic,12,7/11/2022,8/7/2023,392,Germany,27,Female,Smartphone
+3,Premium,14,5/11/2022,5/7/2023,361,France,43,Male,Laptop
+1,Basic,11,5/11/2022,9/7/2023,484,Brazil,48,Female,Smartphone
+2,Standard,12,6/11/2022,8/7/2023,422,Mexico,36,Female,Smartphone
+2,Standard,10,3/11/2022,7/7/2023,483,Spain,44,Male,Smart TV
+1,Basic,11,10/22/2022,6/7/2023,228,Italy,41,Female,Tablet
+3,Premium,12,10/22/2022,9/7/2023,320,Spain,29,Female,Smart TV
+1,Basic,13,10/15/2022,9/7/2023,327,Spain,28,Female,Smartphone
+2,Standard,11,9/24/2022,7/7/2023,286,United States,36,Female,Smartphone
+3,Premium,15,9/15/2022,6/7/2023,265,Canada,36,Female,Smart TV
+1,Basic,14,9/15/2022,8/7/2023,326,United States,40,Male,Laptop
+3,Premium,11,12/9/2022,8/7/2023,241,United States,35,Female,Tablet
+1,Basic,14,12/9/2022,9/7/2023,272,Canada,34,Female,Smartphone
+2,Standard,10,11/9/2022,7/7/2023,240,United Kingdom,46,Male,Laptop
+2,Standard,14,11/9/2022,8/7/2023,271,Australia,47,Female,Smart TV
+1,Basic,12,8/16/2022,7/7/2023,325,Germany,32,Female,Smartphone
+3,Premium,13,12/8/2022,8/7/2023,242,France,45,Male,Smartphone
+1,Basic,10,2/8/2022,7/7/2023,514,Brazil,31,Female,Smartphone
+2,Standard,11,1/8/2022,10/7/2023,637,Mexico,49,Male,Laptop
+3,Premium,11,7/29/2022,7/7/2023,343,Spain,33,Female,Smartphone
+1,Basic,12,7/28/2022,8/7/2023,375,Italy,30,Male,Smartphone
+3,Premium,11,7/25/2022,8/7/2023,378,Spain,48,Female,Laptop
+1,Basic,14,7/20/2022,10/7/2023,444,Spain,49,Female,Tablet
+2,Standard,13,7/16/2022,8/7/2023,387,United States,43,Male,Laptop
+2,Standard,14,7/16/2022,8/7/2023,387,Canada,46,Female,Laptop
+1,Basic,12,7/15/2022,7/7/2023,357,United States,33,Male,Smartphone
+3,Premium,15,7/13/2022,9/7/2023,421,United States,31,Female,Smartphone
+1,Basic,13,6/7/2022,7/7/2023,395,Canada,44,Female,Smart TV
+2,Standard,10,3/7/2022,9/7/2023,549,United Kingdom,34,Male,Smart TV
+3,Premium,15,4/7/2022,7/7/2023,456,Australia,41,Male,Laptop
+1,Basic,10,3/7/2022,9/7/2023,549,Germany,42,Male,Laptop
+3,Premium,15,3/7/2022,7/7/2023,487,France,38,Female,Laptop
+1,Basic,13,4/7/2022,10/7/2023,548,Brazil,31,Female,Tablet
+2,Standard,11,5/7/2022,6/7/2023,396,Mexico,35,Female,Smartphone
+2,Standard,15,7/7/2022,8/7/2023,396,Spain,32,Male,Smartphone
+1,Basic,15,8/7/2022,7/7/2023,334,Italy,39,Male,Smartphone
+3,Premium,12,7/13/2022,10/7/2023,451,Spain,42,Male,Laptop
+1,Basic,11,7/15/2022,6/7/2023,327,Spain,31,Male,Tablet
+2,Standard,14,1/8/2022,8/7/2023,576,United States,38,Male,Tablet
+3,Premium,13,11/8/2022,8/7/2023,272,Canada,48,Male,Smart TV
+1,Basic,14,8/13/2022,9/7/2023,390,United States,29,Male,Tablet
+1,Basic,10,8/15/2022,6/7/2023,296,United States,43,Female,Smart TV
+1,Basic,13,8/16/2022,8/7/2023,356,Canada,49,Female,Smartphone
+2,Standard,14,8/18/2022,8/7/2023,354,United Kingdom,50,Male,Smartphone
+3,Premium,14,8/25/2022,9/7/2023,378,Australia,50,Male,Smartphone
+1,Basic,14,8/29/2022,6/7/2023,282,Germany,51,Male,Smart TV
+1,Basic,11,4/9/2022,9/7/2023,516,France,29,Male,Tablet
+3,Premium,11,9/13/2022,7/7/2023,297,Brazil,50,Female,Smartphone
+2,Standard,12,9/14/2022,8/7/2023,327,Mexico,39,Female,Tablet
+2,Standard,10,9/17/2022,6/7/2023,263,Spain,27,Female,Smart TV
+1,Basic,15,9/18/2022,10/7/2023,384,Italy,29,Male,Smart TV
+3,Premium,15,9/23/2022,7/7/2023,287,Spain,28,Male,Tablet
+2,Standard,11,9/27/2022,8/7/2023,314,Spain,46,Male,Smartphone
+1,Basic,14,4/10/2022,8/7/2023,484,United States,50,Female,Tablet
+2,Standard,12,9/10/2022,11/7/2023,423,Canada,33,Female,Tablet
+3,Premium,14,10/10/2022,7/7/2023,270,United States,32,Female,Tablet
+1,Basic,12,11/10/2022,8/7/2023,270,United States,38,Male,Smart TV
+3,Premium,13,10/13/2022,9/7/2023,329,Canada,49,Male,Smart TV
+2,Standard,12,10/15/2022,10/7/2023,357,United Kingdom,50,Male,Laptop
+1,Basic,13,10/20/2022,7/7/2023,260,Australia,37,Female,Laptop
+2,Standard,15,10/21/2022,8/7/2023,290,Germany,33,Female,Laptop
+3,Premium,11,10/23/2022,9/7/2023,319,France,33,Female,Tablet
+1,Basic,15,10/25/2022,9/7/2023,317,Brazil,46,Male,Smartphone
+2,Standard,10,10/27/2022,7/7/2023,253,Mexico,28,Male,Smartphone
+3,Premium,11,10/30/2022,8/7/2023,281,Spain,33,Male,Tablet
+1,Basic,15,1/11/2022,9/7/2023,604,Italy,45,Male,Laptop
+3,Premium,14,2/11/2022,9/7/2023,573,Spain,43,Male,Laptop
+1,Basic,11,4/11/2022,6/7/2023,422,Spain,49,Female,Smartphone
+2,Standard,13,6/11/2022,7/7/2023,391,United States,41,Female,Tablet
+2,Standard,14,7/11/2022,9/7/2023,423,Canada,39,Female,Smartphone
+1,Basic,14,6/11/2022,8/7/2023,422,United States,45,Female,Smartphone
+3,Premium,15,7/11/2022,6/7/2023,331,United States,38,Male,Tablet
+1,Basic,15,7/11/2022,10/7/2023,453,Canada,30,Male,Smart TV
+2,Standard,12,3/11/2022,8/7/2023,514,United Kingdom,27,Female,Smart TV
+3,Premium,15,3/11/2022,8/7/2023,514,Australia,36,Female,Smartphone
+1,Basic,15,10/31/2022,6/7/2023,219,Germany,36,Female,Tablet
+3,Premium,11,10/28/2022,9/7/2023,314,France,28,Male,Tablet
+1,Basic,10,9/28/2022,9/7/2023,344,Brazil,45,Female,Smartphone
+2,Standard,15,9/19/2022,9/7/2023,353,Mexico,41,Male,Smartphone
+2,Standard,12,9/16/2022,8/7/2023,325,Spain,29,Male,Smart TV
+1,Basic,15,9/17/2022,8/7/2023,324,Italy,35,Male,Smartphone
+3,Premium,12,9/17/2022,8/7/2023,324,Spain,36,Female,Smart TV
+1,Basic,11,9/15/2022,9/7/2023,357,Spain,41,Male,Laptop
+2,Standard,11,9/14/2022,8/7/2023,327,United States,46,Male,Tablet
+3,Premium,11,9/14/2022,8/7/2023,327,Canada,46,Female,Tablet
+1,Basic,10,9/13/2022,8/7/2023,328,United States,42,Male,Smartphone
+3,Premium,13,8/13/2022,8/7/2023,359,United States,40,Male,Tablet
+1,Basic,14,12/8/2022,8/7/2023,242,Canada,32,Female,Tablet
+2,Standard,11,7/8/2022,10/7/2023,456,United Kingdom,34,Female,Smartphone
+2,Standard,11,7/8/2022,9/7/2023,426,Australia,27,Female,Smart TV
+1,Basic,11,4/8/2022,8/7/2023,486,Germany,38,Male,Laptop
+3,Premium,14,7/24/2022,8/7/2023,379,France,34,Female,Laptop
+1,Basic,13,7/18/2022,10/7/2023,446,Brazil,28,Male,Tablet
+2,Standard,12,7/17/2022,8/7/2023,386,Mexico,48,Male,Smartphone
+3,Premium,13,7/17/2022,9/7/2023,417,Spain,42,Female,Laptop
+1,Basic,10,7/14/2022,8/7/2023,389,Italy,37,Female,Smart TV
+3,Premium,11,6/7/2022,10/7/2023,487,Spain,28,Female,Tablet
+1,Basic,13,7/7/2022,8/7/2023,396,Spain,43,Female,Smart TV
+2,Standard,10,7/7/2022,11/7/2023,488,United States,44,Female,Smart TV
+2,Standard,12,8/7/2022,7/7/2023,334,Canada,33,Female,Smartphone
+1,Basic,13,7/7/2022,9/7/2023,427,United States,36,Male,Smart TV
+3,Premium,14,8/7/2022,7/7/2023,334,United States,27,Male,Tablet
+1,Basic,11,9/7/2022,11/7/2023,426,Canada,41,Male,Tablet
+2,Standard,14,9/7/2022,7/7/2023,303,United Kingdom,32,Male,Smart TV
+3,Premium,12,9/7/2022,8/7/2023,334,Australia,36,Female,Laptop
+1,Basic,12,12/7/2022,7/7/2023,212,Germany,36,Female,Tablet
+3,Premium,13,7/15/2022,10/7/2023,449,France,36,Male,Laptop
+1,Basic,14,7/16/2022,7/7/2023,356,Brazil,32,Male,Smart TV
+2,Standard,10,7/18/2022,8/7/2023,385,Mexico,45,Female,Smartphone
+2,Standard,11,8/13/2022,9/7/2023,390,Spain,43,Female,Tablet
+1,Basic,10,8/14/2022,10/7/2023,419,Italy,35,Male,Tablet
+3,Premium,13,8/16/2022,7/7/2023,325,Spain,29,Female,Smart TV
+1,Basic,14,8/17/2022,8/7/2023,355,Spain,33,Female,Smart TV
+2,Standard,14,8/25/2022,8/7/2023,347,United States,49,Male,Smart TV
+3,Premium,15,8/28/2022,9/7/2023,375,Canada,27,Male,Tablet
+1,Basic,14,8/29/2022,7/7/2023,312,United States,39,Female,Smart TV
+1,Basic,10,11/9/2022,10/7/2023,332,United States,34,Female,Smart TV
+1,Basic,12,12/9/2022,8/7/2023,241,Canada,39,Male,Smartphone
+2,Standard,11,9/16/2022,9/7/2023,356,United Kingdom,39,Female,Laptop
+3,Premium,15,9/17/2022,9/7/2023,355,Australia,39,Female,Smart TV
+1,Basic,10,9/21/2022,10/7/2023,381,Germany,40,Female,Laptop
+1,Basic,15,9/23/2022,8/7/2023,318,France,40,Male,Tablet
+3,Premium,14,9/27/2022,8/7/2023,314,Brazil,31,Male,Smartphone
+2,Standard,12,9/10/2022,9/7/2023,362,Mexico,47,Male,Smartphone
+2,Standard,11,10/10/2022,11/7/2023,393,Spain,43,Male,Laptop
+1,Basic,13,11/10/2022,8/7/2023,270,Italy,34,Male,Smartphone
+3,Premium,12,12/10/2022,8/7/2023,240,Spain,30,Female,Tablet
+2,Standard,15,10/13/2022,9/7/2023,329,Spain,33,Female,Smartphone
+1,Basic,12,10/19/2022,10/7/2023,353,United States,29,Male,Tablet
+2,Standard,14,10/21/2022,7/7/2023,259,Canada,35,Female,Smartphone
+3,Premium,13,10/23/2022,8/7/2023,288,United States,41,Female,Laptop
+1,Basic,14,10/24/2022,10/7/2023,348,United States,34,Female,Smartphone
+3,Premium,12,10/26/2022,9/7/2023,316,Canada,28,Female,Tablet
+2,Standard,15,10/27/2022,7/7/2023,253,United Kingdom,31,Male,Smart TV
+1,Basic,15,1/11/2022,8/7/2023,573,Australia,29,Male,Smart TV
+2,Standard,12,2/11/2022,9/7/2023,573,Germany,44,Female,Tablet
+3,Premium,10,4/11/2022,9/7/2023,514,France,44,Female,Tablet
+1,Basic,13,5/11/2022,6/7/2023,392,Brazil,29,Male,Laptop
+2,Standard,12,6/11/2022,9/7/2023,453,Mexico,32,Female,Tablet
+3,Premium,11,7/11/2022,9/7/2023,423,Spain,31,Male,Smartphone
+1,Basic,14,8/11/2022,8/7/2023,361,Italy,27,Male,Laptop
+3,Premium,13,8/11/2022,6/7/2023,300,Spain,43,Female,Laptop
+1,Basic,14,9/11/2022,10/7/2023,391,Spain,48,Male,Tablet
+2,Standard,15,9/11/2022,9/7/2023,361,United States,37,Female,Tablet
+2,Standard,11,5/11/2022,8/7/2023,453,Canada,42,Male,Smartphone
+1,Basic,11,4/11/2022,7/7/2023,452,United States,40,Male,Tablet
+3,Premium,13,10/19/2022,9/7/2023,323,United States,37,Female,Tablet
+1,Basic,12,12/10/2022,9/7/2023,271,Canada,31,Male,Smartphone
+2,Standard,11,3/10/2022,9/7/2023,546,United Kingdom,30,Male,Smart TV
+3,Premium,15,9/28/2022,8/7/2023,313,Australia,51,Female,Smartphone
+1,Basic,15,9/17/2022,9/7/2023,355,Germany,42,Female,Laptop
+3,Premium,13,9/16/2022,8/7/2023,325,France,37,Female,Smartphone
+1,Basic,14,9/15/2022,9/7/2023,357,Brazil,44,Female,Smartphone
+2,Standard,11,9/14/2022,8/7/2023,327,Mexico,37,Male,Tablet
+2,Standard,11,9/15/2022,9/7/2023,357,Spain,44,Male,Smartphone
+1,Basic,11,6/9/2022,9/7/2023,455,Italy,40,Male,Tablet
+3,Premium,15,8/28/2022,9/7/2023,375,Spain,27,Male,Smart TV
+1,Basic,12,7/8/2022,8/7/2023,395,Spain,31,Male,Smart TV
+2,Standard,15,7/8/2022,10/7/2023,456,United States,39,Female,Smartphone
+3,Premium,12,6/8/2022,9/7/2023,456,Canada,47,Female,Tablet
+1,Basic,15,7/30/2022,9/7/2023,404,United States,30,Male,Smart TV
+3,Premium,12,7/30/2022,8/7/2023,373,United States,35,Male,Laptop
+1,Basic,14,7/30/2022,10/7/2023,434,Canada,39,Male,Smartphone
+2,Standard,15,7/19/2022,8/7/2023,384,United Kingdom,29,Female,Tablet
+2,Standard,11,7/17/2022,10/7/2023,447,Australia,28,Male,Laptop
+1,Basic,11,12/7/2022,8/7/2023,243,Germany,39,Male,Tablet
+3,Premium,10,11/7/2022,10/7/2023,334,France,34,Male,Smart TV
+1,Basic,14,10/7/2022,8/7/2023,304,Brazil,47,Male,Smart TV
+2,Standard,14,10/7/2022,11/7/2023,396,Mexico,47,Female,Smart TV
+3,Premium,13,8/7/2022,8/7/2023,365,Spain,46,Male,Smart TV
+1,Basic,12,9/7/2022,9/7/2023,365,Italy,31,Male,Smart TV
+3,Premium,10,9/7/2022,8/7/2023,334,Spain,41,Female,Smart TV
+1,Basic,10,9/7/2022,11/7/2023,426,Spain,30,Female,Smartphone
+2,Standard,11,10/7/2022,8/7/2023,304,United States,41,Male,Tablet
+2,Standard,12,12/7/2022,8/7/2023,243,Canada,48,Female,Laptop
+1,Basic,10,7/13/2022,9/7/2023,421,United States,35,Female,Laptop
+3,Premium,13,7/16/2022,10/7/2023,448,United States,41,Female,Laptop
+1,Basic,10,7/17/2022,7/7/2023,355,Canada,39,Female,Smart TV
+2,Standard,10,7/26/2022,9/7/2023,408,United Kingdom,45,Male,Laptop
+3,Premium,10,7/31/2022,9/7/2023,403,Australia,41,Male,Laptop
+1,Basic,13,3/8/2022,10/7/2023,578,Germany,28,Male,Laptop
+3,Premium,10,8/15/2022,7/7/2023,326,France,28,Female,Tablet
+1,Basic,15,8/18/2022,10/7/2023,415,Brazil,48,Male,Smart TV
+2,Standard,10,8/27/2022,8/7/2023,345,Mexico,40,Female,Smart TV
+2,Standard,12,8/29/2022,10/7/2023,404,Spain,39,Male,Smart TV
+1,Basic,12,5/9/2022,7/7/2023,424,Italy,27,Male,Smartphone
+3,Premium,10,6/9/2022,11/7/2023,516,Spain,32,Female,Smart TV
+1,Basic,10,9/14/2022,8/7/2023,327,Spain,38,Male,Laptop
+2,Standard,10,9/16/2022,9/7/2023,356,United States,41,Female,Laptop
+3,Premium,10,9/18/2022,10/7/2023,384,Canada,32,Female,Laptop
+1,Basic,12,9/23/2022,11/7/2023,410,United States,37,Male,Tablet
+1,Basic,12,9/25/2022,8/7/2023,316,United States,50,Female,Laptop
+1,Basic,10,6/10/2022,9/7/2023,454,Canada,48,Female,Laptop
+2,Standard,11,9/10/2022,10/7/2023,392,United Kingdom,37,Male,Tablet
+3,Premium,13,11/10/2022,11/7/2023,362,Australia,46,Female,Laptop
+1,Basic,13,12/10/2022,8/7/2023,240,Germany,46,Male,Laptop
+1,Basic,15,10/13/2022,9/7/2023,329,France,39,Male,Smart TV
+3,Premium,13,10/17/2022,10/7/2023,355,Brazil,42,Female,Smart TV
+2,Standard,11,10/19/2022,10/7/2023,353,Mexico,41,Female,Smartphone
+2,Standard,10,10/21/2022,7/7/2023,259,Spain,28,Male,Smart TV
+1,Basic,14,10/23/2022,9/7/2023,319,Italy,43,Male,Tablet
+3,Premium,14,10/25/2022,10/7/2023,347,Spain,45,Female,Smart TV
+2,Standard,10,10/27/2022,9/7/2023,315,Spain,45,Male,Smart TV
+1,Basic,13,10/31/2022,7/7/2023,249,United States,48,Male,Smartphone
+2,Standard,12,2/11/2022,9/7/2023,573,Canada,30,Male,Laptop
+3,Premium,11,4/11/2022,10/7/2023,544,United States,51,Female,Smart TV
+1,Basic,12,5/11/2022,9/7/2023,484,United States,48,Female,Smartphone
+3,Premium,13,6/11/2022,7/7/2023,391,Canada,41,Female,Smart TV
+2,Standard,11,7/11/2022,10/7/2023,453,United Kingdom,37,Female,Smartphone
+1,Basic,11,8/11/2022,9/7/2023,392,Australia,43,Male,Laptop
+2,Standard,15,8/11/2022,8/7/2023,361,Germany,51,Male,Laptop
+3,Premium,10,9/11/2022,7/7/2023,299,France,34,Female,Smartphone
+1,Basic,10,9/11/2022,10/7/2023,391,Brazil,35,Female,Smartphone
+2,Standard,12,5/11/2022,9/7/2023,484,Mexico,45,Female,Smart TV
+3,Premium,12,5/11/2022,10/7/2023,514,Spain,31,Male,Smart TV
+1,Basic,15,2/11/2022,8/7/2023,542,Italy,50,Female,Laptop
+3,Premium,12,10/30/2022,9/7/2023,312,Spain,41,Male,Smartphone
+1,Basic,11,10/30/2022,9/7/2023,312,Spain,42,Female,Laptop
+2,Standard,11,10/24/2022,9/7/2023,318,United States,41,Male,Tablet
+2,Standard,14,8/10/2022,8/7/2023,362,Canada,34,Male,Tablet
+1,Basic,13,4/10/2022,9/7/2023,515,United States,35,Female,Smartphone
+3,Premium,10,9/28/2022,9/7/2023,344,United States,48,Male,Smartphone
+1,Basic,11,9/22/2022,9/7/2023,350,Canada,39,Female,Smart TV
+2,Standard,14,9/19/2022,9/7/2023,353,United Kingdom,37,Female,Laptop
+3,Premium,10,9/13/2022,9/7/2023,359,Australia,31,Male,Tablet
+1,Basic,14,5/9/2022,9/7/2023,486,Germany,29,Female,Laptop
+3,Premium,10,8/20/2022,9/7/2023,383,France,36,Male,Tablet
+1,Basic,10,10/8/2022,8/7/2023,303,Brazil,32,Male,Smartphone
+2,Standard,10,10/8/2022,11/7/2023,395,Mexico,31,Female,Smartphone
+2,Standard,14,6/8/2022,9/7/2023,456,Spain,31,Male,Laptop
+1,Basic,12,3/8/2022,10/7/2023,578,Italy,29,Male,Smart TV
+3,Premium,10,1/8/2022,9/7/2023,607,Spain,48,Male,Smart TV
+1,Basic,14,7/28/2022,10/7/2023,436,Spain,46,Male,Tablet
+2,Standard,15,7/22/2022,9/7/2023,412,United States,35,Female,Smartphone
+3,Premium,11,7/22/2022,11/7/2023,473,Canada,37,Female,Tablet
+1,Basic,12,7/20/2022,9/7/2023,414,United States,45,Female,Tablet
+3,Premium,15,12/7/2022,10/7/2023,304,United States,48,Female,Laptop
+1,Basic,10,12/7/2022,9/7/2023,274,Canada,44,Female,Laptop
+2,Standard,14,10/7/2022,11/7/2023,396,United Kingdom,47,Female,Laptop
+2,Standard,12,11/7/2022,8/7/2023,273,Australia,35,Male,Smart TV
+1,Basic,10,11/7/2022,9/7/2023,304,Germany,35,Female,Smartphone
+3,Premium,11,9/7/2022,8/7/2023,334,France,35,Male,Smartphone
+1,Basic,15,10/7/2022,11/7/2023,396,Brazil,49,Female,Laptop
+2,Standard,11,12/7/2022,8/7/2023,243,Mexico,50,Female,Tablet
+3,Premium,14,7/13/2022,9/7/2023,421,Spain,44,Male,Smartphone
+1,Basic,14,7/15/2022,9/7/2023,419,Italy,47,Female,Tablet
+3,Premium,15,7/16/2022,11/7/2023,479,Spain,46,Female,Laptop
+1,Basic,11,7/19/2022,8/7/2023,384,Spain,39,Female,Laptop
+2,Standard,15,7/23/2022,10/7/2023,441,United States,34,Male,Laptop
+2,Standard,10,7/28/2022,9/7/2023,406,Canada,31,Female,Smart TV
+1,Basic,10,8/14/2022,11/7/2023,450,United States,46,Female,Laptop
+3,Premium,15,8/18/2022,8/7/2023,354,United States,30,Male,Smart TV
+1,Basic,12,8/23/2022,12/7/2023,471,Canada,29,Male,Tablet
+2,Standard,12,8/27/2022,9/7/2023,376,United Kingdom,42,Male,Tablet
+3,Premium,13,1/9/2022,10/7/2023,636,Australia,27,Female,Smartphone
+1,Basic,15,2/9/2022,9/7/2023,575,Germany,33,Male,Laptop
+3,Premium,13,4/9/2022,12/7/2023,607,France,45,Female,Smart TV
+1,Basic,13,11/9/2022,9/7/2023,302,Brazil,50,Male,Tablet
+2,Standard,10,9/16/2022,9/7/2023,356,Mexico,42,Female,Tablet
+2,Standard,10,9/19/2022,11/7/2023,414,Spain,29,Male,Tablet
+1,Basic,12,9/20/2022,12/7/2023,443,Italy,31,Female,Tablet
+3,Premium,13,5/10/2022,9/7/2023,485,Spain,42,Female,Smartphone
+1,Basic,10,7/10/2022,9/7/2023,424,Spain,44,Female,Laptop
+2,Standard,10,10/10/2022,11/7/2023,393,United States,34,Male,Smart TV
+3,Premium,13,12/10/2022,11/7/2023,332,Canada,40,Female,Smart TV
+1,Basic,10,10/13/2022,8/7/2023,298,United States,38,Male,Smart TV
+1,Basic,15,10/15/2022,9/7/2023,327,United States,42,Female,Tablet
+1,Basic,10,10/17/2022,11/7/2023,386,Canada,47,Male,Tablet
+2,Standard,15,10/18/2022,10/7/2023,354,United Kingdom,29,Female,Tablet
+3,Premium,11,10/20/2022,8/7/2023,291,Australia,29,Male,Laptop
+1,Basic,14,10/22/2022,10/7/2023,350,Germany,44,Female,Smart TV
+1,Basic,12,10/25/2022,11/7/2023,378,France,31,Male,Tablet
+3,Premium,14,10/27/2022,9/7/2023,315,Brazil,48,Female,Smartphone
+2,Standard,14,1/11/2022,7/7/2023,542,Mexico,32,Female,Laptop
+2,Standard,13,2/11/2022,11/7/2023,634,Spain,28,Female,Tablet
+1,Basic,11,4/11/2022,10/7/2023,544,Italy,36,Female,Smartphone
+3,Premium,10,6/11/2022,9/7/2023,453,Spain,28,Female,Smartphone
+2,Standard,14,7/11/2022,7/7/2023,361,Spain,32,Female,Smart TV
+1,Basic,15,8/11/2022,10/7/2023,422,United States,50,Female,Smartphone
+2,Standard,12,9/11/2022,10/7/2023,391,Canada,44,Male,Tablet
+3,Premium,14,10/11/2022,10/7/2023,361,United States,44,Female,Smartphone
+1,Basic,14,9/11/2022,9/7/2023,361,United States,47,Male,Laptop
+3,Premium,15,9/11/2022,10/7/2023,391,Canada,39,Female,Smart TV
+2,Standard,11,7/11/2022,10/7/2023,453,United Kingdom,44,Female,Tablet
+1,Basic,12,3/11/2022,10/7/2023,575,Australia,46,Female,Tablet
+2,Standard,10,4/11/2022,8/7/2023,483,Germany,31,Female,Laptop
+3,Premium,12,1/11/2022,10/7/2023,634,France,33,Female,Tablet
+1,Basic,13,10/27/2022,9/7/2023,315,Brazil,27,Male,Laptop
+2,Standard,10,10/23/2022,10/7/2023,349,Mexico,34,Male,Smart TV
+3,Premium,14,10/14/2022,9/7/2023,328,Spain,48,Male,Laptop
+1,Basic,14,9/28/2022,10/7/2023,374,Italy,39,Female,Smart TV
+3,Premium,14,9/25/2022,9/7/2023,347,Spain,39,Male,Laptop
+1,Basic,11,9/23/2022,10/7/2023,379,Spain,48,Female,Smart TV
+2,Standard,12,9/23/2022,9/7/2023,349,United States,37,Female,Tablet
+2,Standard,14,9/14/2022,11/7/2023,419,Canada,40,Male,Laptop
+1,Basic,14,5/9/2022,9/7/2023,486,United States,41,Female,Smartphone
+3,Premium,12,8/13/2022,9/7/2023,390,United States,35,Female,Smartphone
+1,Basic,15,12/8/2022,9/7/2023,273,Canada,46,Male,Smartphone
+2,Standard,10,10/8/2022,11/7/2023,395,United Kingdom,28,Female,Tablet
+3,Premium,14,5/8/2022,9/7/2023,487,Australia,29,Female,Laptop
+1,Basic,10,4/8/2022,12/7/2023,608,Germany,46,Female,Tablet
+3,Premium,11,7/28/2022,9/7/2023,406,France,35,Male,Laptop
+1,Basic,12,7/24/2022,11/7/2023,471,Brazil,27,Male,Smart TV
+2,Standard,11,7/22/2022,9/7/2023,412,Mexico,38,Male,Laptop
+2,Standard,13,7/22/2022,12/7/2023,503,Spain,43,Male,Smart TV
+1,Basic,15,7/19/2022,9/7/2023,415,Italy,31,Female,Smartphone
+3,Premium,13,7/17/2022,10/7/2023,447,Spain,29,Female,Tablet
+1,Basic,10,7/16/2022,9/7/2023,418,Spain,34,Female,Tablet
+2,Standard,11,12/7/2022,12/7/2023,365,United States,39,Male,Smartphone
+3,Premium,14,12/7/2022,8/7/2023,243,Canada,34,Female,Smartphone
+1,Basic,14,7/13/2022,10/7/2023,451,United States,51,Male,Tablet
+3,Premium,14,7/13/2022,9/7/2023,421,United States,47,Female,Tablet
+1,Basic,12,7/13/2022,11/7/2023,482,Canada,46,Male,Smartphone
+2,Standard,12,7/14/2022,8/7/2023,389,United Kingdom,46,Female,Smartphone
+2,Standard,14,7/15/2022,10/7/2023,449,Australia,47,Female,Smartphone
+1,Basic,14,7/16/2022,9/7/2023,418,Germany,40,Female,Smart TV
+3,Premium,12,7/18/2022,11/7/2023,477,France,41,Female,Tablet
+1,Basic,12,7/23/2022,9/7/2023,411,Brazil,30,Female,Smartphone
+2,Standard,12,7/25/2022,11/7/2023,470,Mexico,31,Female,Tablet
+3,Premium,14,7/30/2022,9/7/2023,404,Spain,42,Male,Smart TV
+1,Basic,12,6/8/2022,11/7/2023,517,Italy,46,Female,Tablet
+3,Premium,13,8/14/2022,8/7/2023,358,Spain,34,Female,Smart TV
+1,Basic,14,8/23/2022,12/7/2023,471,Spain,42,Male,Laptop
+2,Standard,13,8/27/2022,9/7/2023,376,United States,45,Male,Tablet
+2,Standard,12,8/29/2022,10/7/2023,404,Canada,30,Male,Smart TV
+1,Basic,12,1/9/2022,9/7/2023,606,United States,44,Male,Smartphone
+3,Premium,10,7/9/2022,7/13/2023,369,United States,37,Male,Smart TV
+1,Basic,10,9/13/2022,10/7/2023,389,Canada,43,Male,Smart TV
+2,Standard,12,9/14/2022,10/7/2023,388,United Kingdom,46,Male,Smartphone
+3,Premium,11,9/17/2022,12/7/2023,446,Australia,40,Female,Tablet
+1,Basic,11,9/23/2022,12/7/2023,440,Germany,45,Female,Smartphone
+3,Premium,10,9/27/2022,9/7/2023,345,France,48,Female,Smartphone
+1,Basic,10,3/10/2022,10/7/2023,576,Brazil,43,Female,Tablet
+2,Standard,13,10/10/2022,11/7/2023,393,Mexico,48,Male,Smart TV
+2,Standard,10,12/10/2022,11/7/2023,332,Spain,32,Female,Smartphone
+1,Basic,12,10/14/2022,8/7/2023,297,Italy,38,Male,Laptop
+3,Premium,13,10/16/2022,10/7/2023,356,Spain,50,Male,Smartphone
+1,Basic,11,10/18/2022,11/7/2023,385,Spain,33,Female,Laptop
+2,Standard,14,10/20/2022,10/7/2023,352,United States,27,Male,Smart TV
+3,Premium,12,10/22/2022,8/7/2023,289,Canada,47,Male,Tablet
+1,Basic,12,10/25/2022,10/7/2023,347,United States,35,Female,Smart TV
+1,Basic,12,10/26/2022,11/7/2023,377,United States,41,Male,Tablet
+1,Basic,14,10/29/2022,10/7/2023,343,Canada,39,Female,Smart TV
+2,Standard,13,10/31/2022,7/7/2023,249,United Kingdom,46,Female,Smartphone
+3,Premium,14,4/11/2022,11/7/2023,575,Australia,33,Female,Smartphone
+1,Basic,11,6/11/2022,10/7/2023,483,Germany,30,Male,Laptop
+1,Basic,13,7/11/2022,10/7/2023,453,France,46,Male,Tablet
+3,Premium,15,8/11/2022,9/7/2023,392,Brazil,42,Female,Tablet
+2,Standard,11,9/11/2022,11/7/2023,422,Mexico,28,Female,Tablet
+2,Standard,10,10/11/2022,10/7/2023,361,Spain,40,Male,Smart TV
+1,Basic,14,10/11/2022,10/7/2023,361,Italy,31,Female,Smart TV
+3,Premium,13,10/11/2022,9/7/2023,331,Spain,27,Male,Laptop
+2,Standard,14,9/11/2022,10/7/2023,391,Spain,45,Female,Tablet
+1,Basic,10,9/11/2022,10/7/2023,391,United States,49,Female,Smart TV
+2,Standard,12,6/11/2022,11/7/2023,514,Canada,28,Male,Tablet
+3,Premium,14,3/11/2022,8/7/2023,514,United States,33,Male,Smart TV
+1,Basic,15,10/27/2022,11/7/2023,376,United States,38,Male,Smart TV
+3,Premium,15,10/28/2022,10/7/2023,344,Canada,44,Male,Tablet
+2,Standard,15,10/18/2022,10/7/2023,354,United Kingdom,34,Female,Laptop
+1,Basic,15,4/10/2022,9/7/2023,515,Australia,35,Male,Laptop
+2,Standard,10,9/29/2022,10/7/2023,373,Germany,47,Male,Tablet
+3,Premium,12,9/29/2022,10/7/2023,373,France,30,Male,Smartphone
+1,Basic,12,9/23/2022,10/7/2023,379,Brazil,50,Female,Smart TV
+2,Standard,12,9/17/2022,9/7/2023,355,Mexico,32,Male,Laptop
+3,Premium,14,12/9/2022,12/7/2023,363,Spain,36,Female,Smart TV
+1,Basic,14,8/16/2022,10/7/2023,417,Italy,40,Female,Smart TV
+3,Premium,15,8/16/2022,9/7/2023,387,Spain,39,Male,Smartphone
+1,Basic,11,8/13/2022,10/7/2023,420,Spain,28,Male,Smartphone
+2,Standard,12,12/8/2022,11/7/2023,334,United States,29,Female,Smart TV
+2,Standard,14,8/13/2022,9/7/2023,390,Canada,49,Male,Tablet
+1,Basic,14,7/30/2022,12/7/2023,495,United States,40,Male,Laptop
+3,Premium,12,7/25/2022,10/7/2023,439,United States,29,Male,Laptop
+1,Basic,14,7/25/2022,11/7/2023,470,Canada,35,Female,Tablet
+2,Standard,14,7/26/2022,10/7/2023,438,United Kingdom,44,Male,Smartphone
+3,Premium,11,7/25/2022,7/13/2023,353,Australia,39,Male,Smart TV
+1,Basic,12,7/23/2022,9/7/2023,411,Germany,27,Male,Smart TV
+3,Premium,11,7/18/2022,11/7/2023,477,France,31,Male,Smart TV
+1,Basic,13,7/13/2022,10/7/2023,451,Brazil,39,Female,Laptop
+2,Standard,13,7/13/2022,12/7/2023,512,Mexico,44,Male,Laptop
+2,Standard,10,7/13/2022,9/7/2023,421,Spain,48,Female,Tablet
+1,Basic,11,7/13/2022,11/7/2023,482,Italy,27,Male,Smartphone
+3,Premium,13,7/13/2022,9/7/2023,421,Spain,27,Male,Laptop
+1,Basic,14,7/14/2022,11/7/2023,481,Spain,41,Male,Smart TV
+2,Standard,15,7/15/2022,9/7/2023,419,United States,44,Female,Tablet
+3,Premium,12,7/16/2022,12/7/2023,509,Canada,29,Female,Tablet
+1,Basic,13,7/18/2022,9/7/2023,416,United States,42,Female,Smartphone
+3,Premium,15,7/21/2022,11/7/2023,474,United States,45,Female,Smart TV
+1,Basic,11,7/24/2022,9/7/2023,410,Canada,39,Female,Tablet
+2,Standard,15,7/29/2022,12/7/2023,496,United Kingdom,41,Female,Tablet
+2,Standard,10,6/8/2022,10/7/2023,486,Australia,41,Female,Laptop
+1,Basic,15,11/8/2022,11/7/2023,364,Germany,41,Male,Smartphone
+3,Premium,14,8/16/2022,9/7/2023,387,France,47,Female,Smart TV
+1,Basic,10,8/21/2022,7/13/2023,326,Brazil,49,Female,Smartphone
+2,Standard,12,8/22/2022,10/7/2023,411,Mexico,29,Male,Laptop
+3,Premium,10,8/24/2022,10/7/2023,409,Spain,33,Male,Tablet
+1,Basic,13,2/9/2022,12/7/2023,666,Italy,45,Female,Smart TV
+3,Premium,13,6/9/2022,7/13/2023,399,Spain,41,Female,Laptop
+1,Basic,11,11/9/2022,10/7/2023,332,Spain,31,Male,Laptop
+2,Standard,15,9/16/2022,10/7/2023,386,United States,51,Male,Tablet
+2,Standard,11,9/22/2022,12/7/2023,441,Canada,43,Female,Smartphone
+1,Basic,12,9/26/2022,12/7/2023,437,United States,33,Female,Laptop
+3,Premium,10,2/10/2022,9/7/2023,574,United States,47,Female,Smartphone
+1,Basic,13,4/10/2022,10/7/2023,545,Canada,40,Female,Laptop
+2,Standard,14,9/10/2022,12/7/2023,453,United Kingdom,34,Female,Smartphone
+3,Premium,15,11/10/2022,11/7/2023,362,Australia,40,Male,Tablet
+1,Basic,15,10/15/2022,9/7/2023,327,Germany,38,Male,Laptop
+3,Premium,11,10/16/2022,10/7/2023,356,France,47,Male,Smart TV
+1,Basic,13,10/18/2022,11/7/2023,385,Brazil,29,Male,Smart TV
+2,Standard,14,10/21/2022,10/7/2023,351,Mexico,49,Female,Smartphone
+2,Standard,12,10/22/2022,8/7/2023,289,Spain,40,Male,Smart TV
+1,Basic,12,10/25/2022,11/7/2023,378,Italy,51,Female,Laptop
+3,Premium,11,10/29/2022,11/7/2023,374,Spain,51,Female,Tablet
+1,Basic,12,10/30/2022,10/7/2023,342,Spain,50,Female,Smart TV
+2,Standard,10,4/11/2022,9/7/2023,514,United States,47,Female,Laptop
+3,Premium,10,5/11/2022,12/7/2023,575,Canada,40,Male,Smart TV
+1,Basic,15,7/11/2022,10/7/2023,453,United States,35,Female,Smart TV
+1,Basic,15,8/11/2022,10/7/2023,422,United States,37,Female,Smart TV
+1,Basic,15,9/11/2022,10/7/2023,391,Canada,30,Male,Tablet
+2,Standard,15,10/11/2022,11/7/2023,392,United Kingdom,47,Female,Tablet
+3,Premium,12,11/11/2022,10/7/2023,330,Australia,35,Male,Smartphone
+1,Basic,14,10/11/2022,11/7/2023,392,Germany,33,Male,Tablet
+1,Basic,13,10/11/2022,9/7/2023,331,France,51,Female,Laptop
+3,Premium,12,11/11/2022,11/7/2023,361,Brazil,31,Female,Tablet
+2,Standard,10,7/11/2022,11/7/2023,484,Mexico,48,Female,Laptop
+2,Standard,11,4/11/2022,11/7/2023,575,Spain,40,Male,Laptop
+1,Basic,15,10/31/2022,9/7/2023,311,Italy,41,Female,Laptop
+3,Premium,15,10/29/2022,11/7/2023,374,Spain,41,Male,Laptop
+2,Standard,12,10/20/2022,10/7/2023,352,Spain,28,Female,Laptop
+1,Basic,13,10/14/2022,11/7/2023,389,United States,45,Female,Laptop
+2,Standard,11,12/10/2022,10/7/2023,301,Canada,32,Female,Laptop
+3,Premium,10,1/10/2022,11/7/2023,666,United States,31,Male,Tablet
+1,Basic,10,9/25/2022,10/7/2023,377,United States,40,Female,Tablet
+3,Premium,10,9/23/2022,10/7/2023,379,Canada,40,Female,Smartphone
+2,Standard,14,9/19/2022,9/7/2023,353,United Kingdom,50,Male,Tablet
+1,Basic,12,2/9/2022,12/7/2023,666,Australia,41,Male,Smartphone
+2,Standard,10,8/30/2022,10/7/2023,403,Germany,43,Male,Tablet
+3,Premium,15,8/16/2022,9/7/2023,387,France,43,Male,Tablet
+1,Basic,11,8/15/2022,10/7/2023,418,Brazil,36,Female,Smartphone
+2,Standard,15,8/16/2022,11/7/2023,448,Mexico,48,Male,Smart TV
+3,Premium,15,1/8/2022,10/7/2023,637,Spain,33,Female,Smartphone
+1,Basic,14,7/27/2022,7/14/2023,352,Italy,30,Female,Smart TV
+3,Premium,14,7/26/2022,10/7/2023,438,Spain,37,Female,Laptop
+1,Basic,13,7/26/2022,11/7/2023,469,Spain,49,Male,Smart TV
+2,Standard,15,7/27/2022,11/7/2023,468,United States,47,Female,Smartphone
+2,Standard,10,7/26/2022,7/13/2023,352,Canada,45,Female,Tablet
+1,Basic,11,7/23/2022,9/7/2023,411,United States,50,Male,Smart TV
+3,Premium,12,7/20/2022,11/7/2023,475,United States,36,Male,Smartphone
+1,Basic,14,7/14/2022,10/7/2023,450,Canada,37,Male,Smart TV
+2,Standard,15,7/14/2022,12/7/2023,511,United Kingdom,38,Female,Tablet
+3,Premium,10,7/14/2022,10/7/2023,450,Australia,40,Male,Smart TV
+1,Basic,13,7/13/2022,12/7/2023,512,Germany,38,Female,Smart TV
+3,Premium,14,7/14/2022,10/7/2023,450,France,46,Female,Tablet
+1,Basic,10,7/15/2022,11/7/2023,480,Brazil,40,Female,Smartphone
+2,Standard,13,7/16/2022,10/7/2023,448,Mexico,34,Male,Smart TV
+2,Standard,12,7/18/2022,12/7/2023,507,Spain,39,Female,Smartphone
+1,Basic,13,7/19/2022,10/7/2023,445,Italy,47,Male,Smartphone
+3,Premium,15,7/22/2022,12/7/2023,503,Spain,41,Male,Laptop
+1,Basic,12,7/27/2022,9/7/2023,407,Spain,47,Female,Tablet
+2,Standard,13,2/8/2022,7/13/2023,520,United States,50,Male,Smartphone
+3,Premium,10,10/8/2022,10/7/2023,364,Canada,31,Male,Tablet
+1,Basic,13,8/15/2022,11/7/2023,449,United States,41,Male,Smartphone
+3,Premium,11,8/18/2022,11/7/2023,446,United States,31,Female,Laptop
+1,Basic,12,8/20/2022,7/14/2023,328,Canada,41,Female,Smart TV
+2,Standard,12,8/23/2022,11/7/2023,441,United Kingdom,28,Male,Tablet
+2,Standard,14,8/24/2022,10/7/2023,409,Australia,40,Female,Smartphone
+1,Basic,11,8/30/2022,7/13/2023,317,Germany,34,Female,Smart TV
+3,Premium,10,6/9/2022,7/13/2023,399,France,37,Male,Smartphone
+1,Basic,13,9/13/2022,10/7/2023,389,Brazil,30,Female,Laptop
+2,Standard,12,9/18/2022,10/7/2023,384,Mexico,32,Male,Tablet
+3,Premium,14,9/22/2022,12/7/2023,441,Spain,41,Male,Smartphone
+1,Basic,13,9/28/2022,12/7/2023,435,Italy,42,Female,Tablet
+3,Premium,13,3/10/2022,9/7/2023,546,Spain,40,Male,Laptop
+1,Basic,11,5/10/2022,10/7/2023,515,Spain,30,Female,Smartphone
+2,Standard,14,9/10/2022,12/7/2023,453,United States,43,Male,Laptop
+2,Standard,14,10/15/2022,11/7/2023,388,Canada,31,Female,Tablet
+1,Basic,15,10/16/2022,9/7/2023,326,United States,45,Male,Smartphone
+3,Premium,10,10/18/2022,11/7/2023,385,United States,33,Male,Smart TV
+1,Basic,14,10/19/2022,12/7/2023,414,Canada,41,Male,Smartphone
+2,Standard,11,10/22/2022,11/7/2023,381,United Kingdom,37,Male,Smart TV
+3,Premium,12,10/23/2022,9/7/2023,319,Australia,40,Female,Smartphone
+1,Basic,10,10/29/2022,12/7/2023,404,Germany,36,Male,Tablet
+3,Premium,14,10/30/2022,11/7/2023,373,France,28,Male,Smart TV
+1,Basic,12,3/11/2022,11/7/2023,606,Brazil,38,Male,Smartphone
+2,Standard,11,4/11/2022,9/7/2023,514,Mexico,36,Female,Tablet
+2,Standard,12,5/11/2022,12/7/2023,575,Spain,47,Female,Smart TV
+1,Basic,12,7/11/2022,10/7/2023,453,Italy,35,Female,Laptop
+3,Premium,14,9/11/2022,11/7/2023,422,Spain,29,Female,Tablet
+1,Basic,14,10/11/2022,10/7/2023,361,Spain,49,Female,Smart TV
+2,Standard,11,11/11/2022,12/7/2023,391,United States,34,Male,Smart TV
+3,Premium,13,11/11/2022,11/7/2023,361,Canada,37,Male,Smart TV
+1,Basic,14,10/11/2022,11/7/2023,392,United States,50,Male,Smart TV
+1,Basic,12,11/11/2022,9/7/2023,300,United States,38,Male,Smart TV
+1,Basic,15,12/11/2022,11/7/2023,331,Canada,37,Female,Smart TV
+2,Standard,12,7/11/2022,11/7/2023,484,United Kingdom,34,Male,Laptop
+3,Premium,13,4/11/2022,11/7/2023,575,Australia,30,Male,Smart TV
+1,Basic,13,3/11/2022,11/7/2023,606,Germany,35,Male,Laptop
+1,Basic,12,1/11/2022,11/7/2023,665,France,39,Male,Tablet
+3,Premium,10,10/29/2022,11/7/2023,374,Brazil,47,Female,Tablet
+2,Standard,13,10/26/2022,11/7/2023,377,Mexico,40,Female,Laptop
+2,Standard,12,10/25/2022,10/7/2023,347,Spain,33,Male,Smart TV
+1,Basic,12,10/22/2022,7/13/2023,264,Italy,32,Female,Smartphone
+3,Premium,13,10/16/2022,10/7/2023,356,Spain,32,Male,Smart TV
+2,Standard,10,10/15/2022,10/7/2023,357,Spain,30,Female,Smart TV
+1,Basic,12,9/19/2022,11/7/2023,414,United States,49,Male,Tablet
+2,Standard,13,9/16/2022,12/7/2023,447,Canada,39,Female,Smartphone
+3,Premium,15,8/9/2022,10/7/2023,424,United States,45,Male,Laptop
+1,Basic,14,8/21/2022,12/7/2023,473,United States,43,Male,Smartphone
+3,Premium,10,8/20/2022,10/7/2023,413,Canada,41,Male,Smartphone
+2,Standard,10,10/8/2022,11/7/2023,395,United Kingdom,38,Female,Tablet
+1,Basic,13,7/31/2022,11/7/2023,464,Australia,34,Female,Smartphone
+2,Standard,15,7/30/2022,7/14/2023,349,Germany,38,Male,Laptop
+3,Premium,11,7/31/2022,10/7/2023,433,France,48,Male,Tablet
+1,Basic,11,7/30/2022,12/7/2023,495,Brazil,38,Female,Smart TV
+2,Standard,10,7/30/2022,11/7/2023,465,Mexico,34,Female,Laptop
+3,Premium,10,7/27/2022,7/13/2023,351,Spain,44,Female,Tablet
+1,Basic,11,7/21/2022,10/7/2023,443,Italy,39,Male,Smartphone
+3,Premium,10,7/20/2022,12/7/2023,505,Spain,43,Female,Smartphone
+1,Basic,13,7/16/2022,10/7/2023,448,Spain,49,Female,Smart TV
+2,Standard,10,7/16/2022,12/7/2023,509,United States,48,Female,Smart TV
+2,Standard,11,7/14/2022,11/7/2023,481,Canada,47,Female,Tablet
+1,Basic,12,7/14/2022,7/13/2023,364,United States,27,Female,Laptop
+3,Premium,14,7/15/2022,10/7/2023,449,United States,40,Female,Smartphone
+1,Basic,11,7/16/2022,12/7/2023,509,Canada,43,Female,Smart TV
+2,Standard,15,7/18/2022,10/7/2023,446,United Kingdom,30,Female,Laptop
+3,Premium,13,7/19/2022,7/13/2023,359,Australia,43,Female,Smart TV
+1,Basic,13,7/22/2022,10/7/2023,442,Germany,49,Male,Laptop
+3,Premium,13,7/25/2022,12/7/2023,500,France,47,Male,Smartphone
+1,Basic,13,7/26/2022,11/7/2023,469,Brazil,33,Male,Smartphone
+2,Standard,15,4/8/2022,7/14/2023,462,Mexico,48,Female,Smartphone
+2,Standard,13,12/8/2022,11/7/2023,334,Spain,31,Male,Laptop
+1,Basic,13,8/14/2022,11/7/2023,450,Italy,30,Male,Tablet
+3,Premium,14,8/16/2022,7/13/2023,331,Spain,34,Female,Smartphone
+1,Basic,12,8/17/2022,7/14/2023,331,Spain,37,Male,Smartphone
+2,Standard,11,8/22/2022,11/7/2023,442,United States,44,Female,Smart TV
+3,Premium,13,8/26/2022,11/7/2023,438,Canada,28,Female,Smart TV
+1,Basic,11,6/9/2022,7/13/2023,399,United States,47,Male,Smartphone
+3,Premium,11,9/9/2022,7/13/2023,307,United States,43,Male,Smart TV
+1,Basic,12,9/17/2022,10/7/2023,385,Canada,51,Male,Tablet
+2,Standard,14,9/19/2022,11/7/2023,414,United Kingdom,50,Male,Laptop
+2,Standard,11,9/24/2022,7/13/2023,292,Australia,40,Female,Smartphone
+1,Basic,11,9/29/2022,12/7/2023,434,Germany,31,Female,Laptop
+3,Premium,15,3/10/2022,10/7/2023,576,France,29,Female,Smartphone
+1,Basic,15,7/10/2022,10/7/2023,454,Brazil,38,Female,Tablet
+2,Standard,14,10/14/2022,7/13/2023,272,Mexico,47,Male,Tablet
+3,Premium,15,10/16/2022,12/7/2023,417,Spain,30,Male,Tablet
+1,Basic,13,10/18/2022,10/7/2023,354,Italy,42,Male,Laptop
+3,Premium,12,10/19/2022,12/7/2023,414,Spain,49,Male,Smart TV
+1,Basic,14,10/20/2022,12/7/2023,413,Spain,50,Female,Tablet
+2,Standard,11,10/22/2022,11/7/2023,381,United States,51,Male,Smart TV
+2,Standard,11,10/25/2022,9/7/2023,317,Canada,47,Male,Smartphone
+1,Basic,13,10/27/2022,12/7/2023,406,United States,36,Female,Smartphone
+3,Premium,12,10/30/2022,11/7/2023,373,United States,30,Female,Laptop
+1,Basic,12,1/11/2022,11/7/2023,665,Canada,34,Female,Tablet
+2,Standard,10,5/11/2022,10/7/2023,514,United Kingdom,35,Female,Tablet
+3,Premium,14,7/11/2022,12/7/2023,514,Australia,30,Male,Smart TV
+1,Basic,14,8/11/2022,11/7/2023,453,Germany,30,Male,Tablet
+3,Premium,11,10/11/2022,12/7/2023,422,France,41,Female,Smartphone
+1,Basic,15,11/11/2022,10/7/2023,330,Brazil,39,Female,Smartphone
+2,Standard,14,12/11/2022,12/7/2023,361,Mexico,30,Male,Tablet
+2,Standard,12,11/11/2022,12/7/2023,391,Spain,36,Female,Smart TV
+1,Basic,11,11/11/2022,12/7/2023,391,Italy,33,Female,Smartphone
+3,Premium,11,12/11/2022,10/7/2023,300,Spain,35,Female,Tablet
+1,Basic,14,11/11/2022,12/7/2023,391,Spain,46,Male,Tablet
+2,Standard,12,7/11/2022,11/7/2023,484,United States,51,Female,Tablet
+3,Premium,13,5/11/2022,12/7/2023,575,Canada,42,Female,Smartphone
+1,Basic,13,2/11/2022,11/7/2023,634,United States,30,Female,Smart TV
+1,Basic,10,10/31/2022,7/13/2023,255,United States,45,Male,Smartphone
+1,Basic,15,10/29/2022,11/7/2023,374,Canada,27,Male,Smartphone
+2,Standard,10,10/25/2022,11/7/2023,378,United Kingdom,41,Male,Smart TV
+3,Premium,14,10/23/2022,10/7/2023,349,Australia,35,Male,Tablet
+1,Basic,10,10/17/2022,7/13/2023,269,Germany,30,Male,Laptop
+1,Basic,11,10/16/2022,11/7/2023,387,France,35,Female,Laptop
+3,Premium,12,5/10/2022,11/7/2023,546,Brazil,47,Female,Smartphone
+2,Standard,15,9/17/2022,11/7/2023,416,Mexico,41,Male,Laptop
+2,Standard,12,9/17/2022,12/7/2023,446,Spain,48,Female,Tablet
+1,Basic,12,6/9/2022,11/7/2023,516,Italy,32,Female,Smart TV
+3,Premium,13,8/30/2022,7/15/2023,319,Spain,35,Female,Smart TV
+2,Standard,11,8/29/2022,11/7/2023,435,Spain,31,Female,Smartphone
+1,Basic,12,8/25/2022,7/13/2023,322,United States,45,Female,Smartphone
+2,Standard,14,3/8/2022,11/7/2023,609,Canada,38,Female,Laptop
+3,Premium,12,2/8/2022,7/14/2023,521,United States,34,Male,Smartphone
+1,Basic,15,2/8/2022,11/7/2023,637,United States,37,Female,Smartphone
+3,Premium,12,1/8/2022,7/13/2023,551,Canada,27,Female,Smart TV
+2,Standard,13,7/31/2022,11/7/2023,464,United Kingdom,44,Female,Tablet
+1,Basic,10,7/22/2022,7/13/2023,356,Australia,46,Male,Smart TV
+2,Standard,14,7/22/2022,11/7/2023,473,Germany,37,Male,Smart TV
+3,Premium,14,7/19/2022,7/13/2023,359,France,44,Male,Tablet
+1,Basic,15,7/17/2022,11/7/2023,478,Brazil,29,Male,Smart TV
+2,Standard,13,7/16/2022,7/13/2023,362,Mexico,28,Female,Laptop
+3,Premium,14,7/16/2022,11/7/2023,479,Spain,50,Male,Smart TV
+1,Basic,13,7/16/2022,7/13/2023,362,Italy,39,Male,Laptop
+3,Premium,10,7/16/2022,11/7/2023,479,Spain,34,Female,Smart TV
+1,Basic,14,7/17/2022,12/7/2023,508,Spain,40,Male,Smart TV
+2,Standard,12,7/19/2022,11/7/2023,476,United States,30,Male,Laptop
+2,Standard,14,7/20/2022,7/14/2023,359,Canada,41,Female,Laptop
+1,Basic,12,7/21/2022,10/7/2023,443,United States,39,Male,Tablet
+3,Premium,15,7/23/2022,12/7/2023,502,United States,51,Male,Smartphone
+1,Basic,15,3/8/2022,7/14/2023,493,Canada,28,Female,Smartphone
+2,Standard,12,6/8/2022,7/15/2023,402,United Kingdom,30,Female,Tablet
+3,Premium,11,10/8/2022,12/7/2023,425,Australia,30,Female,Smartphone
+1,Basic,10,8/13/2022,11/7/2023,451,Germany,44,Female,Tablet
+3,Premium,12,8/15/2022,7/14/2023,333,France,29,Female,Smart TV
+1,Basic,11,8/19/2022,7/14/2023,329,Brazil,28,Female,Tablet
+2,Standard,10,8/22/2022,11/7/2023,442,Mexico,48,Male,Tablet
+2,Standard,11,8/28/2022,11/7/2023,436,Spain,42,Female,Smart TV
+1,Basic,14,6/9/2022,7/13/2023,399,Italy,39,Male,Smartphone
+3,Premium,14,9/16/2022,7/13/2023,300,Spain,44,Female,Smart TV
+1,Basic,11,9/18/2022,11/7/2023,415,Spain,49,Male,Smart TV
+2,Standard,12,9/23/2022,11/7/2023,410,United States,49,Female,Smart TV
+3,Premium,10,9/28/2022,7/13/2023,288,Canada,36,Female,Laptop
+1,Basic,14,9/29/2022,12/7/2023,434,United States,50,Female,Laptop
+3,Premium,10,7/10/2022,10/7/2023,454,United States,49,Female,Smartphone
+1,Basic,11,8/10/2022,12/7/2023,484,Canada,36,Male,Smartphone
+2,Standard,13,10/10/2022,7/13/2023,276,United Kingdom,28,Female,Laptop
+2,Standard,15,10/14/2022,12/7/2023,419,Australia,45,Female,Smartphone
+1,Basic,14,10/16/2022,10/7/2023,356,Germany,31,Female,Smartphone
+3,Premium,11,10/18/2022,12/7/2023,415,France,46,Male,Tablet
+1,Basic,14,10/21/2022,12/7/2023,412,Brazil,27,Male,Tablet
+2,Standard,13,10/24/2022,12/7/2023,409,Mexico,43,Male,Tablet
+3,Premium,10,10/27/2022,9/7/2023,315,Spain,51,Female,Smart TV
+1,Basic,13,10/29/2022,7/13/2023,257,Italy,47,Female,Smartphone
+3,Premium,15,10/31/2022,12/7/2023,402,Spain,48,Female,Tablet
+1,Basic,14,4/11/2022,7/13/2023,458,Spain,31,Female,Tablet
+2,Standard,15,6/11/2022,11/7/2023,514,United States,48,Female,Smartphone
+2,Standard,10,8/11/2022,7/13/2023,336,Canada,36,Male,Smartphone
+1,Basic,10,9/11/2022,11/7/2023,422,United States,38,Female,Tablet
+3,Premium,13,11/11/2022,7/13/2023,244,United States,39,Male,Smartphone
+1,Basic,11,12/11/2022,10/7/2023,300,Canada,48,Male,Tablet
+2,Standard,12,12/11/2022,12/7/2023,361,United Kingdom,30,Female,Smart TV
+3,Premium,12,12/11/2022,12/7/2023,361,Australia,30,Male,Smart TV
+1,Basic,15,12/11/2022,7/13/2023,214,Germany,35,Female,Smart TV
+3,Premium,13,11/13/2022,12/7/2023,389,France,41,Male,Laptop
+1,Basic,11,11/13/2022,7/13/2023,242,Brazil,40,Female,Smart TV
+2,Standard,10,12/11/2022,11/7/2023,331,Mexico,50,Male,Smart TV
+2,Standard,12,5/11/2022,12/7/2023,575,Spain,42,Female,Smartphone
+1,Basic,15,3/11/2022,11/7/2023,606,Italy,30,Male,Tablet
+3,Premium,12,10/30/2022,7/14/2023,257,Spain,34,Male,Laptop
+1,Basic,15,10/26/2022,11/7/2023,377,Spain,40,Female,Smartphone
+2,Standard,14,10/24/2022,12/7/2023,409,United States,47,Female,Smartphone
+3,Premium,12,10/24/2022,11/7/2023,379,Canada,36,Male,Laptop
+1,Basic,13,10/20/2022,7/13/2023,266,United States,50,Female,Tablet
+1,Basic,10,10/17/2022,11/7/2023,386,United States,46,Male,Smartphone
+1,Basic,14,9/29/2022,7/14/2023,288,Canada,27,Female,Tablet
+2,Standard,12,9/28/2022,11/7/2023,405,United Kingdom,39,Female,Laptop
+3,Premium,10,6/9/2022,12/7/2023,546,Australia,49,Male,Smart TV
+1,Basic,12,5/9/2022,11/7/2023,547,Germany,37,Female,Tablet
+1,Basic,13,8/31/2022,7/15/2023,318,France,28,Male,Tablet
+3,Premium,12,8/30/2022,12/7/2023,464,Brazil,40,Male,Laptop
+2,Standard,10,8/16/2022,7/13/2023,331,Mexico,47,Male,Tablet
+2,Standard,11,8/16/2022,11/7/2023,448,Spain,51,Female,Laptop
+1,Basic,13,7/8/2022,7/14/2023,371,Italy,47,Male,Laptop
+3,Premium,10,5/8/2022,12/7/2023,578,Spain,33,Female,Laptop
+2,Standard,13,6/8/2022,7/14/2023,401,Spain,37,Female,Laptop
+1,Basic,15,7/28/2022,11/7/2023,467,United States,42,Male,Laptop
+2,Standard,11,7/29/2022,7/13/2023,349,Canada,50,Female,Smart TV
+3,Premium,14,7/25/2022,12/7/2023,500,United States,47,Female,Tablet
+1,Basic,10,7/25/2022,7/14/2023,354,United States,40,Female,Smartphone
+3,Premium,11,7/25/2022,12/7/2023,500,Canada,35,Male,Smart TV
+2,Standard,11,7/18/2022,7/13/2023,360,United Kingdom,29,Female,Smartphone
+1,Basic,11,7/17/2022,12/7/2023,508,Australia,48,Female,Smartphone
+2,Standard,10,7/17/2022,7/15/2023,363,Germany,35,Male,Smart TV
+3,Premium,13,7/18/2022,11/7/2023,477,France,41,Female,Smartphone
+1,Basic,14,7/19/2022,12/7/2023,506,Brazil,29,Female,Laptop
+2,Standard,11,7/20/2022,11/7/2023,475,Mexico,33,Male,Smart TV
+3,Premium,12,7/21/2022,7/15/2023,359,Spain,36,Male,Smart TV
+1,Basic,15,7/23/2022,12/7/2023,502,Italy,43,Female,Laptop
+3,Premium,14,7/25/2022,12/7/2023,500,Spain,28,Female,Smart TV
+1,Basic,15,4/8/2022,7/14/2023,462,Spain,33,Female,Smart TV
+2,Standard,12,9/8/2022,7/15/2023,310,United States,38,Male,Laptop
+2,Standard,13,12/8/2022,12/7/2023,364,Canada,48,Female,Tablet
+1,Basic,15,8/13/2022,12/7/2023,481,United States,35,Female,Smart TV
