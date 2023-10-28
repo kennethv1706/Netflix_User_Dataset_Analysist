@@ -72,7 +72,7 @@ The average age of Netflix users is around 38.79 with a median of 39. Given that
 Investigating the relationship between the number of Netflix subscribers and monthly revenue.
 A correlation value of 0.03 indicates a weak positive correlation between subscription type and monthly revenue. The relationship is not statistically significant.
 
-Conclusion:
+Final Conclusion:
 To increase Netflix's new user count by 15% over six months, marketing strategies could focus on enhancing device-specific user experience, particularly for basic subscribers, refining film recommendation algorithms by gender, providing exclusive early access benefits, offering promotional discounts during payday periods, and prioritizing language-specific content for countries with high user counts.
 
 
